@@ -15,6 +15,11 @@
 body {
   padding-top: 50px;
 }
+
+h1 {
+  font-size: 2em;
+}
+
 h1,h2,h3,h4,h5,h6 {
   font-weight: 100;
   text-transform: uppercase;
@@ -26,13 +31,23 @@ h2,h3,h4,h5,h6 {
   padding: 5px;
 }
 
+article {
+    width: 50%;
+}
+
 article,
 .content {
+
   height: 100%;
   min-height: 100%;
   padding: 10px;
+
+  li {
+    padding: 1px 5px 3px; 
+  }
+
   img {
-    max-width: 70%;
+    max-width: 120%;
     max-height: 70%;
     display: block;
     margin-left: auto;
@@ -133,5 +148,9 @@ ul.listing {
 @media (max-width: 767px) {
   #footer .col-span-2.next {
     margin-top: 30px;
+  }
+
+  article {
+    width: 100%;
   }
 }
