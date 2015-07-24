@@ -6,7 +6,7 @@ rdiscount:
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : Nicolas Kayser-Bril
 production_url : http://blog.nkb.fr
-description: "Thougths on journalism, media and other things by Nicolas Kayser-Bril."
+description: "Thoughts on journalism, media and other things by Nicolas Kayser-Bril."
 author :
   name : Nicolas Kayser-Bril
   github : n-kb
