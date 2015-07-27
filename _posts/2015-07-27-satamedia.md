@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dangerous ruling might forbid the publication of public data on individuals"
+title: "ECHR ruling might have a chilling effect on data journalism"
 category: posts
 ---
 
