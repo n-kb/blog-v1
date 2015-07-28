@@ -22,14 +22,22 @@ What is interesting for datajournalists is to be found in §48. There, the Finni
 
 The most troubling aspect of the ruling comes in judge's Nicolaou's opinion. For him, the balance between the need for privacy and the need for openness lied in the journalistic character of the Finnish company. Because they were not "solely" journalists, he refused to follow the traditionally broad definition of journalism of the court's jurisprudence. The status of the applicant played a role in the protection it enjoyed.
 
-The only dissenting judge, Nona Tsotsoria, is right to say that the ruling "is incompatible with democracy". That Mr Nicolaou is 70 and that Ms Tsotsoria is 42 might play a role in the matter. 
+The only dissenting judge, Nona Tsotsoria, is right to say that the ruling "is incompatible with democracy". That Mr Nicolaou is 70 and that Ms Tsotsoria is 42 might play a role in the matter.
 
 ***
 
 This ruling would be legitimate if the data being published by the Finnish companies had been private. After all, Europe places a higher price on privacy than the United States do. But the information was _already_ publicly accessible. The judges ruled that making public data on individuals more accessible and easier to use is illegal.
 
-In other words, if you prepare a database on individuals (e.g of the indictments of German politicians, or a list of the properties owned by the richest Greeks) based on public data, you might be sued, all the more so if you are not working in a newsroom. This is very worrisome.
+The Fair-Play Alliance, a Slovak NGO, face a similar lawsuit in 2011. It had released zNašichDaní.sk, a search engine that associated physical persons to public tenders their companies won using two public data sets. One of the persons in the database, Ms Považanová, complained that her being in the zNašichDaní database was a violation of her privacy, using the exact same arguments as the Finnish state <sup><a href="#note_fpa">[2]</a></sup>. A court of first instance ordered the website to remove information about Ms Považanová. The decision was quashed a few weeks later. That was in 2011. Today, the ECHR ruling would make it very hard for a court to reach the same conclusion and bring zNašichDaní.sk back up.
+
+***
+
+If you prepare a database on individuals (e.g of the indictments of German politicians, or a list of the properties owned by the richest Greeks) based on public data, you might be sued, all the more so if you are not working in a newsroom.
+
+
 
 ### Notes
 
 <a name="note_outlaw"></a>1. Read [the full post here](http://www.out-law.com/en/articles/2015/july/privacy-right-more-important-than-journalistic-freedom-to-use-publicly-available-information-says-european-court-/).
+
+<a name="note_fpa"></a>2. Read [the analysis of the ePSI Platform](http://www.epsiplatform.eu/content/slovak-privacy-commissioner-not-impressed-open-data).
