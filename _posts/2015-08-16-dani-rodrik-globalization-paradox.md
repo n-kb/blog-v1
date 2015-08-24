@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dani Rodrik's Gloablization Paradox"
+title: "Dani Rodrik's Globalization Paradox"
 category: posts
 ---
 
