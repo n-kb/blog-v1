@@ -48,6 +48,8 @@ If your audience can relate to a pan-European set of ideas and references, then 
 
 Heralded by _The Guardian_, some newsrooms now translate stories in the language of its audience. _Die Zeit_'s [German-Greek front page](http://www.zeit.de/2015/27/griechenland-zukunft-brief-referendum) in July 2015 was noteworthy. While it remains a positive evolution, it does not qualify as European journalism.
 
+Politico.eu, Euractiv or EU Observer are successful European outlets, but they are European insofar as they cover European institutions or cater to employees of European institutions. They will never have the agenda-setting power of Le Monde, L'Espresso and 26 other market leaders combined. 
+
 #### Networks of local journalists are the solution
 
 European journalism is needed. It is not there yet because European journalists do not look around, because the English language and British people have too much weight and because the traditional pan-European approach to content (translations) is doomed to failure.
