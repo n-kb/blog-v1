@@ -40,7 +40,7 @@ This drive towards recruiting native English speakers means that Brits, Irishmen
 
 #### Translations will ruin you
 
-Euronews and, to a lesser extent, Cafébabel, a 6-language magazine for the Erasmus generation, translate all their content in as many languages as possible. The obvious problem lies in cost. Translators do not come cheap. Even if you have a network of volunteers, as Cafébabel or VoxEU do, you still need organizational power to find translators and vet their work. The resources you put in translation do not go into marketing, for instance. And if you plan on creating a new brand, you will need as much marketing as possible.
+VoxEurop (formerly PressEurop) and, to a lesser extent, Cafébabel, a 6-language magazine for the Erasmus generation, translate all their content in as many languages as possible. The obvious problem lies in cost. Translators do not come cheap. Even if you have a network of volunteers, as Cafébabel or VoxEurop do, you still need organizational power to find translators and vet their work. The resources you put in translation do not go into marketing, for instance. And if you plan on creating a new brand, you will need as much marketing as possible.
 
 More importantly, a translated text will have little resonance with a local audience. A story, even translated, will not be read in the same way by your users in Kensington and in Varna. It needs to be localized, so that local agents are given preeminence, links to the local situation are highlighted and local comparisons are made. Today's Europe may be more integrated than ever, but the phrase "our archenemies from the 1980's" will not have the same meaning on both sides of the Iron Curtain.
 
