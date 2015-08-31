@@ -4,7 +4,7 @@ title: "String of rulings bodes ill for the future of journalism in Europe"
 category: posts
 ---
 
-During the summer of 2015, European governments have hit hard against journalists. In Germany, Netzpolitik was almost charged with high treason. In Turkey, censorship of Twitter was stepped up, while Russia banned (and quickly unbanned) Wikipedia. The French Patriot Act entered into force. 
+During the summer of 2015, European governments hit hard against journalists. In Germany, Netzpolitik was almost charged with high treason. In Turkey, censorship of Twitter was stepped up, while Russia banned (and quickly unbanned) Wikipedia. The French Patriot Act entered into force. 
 
 While branches of power 1 and 2 (executive and legislative) have a long history of attacking free speech, branch number 3 (judiciary) has long been Europeans' best defense. Things are changing, and fast. Judges are taking the wrong view on what information is in the digital age. New rulings threaten to set European journalism back by a decade.
 
@@ -22,7 +22,7 @@ Databases and algorithms grow in importance by the day and journalists keep up b
 
 The recent rulings from Strasbourg, Cologne and Luxembourg demote such journalism to the rank of data processing. This deprives datajournalism from the protections enjoyed by journalists in Europe. It would require them to obtain the consent of politicians and businesspeople before they can add their names to a database, for instance <sup><a href="#note_directive95">[7]</a></sup>. It would require them to ask an online service for permission before they could scrape their data.
 
-The rulings do not specifically tie the hands of journalists but they pave the way for new claimants to sue some recent datajournalism projects. zNasichDani.sk, a Slovak platform that lets users check on the owners of companies awarded public tenders, faced similar charges in 2011, for instance <sup><a href="#note_znasichdani">[8]</a></sup>. The ruling that let it remain online then could easily be overturned now. The OffshoreLeaks or LuxLeaks databases, which published the names of owners of bank accounts in the British Virgin Islands and documents from contracts passed between large companies and the government of Luxembourg, would also fall foul of the law under the current jurisprudence. 
+The rulings do not specifically tie the hands of journalists but they pave the way for new claimants to sue some recent datajournalism projects. zNasichDani.sk, a Slovak platform that lets users check on the owners of companies awarded public tenders, was sued on privacy grounds in 2011, for instance <sup><a href="#note_znasichdani">[8]</a></sup>. The ruling that let it remain online then could easily be overturned now. The OffshoreLeaks or LuxLeaks databases, which published the names of owners of bank accounts in the British Virgin Islands and documents from contracts passed between large companies and the government of Luxembourg, would also fall foul of the law under the current jurisprudence. 
 
 Lawmakers need to urgently change their definition of journalism. Algorithms play a vital role in our lives, from deciding whose friends you can read updates from to finding a dating partner and detecting terrorism suspects from their browsing history. To check that these algorithms do not misbehave, journalists need to code their own. They need to build databases and make them available to the public. They need to disclose as many documents as they deem necessary.
 
