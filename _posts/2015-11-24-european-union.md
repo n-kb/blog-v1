@@ -4,7 +4,7 @@ title: "Living without the European Union"
 category: posts
 ---
 
-In the past decade, the European Union has failed every test it was put to. It failed at providing citizens with freedom of movement, it failed at gaining popular legitimacy, it failed at ensuring the future of the euro and it might fail at keeping peace. More precisely, the whole European project as designed by Jean Monnet in the first half of the 20<sup>th</sup> century has failed. The EU failed at providing Europeans what it promised, but this failure should not be seen as a failure for Europe.
+In the past decade, the European Union has failed every test it was put to. It failed at providing citizens with freedom of movement, it failed at gaining popular legitimacy, it failed at ensuring the future of the euro and it might fail at keeping peace. More broadly, the foundations of the European project designed by Jean Monnet in the first half of the 20<sup>th</sup> century have gone. The EU failed at providing Europeans what it promised, but this failure should not be seen as a failure for Europe.
 
 ## Failures
 
