@@ -8,7 +8,7 @@ In the past decade, the European Union has failed every test it was put to. It f
 
 ## Failures
 
-In the paragraphs below, I explore the failure of the EU to provide some of its core missions. I try to go beyond the obvious failures the EU displayed in facing the financial crisis (2009-present), increased refugee arrivals (Summer 2015), border management (Visegrad countries set up their own border management task force in October 2015 even though this is _exactly_ the mandate of Frontex) or increased terrorist activity (November 2015).
+In the paragraphs below, I explore the failure of the EU to fulfill some of its core missions. I try to go beyond the obvious failures the EU displayed in facing the financial crisis (2009-present), increased refugee arrivals (Summer 2015), border management (Visegrad countries set up their own border management task force in October 2015 even though this is _exactly_ the mandate of Frontex) or increased terrorist activity (November 2015).
 
 ### Freedom of Movement
 
