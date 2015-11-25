@@ -68,6 +68,7 @@ The end of the EU should not be seen as failure in itself. Rather, it is a refle
 
 Jean Monnet's plan ultimately failed when a new political generation came to power, defending new values. The next generation of Europe builders will have to devise a system impervious to value shifts among the ruling class.
 
+<a name="notes"></a>
 ### Notes
 
 1. Visit [SchengenWatch.eu](https://schengenwatch.eu), even though it is rarely updated.
