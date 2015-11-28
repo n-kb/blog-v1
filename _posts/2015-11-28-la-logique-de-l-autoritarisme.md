@@ -56,6 +56,7 @@ On peut imaginer que 2015 marque le début d'une nouvelle parenthèse réactionn
 
 Si une telle évolution se produisait, les idées des Lumières devraient être conservées dans des bibliothèques d'opposition et des "[universités volantes](https://en.wikipedia.org/wiki/Flying_University)". Compte-tenu de la facilité avec laquelle un gouvernement autoritaire peut censurer les services en ligne, il faut _aujourd'hui_ s'assurer que les travaux à transmettre à la prochaine génération qui s'opposera à la Réaction sont disponibles hors-ligne, voire sur support physique, dans des formats ouverts.
 
+<a name="notes"></a>
 ### Notes
 
 1. Sur l'absence de chiffrement dans les communications des terroristes, lire [Signs Point to Unencrypted Communications Between Terror Suspects](https://theintercept.com/2015/11/18/signs-point-to-unencrypted-communications-between-terror-suspects/). L'interview d'Abaaoud dans _Dabiq_ est chez Gawker: [Paris Massacre Mastermind Bragged About Infiltrating Europe in February Interview](http://gawker.com/paris-massacre-mastermind-bragged-about-infiltrating-eu-1743509467).
