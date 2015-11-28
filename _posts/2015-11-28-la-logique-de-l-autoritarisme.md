@@ -20,7 +20,7 @@ Déploiement de forces inutile, nationalisme instrumentalisé par le gouvernemen
 
 ## Comment en est-on arrivé là?
 
-Les attentats n'ont joué qu'un rôle de déclancheur dans la mise en place de l'autoritarisme. Le gouvernement français aurait tout à fait pu se comporter comme le gouvernement norvégien en 2011 et affirmer son attachement à l'état de droit et aux droits fondamentaux tout en cherchant à comprendre comment l'attentat avait pu se produire.
+Les attentats n'ont joué qu'un rôle de déclencheur dans la mise en place de l'autoritarisme. Le gouvernement français aurait tout à fait pu se comporter comme le gouvernement norvégien en 2011 et affirmer son attachement à l'état de droit et aux droits fondamentaux tout en cherchant à comprendre comment l'attentat avait pu se produire.
 
 Le corps politique français utilise les attentats du 13 novembre pour légitimer son pouvoir. La stratégie économique du gouvernement n'a pas fonctionné (le chômage augmente) et aucune de ses autres actions ne s'est soldée par une victoire concrète (ses actions militaires à l'étranger et sa politique sociale n'ont pas recueilli d'adhésion particulière). La défense des citoyens contre une menace - quelle qu'en soit la nature - devient naturellement le dernier moyen de légitimation disponible.
 
