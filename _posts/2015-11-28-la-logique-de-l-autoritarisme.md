@@ -16,7 +16,7 @@ Le résultat - nul - des centaines de perquisitions menées par la police depuis
 
 Enfin, le gouvernement a annoncé que l'état d'urgence pourrait être reconduit au delà de 3 mois<sup><a href="#notes">[8]</a></sup>. C'est là encore une nouveauté dans l'Europe de l'après-guerre. Une telle déclaration n'a rien à voir avec l'existence d'une menace. Elle n'est là que pour signifier aux administrés que des actes de résistance pourraient leur coûter très cher. On peut se permettre de risquer une assignation à résidence de quelques semaines. Sur plusieurs mois, c'est la destruction assurée de toute relation professionnelle et personnelle. Les parlementaires sont eux aussi avertis: Le gouvernement fait courir une rumeur comme quoi la carrière des opposants à l'état d'urgence est d'ores et déjà terminée<sup><a href="#notes">[9]</a></sup>.
 
-Déploiement de forces inutile, nationalisme instrumentalisé par le gouvernement, suspention des droits fondamentaux et menaces: ce sont les signes d'un régime autoritaire. On peut imaginer que l'état de droit revienne rapidement. La logique de l'autoritarisme montre que ce ne sera pas si simple.
+Déploiement de forces inutile, nationalisme instrumentalisé par le gouvernement, suspension des droits fondamentaux et menaces: ce sont les signes d'un régime autoritaire. On peut imaginer que l'état de droit revienne rapidement. La logique de l'autoritarisme montre que ce ne sera pas si simple.
 
 ## Comment en est-on arrivé là?
 
