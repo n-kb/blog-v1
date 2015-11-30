@@ -4,7 +4,7 @@ title: "La logique de l'autoritarisme"
 category: posts
 ---
 
-Les attentats du 13 novembre 2015 ont été menés par un groupe communiquant sans chiffrement après que leur coordinateur a annoncé l'attaque en février dans un magazine de Daesh<sup><a href="#notes">[1]</a></sup>. Un service de renseignement efficace aurait dû lire _Dabiq_, le magazine en question, et placer le téléphone d'Abaaoud, le coordinateur, sous écoute. Ils ne l'ont pas fait.
+Les attentats du 13 novembre 2015 ont été menés par un groupe communiquant sans chiffrement après que leur coordinateur a annoncé l'attaque en février dans un magazine de Daesh<sup><a href="#notes">[1]</a></sup>. L'organisation de l'attaque n'avait rien d'exceptionnelle. Qu'elle ait pu avoir lieu révèle surtout l'incompétence des services de renseignement. 
 
 Après les attentats, la _seule_ chose à faire pour le gouvernement était d'exiger la démission des personnes responsables de ce "naufrage historique"<sup><a href="#notes">[2]</a></sup> des services de renseignement. Il ne l'a pas fait.
 
