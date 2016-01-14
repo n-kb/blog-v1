@@ -42,7 +42,7 @@ That a racist cartoon is so fiercely defended only reflects the racist sentiment
 
 <a name="notes"></a>
 ### Notes
-1. This sentence makes the use of the drawing legal under French law according to article L 122-5 du code de la propriété intellectuelle.
+1. In case you're wondering, I'm just adding this sentence to avoid any copyright issue (this is from article L 122-5 du code de la propriété intellectuelle).
 1. As of January 12, the German Federal police listed 32 suspects, among which 4 Syrians, [according to local news station WDR](http://www1.wdr.de/themen/aktuell/vorfaelle-hauptbahnhof-koeln-fakten-100.html). A [report in ZEIT](http://www.zeit.de/gesellschaft/zeitgeschehen/2016-01/koeln-silvester-uebergriffe-medien) from a week before (January 6) clearly documents how rumors around the events have been treated as facts by many.
 1. See here [a short article](http://www.le-toaster.fr/culture-g/dou-viennent-les-beaufs/) on how Cabu created and used _Les Beaufs_ (in French).
 1. As quoted in [this piece](http://lmsi.net/Philippe-Val-est-un-raciste).
