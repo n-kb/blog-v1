@@ -43,7 +43,7 @@ Qu'un dessin raciste soit défendu avec un tel acharnement est uniquement le ref
 <a name="notes"></a>
 ### Notes
 1. Cette phrase n'est là que pour rendre cet essai conforme à l'article L 122-5 du code de la propriété intellectuelle.
-1. Mon ami Florent Maurin [fait remarquer sur Facebook](https://www.facebook.com/nicolas.kayserbril/posts/446968652176754?comment_id=447210595485893&comment_tracking={%22tn%22%3A%22R0%22}) qu'on peut considérer les personnages du dessins comme des demandeurs d'asile et non comme des arabes. Si c'est le cas, une partie de mon argumentaire ne tient plus.
+1. Mon ami Florent Maurin [fait remarquer sur Facebook](https://www.facebook.com/nicolas.kayserbril/posts/446968652176754?comment_id=447210595485893) qu'on peut considérer les personnages du dessins comme des demandeurs d'asile et non comme des arabes. Si c'est le cas, une partie de mon argumentaire ne tient plus.
 1. Au 12 janvier, la police fédérale listait 32 suspects dont 4 Syriens, [selon la WDR](http://www1.wdr.de/themen/aktuell/vorfaelle-hauptbahnhof-koeln-fakten-100.html). Un [article de la ZEIT](http://www.zeit.de/gesellschaft/zeitgeschehen/2016-01/koeln-silvester-uebergriffe-medien) de la semaine précédente (6 janvier) documente précisément comment les rumeurs autour des évènements du 31 décembre ont été utilisées comme des faits.
 1. Voir ici ce [court article](http://www.le-toaster.fr/culture-g/dou-viennent-les-beaufs/) sur _Les Beaufs_ de Cabu.
 1. Cité dans [cet article](http://lmsi.net/Philippe-Val-est-un-raciste).
