@@ -45,7 +45,3 @@ Some great examples of collaboration with civil society include the French gover
 Other cases of civil society's collaboration with the government resulted in the total destruction of the former by the latter. This is what happened to intellectuals in the USSR, for instance (I certainly do not imply that theirs was an easy choice to make, quite to the contrary).
 
 Just like one cannot convince someone to change their world view through discussion, it can be more appropriate not to engage with an institution. If the three conditions laid out above are not met, I argue that the best option is _not_ to collaborate. Instead, resources should be devoted to documenting the actions of the institution for future confrontation, either within the institution or outside of it.
-
-### Notes
-
-Thanks Anastasia for igniting the discussion and providing some of the examples.
