@@ -4,7 +4,7 @@ title: "When to engage with adversarial organizations"
 category: posts
 ---
 
-I was recently invited to the [DiploHack](http://diplohack.brussels/), a hackathon on the topic of transparency for civil tech activists and diplomats of the European Union, hosted by the Council of the EU.
+I was recently invited to the [DiploHack](http://diplohack.brussels/), a hackathon on the topic of transparency for civic tech activists and diplomats of the European Union, hosted by the Council of the EU.
 
 First, a few words about the Council. This institution is what people mean when they describe the EU as an opaque bureaucracy led by unelected officials detached from the people. On most European legislation (and all legislation before 2009), the Council has the last word. It brings together ministers from all 28 member states. In most member states, ministers are unelected and accountable only to their prime minister - they are professional politicians above all. The Council takes decisions behind close doors, so that no one knows how it finds compromises. Most of the time, the Council refuses to communicate documents under the European freedom of information legislation. To oversimplify, the Council _is_ what's wrong about the EU.
 
