@@ -1,4 +1,5 @@
 pygments: true
+highlighter: rouge
 permalink: /:title
 rdiscount:
   extensions: [smart]
