@@ -1,4 +1,3 @@
-pygments: false
 highlighter: rouge
 permalink: /:title
 rdiscount:
