@@ -22,29 +22,31 @@ Sharing 40 years of Soviet occupation does provide for similarities. Goods from 
 
 There are other differences. 40 years behind an Iron Curtain prevented socialist countries from experiencing immigration from colonies of other European countries. Few Muslims<sup><a name='note_2' href='#foot_2'>2</a></sup> or Blacks live in post-socialist Europe (immigration from Vietnam and other countries under Soviet influence is another difference, but the scale of this immigration to socialist Europe was different).
 
-Post-socialist countries are finally different for what they did _not_ do. They did not colonize lands near or far away in the last century<sup><a name='note_3' href='#foot_3'>3</a></sup>. They are not heir to governments that cut the hands of millions, like Belgium did in the Congo<sup><a name='note_4' href='#foot_4'>4</a></sup>. They are not heir to governments that organized public beheading of independence fighters (sometimes in front of school children), like France did in Cameroon<sup><a name='note_5' href='#foot_5'>5</a></sup>. They are not heir to governments that shot down entire villages, like the Netherlands did in Indonesia<sup><a name='note_6' href='#foot_6'>6</a></sup>.
+Post-socialist countries are finally different for what they did _not_ do. They are not heir to governments that cut the hands of millions, like Belgium did in the Congo<sup><a name='note_3' href='#foot_3'>3</a></sup>. They are not heir to governments that organized public beheading of independence fighters (sometimes in front of school children), like France did in Cameroon<sup><a name='note_4' href='#foot_4'>4</a></sup>. They are not heir to governments that shot down entire villages, like the Netherlands did in Indonesia<sup><a name='note_5' href='#foot_5'>5</a></sup>.
 
 ### Where there is no difference
 
-These differences are real. But they do not apply to current politics. Unless one is studying infrastructure, immigration or colonialism, there is no need to distinguish between "Eastern" and "Western" Europe. When it comes to politics, the 11 countries of "Eastern Europe" are no different from their counterparts elsewhere in Europe.
+These differences are real. But they do not apply to the current economic situation or to politics. The crisis that erupted in 2008 showed that the split occurs more on North/South lines than East/West ones. Unless one is studying infrastructure, immigration or colonialism, there is no need to distinguish between "Eastern" and "Western" Europe. When it comes to politics, the 11 countries of "Eastern Europe" are no different from their counterparts elsewhere in Europe.
 
 Governments in Poland, Hungary and Slovakia do push far-right policies. Yet it is hard to distinguish these from the policies set up by Austria, which first closed the door to refugees in 2015. It's hard to distinguish anything especially "West-European" when Denmark forces refugees to pay for their asylum with the valuables they carry or when the British government says it hopes to do away with the European Charter of Human Rights.
 
-When journalists or analysts see an Eastern European trait to some of the policies of Warsaw and Budapest, they make a profound mistake that prevents them from seeing truly _European_ dynamics<sup><a name='note_7' href='#foot_7'>7</a></sup>. 
+When journalists or analysts see an Eastern European trait to some of the policies of Warsaw and Budapest, they make a profound mistake that prevents them from seeing truly _European_ dynamics<sup><a name='note_6' href='#foot_6'>6</a></sup>. 
 
 By looking to the socialist past to explain current trends in these countries, they fail to grasp the wider, European factors that influence politics. Nationalists in Poland and France use the same techniques and rely on the same feelings to push their agendas. There are differences, of course. But these differences are merely variations of the same rationale, not fundamental divergences.
 
-Why does this split between "Eastern" and "Western" Europe remain, 25 years after the collapse of the Soviet Union? I see two reasons. The first is the historical construct of Poland and, to a lesser extent, Czechoslovakia by France, Britain and Germany. The other is the political construct of "Western Europe" by reformists in post-socialist societies.
+Why do the concepts of "Eastern" and "Western" Europe remain, 25 years after the collapse of the Soviet Union, if the blocs they represent disappeared? I see two reasons. The first is the historical construct of "Eastern Europe" by Paris, London and Berlin as a group of inferior countries. The other is the political construct of "Western Europe" by reformists in post-socialist societies.
 
 ### Prejudice as an escape from guilt
 
-Much of the construction of Eastern Europe as a homogeneous area of second-class countries is the result of an almost unconscious search for a reason why France and Britain abandoned Czechoslovakia and Poland to Nazi Germany in 1938 and 1939. France and Britain were allied to Czechoslovakia and Poland but agreed to the annexation of the first and failed to meaningfully react when the second was invaded. Not respecting a contract that says "I'll cover your back no matter what" is pretty much the worst thing a government can do. But if you think of Poland and Czechoslovakia as inferior countries, it becomes normal to treat them as inferior partners. 
+Much of the construction of Eastern Europe as a homogeneous group of second-class countries is the result of an almost unconscious search for a reason why France and Britain abandoned Czechoslovakia and Poland to Nazi Germany in 1938 and 1939, and later, the whole bloc to Soviet Russia. France and Britain were allied to Czechoslovakia and Poland but agreed to the annexation of the first and failed to meaningfully react when the second was invaded. Not respecting a contract that says "I'll cover your back no matter what" is pretty much the worst thing a government can do. But if you think of Poland and Czechoslovakia as inferior countries, it becomes normal to treat them as inferior partners. 
 
-This construct of Poland and Czechoslovakia as inferior countries was started after the war and persists to this day. The construct gained traction because the needed material was available. The myths about Poland created by Nazi Germany were reused in French and British media without second thoughts. The most famous one is the Polish cavalry charge against German tanks, which, if you studied in Europe, you probably heard about in history class. The legend was created by German propaganda and keeps circulating, despite the fact that Poland fielded a modern army in 1939<sup><a name='note_8' href='#foot_8'>8</a></sup>. This legend has a purpose: it says that France and Britain could do nothing to help such a powerless army and it justifies their inaction.
+This construct of Poland and Czechoslovakia as inferior countries was started after the war and persists to this day. The construct gained traction because the needed material was available. The myths about Poland created by Nazi Germany were reused in French and British media without second thoughts. The most famous one is the Polish cavalry charge against German tanks, which, if you studied in Europe, you probably heard about in history class. The legend was created by German propaganda and keeps circulating, despite the fact that Poland fielded a modern army in 1939<sup><a name='note_7' href='#foot_7'>7</a></sup>. This legend has a purpose: it says that France and Britain could do nothing to help such a powerless army and it justifies their inaction.
 
-Another myth is Polish antisemitism. Poland is associated to antisemitism, for no reason other than German massacres perpetrated on what is now Polish soil. That extermination camps where in Poland was a Nazi decision, not a Polish one. No research shows that Poles played a more active role in the murder of Jews than others. If a country has a problem with antisemitism in Europe today, it is Greece (yes, really)<sup><a name='note_9' href='#foot_9'>9</a></sup>.
+Another myth is Polish antisemitism. Poland is associated to antisemitism, for no reason other than German massacres perpetrated on what is now Polish soil. That extermination camps where in Poland was a Nazi decision, not a Polish one. No research shows that Poles played a more active role in the murder of Jews than others. If a country has a problem with antisemitism in Europe today, it is Greece (yes, really)<sup><a name='note_8' href='#foot_8'>8</a></sup>.
 
-Treating Poland and Czechoslovakia (and, by extension, other countries of the Soviet bloc) as inferior countries is still standard practice. This was demonstrated by French president Jacques Chirac in 2003, when he told Eastern European governments that they were "not well-behaved"<sup><a name='note_10' href='#foot_10'>10</a></sup>. The metaphor of Eastern European countries as children remains a classic for journalists (the 2016 Quatremer piece mentioned above describes Eastern European governments countries as "adolescent").
+Treating Poland and Czechoslovakia (and, by extension, other countries of the Soviet bloc) as inferior is still standard practice. This was demonstrated by French president Jacques Chirac in 2003, when he told Eastern European governments that they were "not well-behaved", in response to their supporting the American invasion of Iraq<sup><a name='note_9' href='#foot_9'>9</a></sup>. The metaphor of Eastern European countries as children remains fair game for French journalists today (the 2016 piece mentioned in footnote 6 describes Eastern European countries as "adolescent")<sup><a name='note_10' href='#foot_10'>10</a></sup>.
+
+Ceasing to patronize post-socialist European countries by using the phrase "Eastern Europe" would mean, for Paris and London, a reassessment of their behavior in the 20<sup>th</sup> century. I see no politician in either capital ready to make that decision.
 
 ### The idealization of the West
 
@@ -58,7 +60,7 @@ While catching up, post-socialist countries surpassed the others in many way. Tr
 
 ### What can be done
 
-If you are a journalist or an analyst, stop using the term Eastern Europe. Today. If you work in an area where it makes sense to distinguish between post-socialist countries and the rest of Europe, use the phrase "post-socialist". It's clearer.
+If you are a journalist or an analyst, stop using the phrase Eastern Europe. If you work in an area where it makes sense to distinguish between post-socialist countries and the rest of Europe, use the phrase "post-socialist" and include East Germany. If you don't, use more specific geographical terms, or even the names of the countries themselves. 
 
 More generally, prejudice can be fought by increasing the scope and depth of exchanges between nationals of different countries. I do not believe that associations of interest, such as international joint-ventures or consortia of organizations vying for a common profit, have any impact on the perceptions participants have of each other. To open up to external influences, one must not be interested in the outcome of the encounter. The best way to change one's views about a foreign country is to learn the language, make friends there and explore the culture. There is a program for this, called Erasmus. It makes up less than 1.5% of the European budget. If governments wanted to truly unite Europe and do away with prejudice anchored in the 20<sup>th</sup> century, they should increase funding for the Erasmus program and develop exchange programs for pupils in high school.
 
@@ -74,28 +76,28 @@ More generally, prejudice can be fought by increasing the scope and depth of exc
 <a href='#note_2' name='foot_2'>2.</a> Turks in Bulgaria and Tatars in Ukraine are obviously citizens of these countries, but their story has nothing to do with the one of Muslims in France or Germany.
 
 
-<a href='#note_3' name='foot_3'>3.</a> Serbia is, obviously, the exception.
+<a href='#note_3' name='foot_3'>3.</a> Read _King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa_.
 
 
-<a href='#note_4' name='foot_4'>4.</a> Read _King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa_.
+<a href='#note_4' name='foot_4'>4.</a> Read _Kamerun! La guerre cachée de la France en Afrique noire_.
 
 
-<a href='#note_5' name='foot_5'>5.</a> Read _Kamerun! La guerre cachée de la France en Afrique noire_.
+<a href='#note_5' name='foot_5'>5.</a> For just one example of a Dutch war crime in Indonesia, read about [Rawagede massacre](https://archive.is/20160820/https://en.wikipedia.org/wiki/Rawagede_massacre) at Wikipedia.
 
 
-<a href='#note_6' name='foot_6'>6.</a> For just one example of a Dutch war crime in Indonesia, read about [Rawagede massacre](https://archive.is/20160820/https://en.wikipedia.org/wiki/Rawagede_massacre) at Wikipedia.
+<a href='#note_6' name='foot_6'>6.</a> For an example of such sloppy analysis, read [Populisme en Europe de l’Est : c’est davantage qu’une crise d’adolescence](https://archive.is/20160820/http://www.liberation.fr/planete/2016/06/03/populisme-en-europe-de-l-est-c-est-davantage-qu-une-crise-d-adolescence_1457218) by Jean Quatremer, published on June 3<sup>d</sup>.
 
 
-<a href='#note_7' name='foot_7'>7.</a> For an example of such sloppy analysis, read [Populisme en Europe de l’Est : c’est davantage qu’une crise d’adolescence](https://archive.is/20160820/http://www.liberation.fr/planete/2016/06/03/populisme-en-europe-de-l-est-c-est-davantage-qu-une-crise-d-adolescence_1457218) by Jean Quatremer, published on June 3<sup>d</sup>.
+<a href='#note_7' name='foot_7'>7.</a> For a quick explanation of the actual event, [read this](https://archive.is/20160820/http://www.historynet.com/polish-cavalry-charges-tanks.htm). For a longer version, read _The Eagle Unbowed: Poland and the Poles in the Second World War_.
 
 
-<a href='#note_8' name='foot_8'>8.</a> For a quick explanation of the actual event, [read this](https://archive.is/20160820/http://www.historynet.com/polish-cavalry-charges-tanks.htm). For a longer version, read _The Eagle Unbowed: Poland and the Poles in the Second World War_.
+<a href='#note_8' name='foot_8'>8.</a> Check out the [Anti-Defamation League's Global 100](https://archive.is/20160820/http://global100.adl.org), a comprehensive survey on antisemitism. While Poland ranks high, it is on par with neighbors and with France. Greece is the only country with a much higher score.
 
 
-<a href='#note_9' name='foot_9'>9.</a> Check out the [Anti-Defamation League's Global 100](https://archive.is/20160820/http://global100.adl.org), a comprehensive survey on antisemitism. While Poland ranks high, it is on par with neighbors and with France. Greece is the only country with a much higher score.
+<a href='#note_9' name='foot_9'>9.</a> Read [Jacques Chirac jette un froid à l'Est](https://archive.is/20160820/http://www.liberation.fr/evenement/2003/02/19/jacques-chirac-jette-un-froid-a-l-est_431400).
 
 
-<a href='#note_10' name='foot_10'>10.</a> Read [Jacques Chirac jette un froid à l'Est](https://archive.is/20160820/http://www.liberation.fr/evenement/2003/02/19/jacques-chirac-jette-un-froid-a-l-est_431400).
+<a href='#note_10' name='foot_10'>10.</a> It could be argued that the metaphor refers to the relatively young age of democracy in these countries. But this does not hold. First, no one talks of East Germany as a young democracy, even if cities like Leipzig or East-Berlin spent less time in democratic regimes in the 20<sup>th</sup> century than Bucharest or Warsaw. Similarly, no one talks of Spain or Portugal as children, despite their democracies being just 14 years older than the Czech Republic's.
 
 
 <a href='#note_11' name='foot_11'>11.</a> Read Timothy Snyder's _The Reconstruction of Nations_.
