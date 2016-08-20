@@ -46,7 +46,7 @@ Another myth is Polish antisemitism. Poland is associated to antisemitism, for n
 
 Treating Poland and Czechoslovakia (and, by extension, other countries of the Soviet bloc) as inferior is still standard practice. This was demonstrated by French president Jacques Chirac in 2003, when he told Eastern European governments that they were "not well-behaved", in response to their supporting the American invasion of Iraq<sup><a name='note_9' href='#foot_9'>9</a></sup>. The metaphor of Eastern European countries as children remains fair game for French journalists today (the 2016 piece mentioned in footnote 6 describes Eastern European countries as "adolescent")<sup><a name='note_10' href='#foot_10'>10</a></sup>.
 
-Ceasing to patronize post-socialist European countries by using the phrase "Eastern Europe" would mean, for Paris and London, a reassessment of their behavior in the 20<sup>th</sup> century. I see no politician in either capital ready to make that decision.
+Ceasing to patronize post-socialist European countries by using the phrase "Eastern Europe" would mean, for Paris and London, a reassessment of their behavior in the 20<sup>th</sup> century. I see no politician in either capital ready to take such a step.
 
 ### The idealization of the West
 
