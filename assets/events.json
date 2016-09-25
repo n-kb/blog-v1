@@ -1,0 +1,1874 @@
+[
+  {
+    "location": "Brussels, Belgium",
+    "text": "With Damien Van Achter",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-06-28T00:00:00.000Z",
+    "startdate": "2013-06-27T00:00:00.000Z",
+    "title": "Datajournalism at RTBF"
+  },
+  {
+    "location": "Bern, Switzerland",
+    "text": "With Mirko Lorenz",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-06-25T00:00:00.000Z",
+    "startdate": "2013-06-24T00:00:00.000Z",
+    "title": "Datajournalism at Tamedia"
+  },
+  {
+    "location": "Lilongwe, Malawi",
+    "text": "",
+    "type": "Training",
+    "url": "http://malawi.databootcamp.org/",
+    "enddate": "2013-06-14T00:00:00.000Z",
+    "startdate": "2013-06-11T00:00:00.000Z",
+    "title": "dataBootcamp Malawi"
+  },
+  {
+    "location": "Brussels, Belgium",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-06-07T00:00:00.000Z",
+    "startdate": "2013-06-05T00:00:00.000Z",
+    "title": "Datajournalism at AJPro"
+  },
+  {
+    "location": "Zurich, Switzerland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-05-28T00:00:00.000Z",
+    "startdate": "2013-05-27T00:00:00.000Z",
+    "title": "Datajournalism at Tamedia"
+  },
+  {
+    "location": "Ouagadougou, Burkina Faso",
+    "text": "I advised to the World Bank and gave a presentation as to how open data could make a difference in Burkina Faso.",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2013-05-24T00:00:00.000Z",
+    "startdate": "2013-05-23T00:00:00.000Z",
+    "title": "Open data initiative Burkina Faso"
+  },
+  {
+    "location": "Nantes, France",
+    "text": "",
+    "type": "Conference",
+    "url": "http://www.web2day-nantes.org/speakers/nicolas-kayserbril.html",
+    "enddate": "2013-05-17T00:00:00.000Z",
+    "startdate": "2013-05-16T00:00:00.000Z",
+    "title": "Web2day"
+  },
+  {
+    "location": "Graz, Austria",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-04-24T00:00:00.000Z",
+    "startdate": "2013-04-23T00:00:00.000Z",
+    "title": "Datajournalism at Styria"
+  },
+  {
+    "location": "Graz, Austria",
+    "text": "",
+    "type": "Conference",
+    "url": "http://nkb.fr/ddj-intro/",
+    "enddate": "2013-04-25T00:00:00.000Z",
+    "startdate": "2013-04-25T00:00:00.000Z",
+    "title": "Intro to datajournalism at FH Joanneum"
+  },
+  {
+    "location": "Sidi Abdellah, Algeria",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2013-04-17T00:00:00.000Z",
+    "startdate": "2013-04-17T00:00:00.000Z",
+    "title": "Open data at Algeria2.0"
+  },
+  {
+    "location": "Belgrade, Serbia",
+    "text": "With Pierre Romera",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-04-12T00:00:00.000Z",
+    "startdate": "2013-04-08T00:00:00.000Z",
+    "title": "Datajournalism with UNDP"
+  },
+  {
+    "location": "Metz, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-03-28T00:00:00.000Z",
+    "startdate": "2013-03-28T00:00:00.000Z",
+    "title": "Intro to datavisualization"
+  },
+  {
+    "location": "Lille, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-03-19T00:00:00.000Z",
+    "startdate": "2013-03-18T00:00:00.000Z",
+    "title": "Datajournalism at ESJ Lille"
+  },
+  {
+    "location": "Madrid, Spain",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2013-03-11T00:00:00.000Z",
+    "startdate": "2013-03-11T00:00:00.000Z",
+    "title": "Introduction to Datawrapper at Medialab Prado"
+  },
+  {
+    "location": "Madrid, Spain",
+    "text": "This 90-minute class was given to 2 different classes run by the amazing Mar Cabra.",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-03-13T00:00:00.000Z",
+    "startdate": "2013-03-12T00:00:00.000Z",
+    "title": "How to run a datajournalism business"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "Answer: Very reliable",
+    "type": "Interview",
+    "url": "http://levinvinteur.com/nicolas-kayser-bril-dans-ton-tchat/",
+    "enddate": "2013-02-04T00:00:00.000Z",
+    "startdate": "2013-02-04T00:00:00.000Z",
+    "title": "How reliable is Wikipedia? on Vinvinteur (France5)"
+  },
+  {
+    "location": "Paris, France",
+    "text": "With Tommaso Venturini",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-01-25T00:00:00.000Z",
+    "startdate": "2013-01-21T00:00:00.000Z",
+    "title": "Datajournalism at Ecole de Journalisme de Sciences-Po"
+  },
+  {
+    "location": "Paris, France",
+    "text": "Organized by WAN-IFRA",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2013-01-18T00:00:00.000Z",
+    "startdate": "2013-01-18T00:00:00.000Z",
+    "title": "Datajournalism at Le Figaro"
+  },
+  {
+    "location": "Paris, France",
+    "text": "Organized by WAN-IFRA",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-12-03T00:00:00.000Z",
+    "startdate": "2012-12-03T00:00:00.000Z",
+    "title": "Datajournalism at Le Figaro"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "At the 3d Data Science Day",
+    "type": "Conference",
+    "url": "http://datascienceday.wordpress.com/2012/12/14/3-dsday-on-data-in-journalism-slides-more/",
+    "enddate": "2012-12-07T00:00:00.000Z",
+    "startdate": "2012-12-07T00:00:00.000Z",
+    "title": "Teaching data literacy"
+  },
+  {
+    "location": "London, United Kingdom",
+    "text": "",
+    "type": "Conference",
+    "url": "http://www.newsrewired.com/2012/12/06/nicolas-kayser-bril-simple-tips-for-data-driven-journalism/",
+    "enddate": "2012-12-06T00:00:00.000Z",
+    "startdate": "2012-12-06T00:00:00.000Z",
+    "title": "News:Rewired"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Article",
+    "url": "http://datadrivenjournalism.net/news_and_analysis/How_to_Make_Money_with_Data_Journalism_in_the_US_and_Europe",
+    "enddate": "2013-05-20T00:00:00.000Z",
+    "startdate": "2013-05-20T00:00:00.000Z",
+    "title": "Making money with datajournalism"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "On the Huffington Post France",
+    "type": "Article",
+    "url": "http://www.huffingtonpost.fr/nicolas-kayserbril/cyberparc-corruption-algerie_b_3199235.html?just_reloaded=1",
+    "enddate": "2013-05-03T00:00:00.000Z",
+    "startdate": "2013-05-03T00:00:00.000Z",
+    "title": "Algérie: Bienvenue au Cyberparc-Potemkine"
+  },
+  {
+    "location": "Vilnius, Lithuania",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2012-11-24T00:00:00.000Z",
+    "startdate": "2012-11-24T00:00:00.000Z",
+    "title": "Data literacy for Transparency International"
+  },
+  {
+    "location": "Dakar, Senegal",
+    "text": "Organized by Index On Censorship",
+    "type": "Training",
+    "url": "",
+    "enddate": "2012-11-14T00:00:00.000Z",
+    "startdate": "2012-11-12T00:00:00.000Z",
+    "title": "Datajournalism"
+  },
+  {
+    "location": "Valenciennes, France",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-10-23T00:00:00.000Z",
+    "startdate": "2012-10-23T00:00:00.000Z",
+    "title": "Datajournalism at Labo Des Images"
+  },
+  {
+    "location": "Rennes, France",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-10-22T00:00:00.000Z",
+    "startdate": "2012-10-22T00:00:00.000Z",
+    "title": "Crowdsourcing at La Cantine"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2012-10-21T00:00:00.000Z",
+    "startdate": "2012-10-20T00:00:00.000Z",
+    "title": "Mentor at SNCF Hackathon"
+  },
+  {
+    "location": "Brussels, Belgium",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-10-04T00:00:00.000Z",
+    "startdate": "2012-10-04T00:00:00.000Z",
+    "title": "Hands-on intro to datajournalism at Neojournalism"
+  },
+  {
+    "location": "London, United Kingdom",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-10-02T00:00:00.000Z",
+    "startdate": "2012-10-01T00:00:00.000Z",
+    "title": "Strata"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-09-24T00:00:00.000Z",
+    "startdate": "2012-09-24T00:00:00.000Z",
+    "title": "Social Media Week: Presentation of Feowl"
+  },
+  {
+    "location": "Sarajevo, Bosnia-Herzegovina",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2012-09-12T00:00:00.000Z",
+    "startdate": "2012-09-05T00:00:00.000Z",
+    "title": "Datajournalism"
+  },
+  {
+    "location": "Strasbourg, France",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-09-04T00:00:00.000Z",
+    "startdate": "2012-09-04T00:00:00.000Z",
+    "title": "Intro to Datajournalism at ARTE"
+  },
+  {
+    "location": "Douala, Cameroon",
+    "text": "With Pierre Romera and others",
+    "type": "Project",
+    "url": "http://feowl.com",
+    "enddate": "2012-07-19T00:00:00.000Z",
+    "startdate": "2012-07-09T00:00:00.000Z",
+    "title": "Feowl"
+  },
+  {
+    "location": "Paris, France",
+    "text": "With Marion Kotlarski and Clara Kayser-Bril",
+    "type": "Project",
+    "url": "http://100yearsofworldcuisine.com/",
+    "enddate": "2011-05-16T00:00:00.000Z",
+    "startdate": "2011-05-16T00:00:00.000Z",
+    "title": "100 Years of World Cuisine"
+  },
+  {
+    "location": "Vienna, Austria",
+    "text": "",
+    "type": "Interview",
+    "url": "http://derstandard.at/1339638304793/Keine-eierlegende-Wollmilchsau-Vom-Datenjournalismus-und-der-Profitabilitaet",
+    "enddate": "2012-06-19T00:00:00.000Z",
+    "startdate": "2012-06-19T00:00:00.000Z",
+    "title": "Der Standard"
+  },
+  {
+    "location": "Paris, France",
+    "text": "With Pierre Romera",
+    "type": "Project",
+    "url": "http://www.youtube.com/watch?v=iiP5U1Urszs",
+    "enddate": "2011-03-07T00:00:00.000Z",
+    "startdate": "2011-03-07T00:00:00.000Z",
+    "title": "Influence Networks"
+  },
+  {
+    "location": "Washington, D.C., United States",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2011-05-02T00:00:00.000Z",
+    "startdate": "2011-05-02T00:00:00.000Z",
+    "title": "World Press Freedom Day"
+  },
+  {
+    "location": "Perugia, Italy",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-04-27T00:00:00.000Z",
+    "startdate": "2012-04-27T00:00:00.000Z",
+    "title": "Journalism Festival"
+  },
+  {
+    "location": "Douala, Cameroon",
+    "text": "Interview about Feowl.",
+    "type": "Interview",
+    "url": "http://www.rfi.fr/afrique/20120712-cameroun-feowl-internet-datajournalisme-crowdsourcing-electricite",
+    "enddate": "2012-07-12T00:00:00.000Z",
+    "startdate": "2012-07-12T00:00:00.000Z",
+    "title": "Radio France Internationale"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2011-04-13T00:00:00.000Z",
+    "startdate": "2011-04-13T00:00:00.000Z",
+    "title": "Datajournalism at Re:Publica XI"
+  },
+  {
+    "location": "Tunis, Tunisia",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2011-03-17T00:00:00.000Z",
+    "startdate": "2011-03-17T00:00:00.000Z",
+    "title": "TEDx Carthage"
+  },
+  {
+    "location": "Amsterdam, Netherlands",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2010-08-24T00:00:00.000Z",
+    "startdate": "2010-08-24T00:00:00.000Z",
+    "title": "Data-driven journalism roundtable"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "In VOCER",
+    "type": "Article",
+    "url": "http://www.vocer.org/de/artikel/do/detail/id/185/journalismus-hat-die-medien-ueberlebt.-gewoehnt-euch-daran..html",
+    "enddate": "2012-05-21T00:00:00.000Z",
+    "startdate": "2012-05-21T00:00:00.000Z",
+    "title": "Journalismus hat die Medien überlebt. Gewöhnt euch daran."
+  },
+  {
+    "location": "Marseilles, France",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2011-07-08T00:00:00.000Z",
+    "startdate": "2011-07-08T00:00:00.000Z",
+    "title": "Datajournalism, one year on. At LIFT"
+  },
+  {
+    "location": "Vienna, Austria",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2011-10-14T00:00:00.000Z",
+    "startdate": "2011-10-14T00:00:00.000Z",
+    "title": "What data can do for you at World's Editors Forum"
+  },
+  {
+    "location": "Rotterdam, The Netherlands",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-03-16T00:00:00.000Z",
+    "startdate": "2012-03-16T00:00:00.000Z",
+    "title": "Open Data and Datajournalism at ePSI"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-10-18T00:00:00.000Z",
+    "startdate": "2012-10-18T00:00:00.000Z",
+    "title": "Digital Backyards"
+  },
+  {
+    "location": "Bern, Switzerland",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2011-05-30T00:00:00.000Z",
+    "startdate": "2011-05-30T00:00:00.000Z",
+    "title": "Data investigation techniques"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2011-12-06T00:00:00.000Z",
+    "startdate": "2011-12-06T00:00:00.000Z",
+    "title": "Personal Democracy Forum France"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2010-09-24T00:00:00.000Z",
+    "startdate": "2010-09-24T00:00:00.000Z",
+    "title": "Crowdsourcing & Crowdfunding, what can journalists gain?"
+  },
+  {
+    "location": "Metz, France",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2010-12-06T00:00:00.000Z",
+    "startdate": "2010-12-06T00:00:00.000Z",
+    "title": "Crowdsourcing and Journalism at Entretiens du Webjournalism"
+  },
+  {
+    "location": "Montpellier, France",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-06-22T00:00:00.000Z",
+    "startdate": "2012-06-22T00:00:00.000Z",
+    "title": "Fact-checking at 4M"
+  },
+  {
+    "location": "Vienna, Austria",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-06-15T00:00:00.000Z",
+    "startdate": "2012-06-15T00:00:00.000Z",
+    "title": "Data literacy at data.journalism! conference"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-05-03T00:00:00.000Z",
+    "startdate": "2012-05-03T00:00:00.000Z",
+    "title": "Data literacy at Re:publica 12"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.taz.de/1/netz/netzkultur/artikel/1/programmierer-als-journalisten/",
+    "enddate": "2011-04-15T00:00:00.000Z",
+    "startdate": "2011-04-15T00:00:00.000Z",
+    "title": "Programmierer als Journalisten"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "In Deutsche Welle",
+    "type": "Interview",
+    "url": "http://www.dw-world.de/dw/article/0,,15000252,00.html",
+    "enddate": "2011-04-19T00:00:00.000Z",
+    "startdate": "2011-04-19T00:00:00.000Z",
+    "title": "Data visualizations emerge across newsrooms, online publishers"
+  },
+  {
+    "location": "Paris, France",
+    "text": "With Philippe Couve",
+    "type": "Project",
+    "url": "http://www.journaliste-entrepreneur.com/2010/11/le-rapport-medias-nouveaux-modeles-economiques-et-questions-de-deontologie/",
+    "enddate": "2010-11-08T00:00:00.000Z",
+    "startdate": "2010-11-08T00:00:00.000Z",
+    "title": "Médias: nouveaux modèles économiques et questions de déontologie"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Interview",
+    "url": "http://ce-soir-ou-jamais.france3.fr/?page=emission&id_rubrique=1232",
+    "enddate": "2010-12-02T00:00:00.000Z",
+    "startdate": "2010-12-02T00:00:00.000Z",
+    "title": "Ce Soir ou Jamais, France3"
+  },
+  {
+    "location": "Paris, France",
+    "text": "On PBS Mediashift",
+    "type": "Interview",
+    "url": "http://www.pbs.org/mediashift/2011/03/how-french-site-owni-profits-by-giving-away-its-content070.html",
+    "enddate": "2011-03-11T00:00:00.000Z",
+    "startdate": "2011-03-11T00:00:00.000Z",
+    "title": "How French Site OWNI Profits by Giving Away Its Content"
+  },
+  {
+    "location": "Paris, France",
+    "text": "In Le Point",
+    "type": "Interview",
+    "url": "http://www.lepoint.fr/high-tech-internet/interview-rencontre-avec-owni-partenaire-de-wikileaks-01-12-2010-1269521_47.php",
+    "enddate": "2010-12-01T00:00:00.000Z",
+    "startdate": "2010-12-01T00:00:00.000Z",
+    "title": "Rencontre avec Owni, partenaire de WikiLeaks"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.internetactu.net/2010/07/09/journaliste-de-donnees-data-as-storytelling/",
+    "enddate": "2010-07-09T00:00:00.000Z",
+    "startdate": "2010-07-09T00:00:00.000Z",
+    "title": "Journaliste de données : data as storytelling"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.discordance.fr/%C2%AB-la-liberte-d%E2%80%99expression-c%E2%80%99est-le-coeur-du-debat-sur-wikileaks-%C2%BB-25014",
+    "enddate": "2010-12-17T00:00:00.000Z",
+    "startdate": "2010-12-17T00:00:00.000Z",
+    "title": "« La liberté d’expression, c’est le cœur du débat sur Wikileaks »"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.data-journalism.com/?p=102",
+    "enddate": "2011-02-28T00:00:00.000Z",
+    "startdate": "2011-02-28T00:00:00.000Z",
+    "title": "« Pour faire du datajournalisme, il faut savoir maîtriser Excel »"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.franceculture.com/emission-l-invite-du-jour-pierre-beylau-cyril-lemieux-nicolas-kayser-bril-et-remy-ourdan-2010-11-30.",
+    "enddate": "2010-11-30T00:00:00.000Z",
+    "startdate": "2010-11-30T00:00:00.000Z",
+    "title": "Y a-t-il une révolution Wikileaks?"
+  },
+  {
+    "location": "Cologne, Germany",
+    "text": "Thanks Ulrike!",
+    "type": "Interview",
+    "url": "http://medialdigital.de/2010/05/27/labor-fur-innovativen-journalismus-interview-mit-owni-datenchef-nicolas-kayser-bril/",
+    "enddate": "2010-05-27T00:00:00.000Z",
+    "startdate": "2010-05-27T00:00:00.000Z",
+    "title": "“Labor für innovativen Journalismus” – Interview mit OWNI-Datenchef"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Interview",
+    "url": "http://berlinergazette.de/investigativer-datenjournalismus/",
+    "enddate": "2011-06-08T00:00:00.000Z",
+    "startdate": "2011-06-08T00:00:00.000Z",
+    "title": "Investigativer Datenjournalismus: Beziehungen aufdecken mit “Influence Networks”"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Interview",
+    "url": "http://moderateur.blog.regionsjob.com/index.php/post/Le-datajournalisme-enjeux-et-perspectives-interview-de-Nicolas-Kayser-Bril",
+    "enddate": "2011-03-18T00:00:00.000Z",
+    "startdate": "2011-03-18T00:00:00.000Z",
+    "title": "Le datajournalisme, enjeux et perspectives"
+  },
+  {
+    "location": "Metz, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2010-10-06T00:00:00.000Z",
+    "startdate": "2010-10-06T00:00:00.000Z",
+    "title": "Datajournalism at Uni Metz"
+  },
+  {
+    "location": "Metz, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2010-11-03T00:00:00.000Z",
+    "startdate": "2010-11-03T00:00:00.000Z",
+    "title": "Datajournalism at Uni Metz"
+  },
+  {
+    "location": "Metz, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2010-11-17T00:00:00.000Z",
+    "startdate": "2010-11-17T00:00:00.000Z",
+    "title": "Datajournalism at Uni Metz"
+  },
+  {
+    "location": "Metz, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2010-11-24T00:00:00.000Z",
+    "startdate": "2010-11-24T00:00:00.000Z",
+    "title": "Datajournalism at Uni Metz"
+  },
+  {
+    "location": "Metz, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2010-12-01T00:00:00.000Z",
+    "startdate": "2010-12-01T00:00:00.000Z",
+    "title": "Datajournalism at Uni Metz"
+  },
+  {
+    "location": "Metz, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2010-12-15T00:00:00.000Z",
+    "startdate": "2010-12-15T00:00:00.000Z",
+    "title": "Datajournalism at Uni Metz"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2011-05-27T00:00:00.000Z",
+    "startdate": "2011-05-27T00:00:00.000Z",
+    "title": "Journalisme de données at EMI-CFD"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2011-01-20T00:00:00.000Z",
+    "startdate": "2011-01-20T00:00:00.000Z",
+    "title": "Datajournalism and investigation at CFJ"
+  },
+  {
+    "location": "Lille, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2011-03-10T00:00:00.000Z",
+    "startdate": "2011-03-10T00:00:00.000Z",
+    "title": "Datajournalisme at ESJ"
+  },
+  {
+    "location": "Paris, France",
+    "text": "With Julien Goetz",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2012-03-26T00:00:00.000Z",
+    "startdate": "2012-03-26T00:00:00.000Z",
+    "title": "Forum Osons La France: Stereotypes and data"
+  },
+  {
+    "location": "Eghezée, Belgium",
+    "text": "With Damien Van Achter",
+    "type": "Training",
+    "url": "",
+    "enddate": "2012-02-28T00:00:00.000Z",
+    "startdate": "2012-02-28T00:00:00.000Z",
+    "title": "Datajournalism"
+  },
+  {
+    "location": "Amiens, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2012-06-20T00:00:00.000Z",
+    "startdate": "2012-06-18T00:00:00.000Z",
+    "title": "Datajournalism at Courrier Picard"
+  },
+  {
+    "location": "Tunis, Tunisia",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2012-04-04T00:00:00.000Z",
+    "startdate": "2012-04-03T00:00:00.000Z",
+    "title": "Business models for journalism"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Article",
+    "url": "http://www.data-publica.com/content/2011/11/pourquoi-le-niveau-de-vie-diminue-alors-que-le-pouvoir-d%E2%80%99achat-augmente/",
+    "enddate": "2011-11-28T00:00:00.000Z",
+    "startdate": "2011-11-28T00:00:00.000Z",
+    "title": "Pourquoi le niveau de vie diminue alors que le pouvoir d’achat augmente ?"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Project",
+    "url": "http://www.alertepolitique.fr/",
+    "enddate": "2012-04-02T00:00:00.000Z",
+    "startdate": "2012-04-02T00:00:00.000Z",
+    "title": "Alerte Politique"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Project",
+    "url": "",
+    "enddate": "2010-10-22T00:00:00.000Z",
+    "startdate": "2010-10-22T00:00:00.000Z",
+    "title": "The Iraqi Warlogs"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Project",
+    "url": "",
+    "enddate": "2010-07-26T00:00:00.000Z",
+    "startdate": "2010-07-26T00:00:00.000Z",
+    "title": "The Afghan Warlogs"
+  },
+  {
+    "location": "Santiago, Chile",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.lanacion.cl/nicolas-kayser-bril-el-articulo-noticioso-esta-muriendo/noticias/2013-07-19/184602.html",
+    "enddate": "2013-07-22T00:00:00.000Z",
+    "startdate": "2013-07-22T00:00:00.000Z",
+    "title": "“El artículo noticioso está muriendo”"
+  },
+  {
+    "location": "Santiago, Chile",
+    "text": "With Miguel Paz",
+    "type": "Training",
+    "url": "https://eventioz.cl/e/escuela-de-invierno-de-datos/agenda",
+    "enddate": "2013-07-23T00:00:00.000Z",
+    "startdate": "2013-07-22T00:00:00.000Z",
+    "title": "Winter School of Inria Chile"
+  },
+  {
+    "location": "Santiago, Chile",
+    "text": "Opening conference for the Winter School of Inria Chile",
+    "type": "Conference",
+    "url": "http://prez.nkb.fr/inria-chile",
+    "enddate": "2013-07-22T00:00:00.000Z",
+    "startdate": "2013-07-22T00:00:00.000Z",
+    "title": "Data-driven stories for SME"
+  },
+  {
+    "location": "Zürich, Switzerland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-08-20T00:00:00.000Z",
+    "startdate": "2013-08-19T00:00:00.000Z",
+    "title": "Tamedia - Datajournalism"
+  },
+  {
+    "location": "Zürich, Switzerland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-08-13T00:00:00.000Z",
+    "startdate": "2013-08-12T00:00:00.000Z",
+    "title": "Tamedia - Datajournalism"
+  },
+  {
+    "location": "Paris, France",
+    "text": "Translation and adaptation of the Datajournalism Handbook.",
+    "type": "Project",
+    "url": "http://jplusplus.github.io/guide-du-datajournalisme/",
+    "enddate": "2013-08-22T00:00:00.000Z",
+    "startdate": "2013-08-22T00:00:00.000Z",
+    "title": "Guide du datajournalisme"
+  },
+  {
+    "location": "Lausanne, Switzerland",
+    "text": "Lecture and worshop for Schweizerische Studienstiftung.",
+    "type": "Conference",
+    "url": "http://prez.nkb.fr/faire-avancer-la-societe-avec-des-donnees",
+    "enddate": "2013-09-13T00:00:00.000Z",
+    "startdate": "2013-09-13T00:00:00.000Z",
+    "title": "Schweizerische Studienstiftung"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "Lecture at Hertie School of Governance.",
+    "type": "Conference",
+    "url": "http://prez.nkb.fr/ddj-elections",
+    "enddate": "2013-09-11T00:00:00.000Z",
+    "startdate": "2013-09-11T00:00:00.000Z",
+    "title": "Elections and datajournalism, Hertie School of Governance"
+  },
+  {
+    "location": "Singapore",
+    "text": "Digital Journalism World conference",
+    "type": "Conference",
+    "url": "http://prez.nkb.fr/djw-ddj-operation",
+    "enddate": "2013-10-06T00:00:00.000Z",
+    "startdate": "2013-10-06T00:00:00.000Z",
+    "title": "How to set up a #ddj operation when you're not the NYT"
+  },
+  {
+    "location": "Singapore",
+    "text": "Digital Journalism World conference",
+    "type": "Conference",
+    "url": "http://prez.nkb.fr/data-literacy/",
+    "enddate": "2013-10-07T00:00:00.000Z",
+    "startdate": "2013-10-07T00:00:00.000Z",
+    "title": "How data literate are you?"
+  },
+  {
+    "location": "",
+    "text": "Interview for Journalism.co.uk's podcast",
+    "type": "Interview",
+    "url": "http://blogs.journalism.co.uk/2013/10/18/podcast-how-small-newsrooms-can-make-an-impact-with-data-journalism/#sthash.TcOVodq1.uxfs",
+    "enddate": "2013-10-18T00:00:00.000Z",
+    "startdate": "2013-10-18T00:00:00.000Z",
+    "title": "How small newsrooms can make an impact with data journalism"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.radio-canada.ca/emissions/les_samedis_du_monde/2013-2014/chronique.asp?idChronique=317015",
+    "enddate": "2013-10-19T00:00:00.000Z",
+    "startdate": "2013-10-19T00:00:00.000Z",
+    "title": "Les samedis du monde de Radio Canada"
+  },
+  {
+    "location": "Bari, Italy",
+    "text": "",
+    "type": "Conference",
+    "url": "https://www.meshagree.com/event/opendatainaction",
+    "enddate": "2013-10-26T00:00:00.000Z",
+    "startdate": "2013-10-26T00:00:00.000Z",
+    "title": "Open Data in Action"
+  },
+  {
+    "location": "Neuchâtel, Switzerland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-11-01T00:00:00.000Z",
+    "startdate": "2013-10-28T00:00:00.000Z",
+    "title": "AJM, Université de Neuchâtel"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Article",
+    "url": "http://datadrivenjournalism.net/news_and_analysis/a_fundamental_way_data_repositories_must_change",
+    "enddate": "2013-10-29T00:00:00.000Z",
+    "startdate": "2013-10-29T00:00:00.000Z",
+    "title": "A Fundamental Way Data Repositories Must Change"
+  },
+  {
+    "location": "Bern, Switzerland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-11-12T00:00:00.000Z",
+    "startdate": "2013-11-11T00:00:00.000Z",
+    "title": "Datajournalism at Tamedia"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Article",
+    "url": "http://www.2081.info/?contrib=227&sujet=100",
+    "enddate": "2013-11-15T00:00:00.000Z",
+    "startdate": "2013-11-15T00:00:00.000Z",
+    "title": "La valeur ajoutée des bases de données, in 2081.info"
+  },
+  {
+    "location": "",
+    "text": "A project for OKF done by the whole Journalism++ Paris/Berlin team.",
+    "type": "Project",
+    "url": "http://spendingstories.org/",
+    "enddate": "2013-11-21T00:00:00.000Z",
+    "startdate": "2013-11-21T00:00:00.000Z",
+    "title": "Spending Stories"
+  },
+  {
+    "location": "",
+    "text": "The best network analysis tool, done by the whole Journalism++ Paris/Berlin team.",
+    "type": "Project",
+    "url": "http://detective.io/",
+    "enddate": "2013-11-27T00:00:00.000Z",
+    "startdate": "2013-11-27T00:00:00.000Z",
+    "title": "Detective.io"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.prun.net/emissions/mediatisez-moi-29112013",
+    "enddate": "2013-11-29T00:00:00.000Z",
+    "startdate": "2013-11-29T00:00:00.000Z",
+    "title": "Médiatisez-moi, Prun radio"
+  },
+  {
+    "location": "Ljubljana, Slovenia",
+    "text": "",
+    "type": "Conference",
+    "url": "http://naprej-forward.org/kdo-who/55#Nicolas%20Kayser-Bril",
+    "enddate": "2013-11-22T00:00:00.000Z",
+    "startdate": "2013-11-21T00:00:00.000Z",
+    "title": "Naprej Forward"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.open-steps.org/interview-with-journalism-parisberlin-francegermany/",
+    "enddate": "2013-11-25T00:00:00.000Z",
+    "startdate": "2013-11-25T00:00:00.000Z",
+    "title": "Open Steps"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Article",
+    "url": "http://www.theguardian.com/world/2014/jan/24/africa-clinton?commentpage=1",
+    "enddate": "2014-01-24T00:00:00.000Z",
+    "startdate": "2014-01-24T00:00:00.000Z",
+    "title": "Africa isn't a Country, on The Guardian"
+  },
+  {
+    "location": "Bern, Switzerland",
+    "text": "With Mirko Lorenz",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-01-14T00:00:00.000Z",
+    "startdate": "2014-01-13T00:00:00.000Z",
+    "title": "Tamedia datajournalism"
+  },
+  {
+    "location": "Bern, Switzerland",
+    "text": "With Mirko Lorenz",
+    "type": "Training",
+    "url": "",
+    "enddate": "2013-12-03T00:00:00.000Z",
+    "startdate": "2013-12-02T00:00:00.000Z",
+    "title": "Tamedia datajournalism"
+  },
+  {
+    "location": "Beirut, Lebanon",
+    "text": "",
+    "type": "Conference",
+    "url": "http://prez.nkb.fr/business-models",
+    "enddate": "2013-12-06T00:00:00.000Z",
+    "startdate": "2013-12-06T00:00:00.000Z",
+    "title": "Business models of datajournalism"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Conference",
+    "url": "http://berlinergazette.de/symposium/whtj/",
+    "enddate": "2013-12-08T00:00:00.000Z",
+    "startdate": "2013-12-08T00:00:00.000Z",
+    "title": "Berliner Gazette, Whatever Happened to Journalism"
+  },
+  {
+    "location": "Lille, France",
+    "text": "",
+    "type": "Conference",
+    "url": "http://prez.nkb.fr/insee-esj",
+    "enddate": "2013-12-12T00:00:00.000Z",
+    "startdate": "2013-12-12T00:00:00.000Z",
+    "title": "Les statistiques au secours du journalisme, at ESJ"
+  },
+  {
+    "location": "Mechelen, Belgium",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2013-12-17T00:00:00.000Z",
+    "startdate": "2013-12-17T00:00:00.000Z",
+    "title": "Datajournalism conference at Sanoma"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.journalism.co.uk/news/detective-io-launches-to-search-connections-in-datasets/s2/a555266/",
+    "enddate": "2013-11-29T00:00:00.000Z",
+    "startdate": "2013-11-29T00:00:00.000Z",
+    "title": " Detective.io launches as platform for data investigations, Journalism.co.uk"
+  },
+  {
+    "location": "Zürich, Switzerland",
+    "text": "With Julian Schmidli",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2014-01-27T00:00:00.000Z",
+    "startdate": "2014-01-27T00:00:00.000Z",
+    "title": "Conference for Tamedia Management/Leadership"
+  },
+  {
+    "location": "Paris, France",
+    "text": "With Pierre Romera",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2014-01-30T00:00:00.000Z",
+    "startdate": "2014-01-30T00:00:00.000Z",
+    "title": "Presentation at ESJ Hackathon"
+  },
+  {
+    "location": "Bern, Switzerland",
+    "text": "With Pierre Romera",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-02-11T00:00:00.000Z",
+    "startdate": "2014-02-10T00:00:00.000Z",
+    "title": "Training datajournalism for Tamedia"
+  },
+  {
+    "location": "Lille, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-02-18T00:00:00.000Z",
+    "startdate": "2014-02-17T00:00:00.000Z",
+    "title": "Datajournalism at ESJ"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-02-20T00:00:00.000Z",
+    "startdate": "2014-02-19T00:00:00.000Z",
+    "title": "Datajournalism at ISCPA"
+  },
+  {
+    "location": "Istanbul, Turkey",
+    "text": "In the class of Pinar Dag",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2014-03-13T00:00:00.000Z",
+    "startdate": "2014-03-13T00:00:00.000Z",
+    "title": "Lecture at Kadir Has university"
+  },
+  {
+    "location": "Istanbul, Turkey",
+    "text": "",
+    "type": "Project",
+    "url": "http://attending.io/events/datajournalism-meetup",
+    "enddate": "2014-03-13T00:00:00.000Z",
+    "startdate": "2014-03-13T00:00:00.000Z",
+    "title": "Data-driven journalism meetup"
+  },
+  {
+    "location": "Chatenay Malabry, France",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2014-03-10T00:00:00.000Z",
+    "startdate": "2014-03-10T00:00:00.000Z",
+    "title": "Lecture on open data at ANDRA"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-02-24T00:00:00.000Z",
+    "startdate": "2014-02-24T00:00:00.000Z",
+    "title": "Infographics - 1 day at EMI CFD"
+  },
+  {
+    "location": "",
+    "text": "A pan-European investigation on migrants deaths coordinated by Journalism++.",
+    "type": "Project",
+    "url": "http://themigrantsfiles.com/",
+    "enddate": "2014-03-31T00:00:00.000Z",
+    "startdate": "2014-03-31T00:00:00.000Z",
+    "title": "The Migrants Files"
+  },
+  {
+    "location": "Brussels, Belgium",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2014-05-10T00:00:00.000Z",
+    "startdate": "2014-05-09T00:00:00.000Z",
+    "title": "DataHarvest+"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "http://atelier.rfi.fr/profiles/blogs/rencontre-avec-deux-journalistes",
+    "enddate": "2014-04-25T00:00:00.000Z",
+    "startdate": "2014-04-25T00:00:00.000Z",
+    "title": "Atelier des Médias"
+  },
+  {
+    "location": "Katowice, Poland",
+    "text": "",
+    "type": "Training",
+    "url": "http://urbandatastories.eu/data-driven-journalism/",
+    "enddate": "2014-05-25T00:00:00.000Z",
+    "startdate": "2014-05-23T00:00:00.000Z",
+    "title": "Data driven investigation workshop"
+  },
+  {
+    "location": "Barcelona, Spain",
+    "text": "",
+    "type": "Conference",
+    "url": "http://gensummitcccbbarcelona2014.sched.org/speaker/nicolaskayserbril1",
+    "enddate": "2014-06-13T00:00:00.000Z",
+    "startdate": "2014-06-11T00:00:00.000Z",
+    "title": "GEN Summit"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Conference",
+    "url": "http://www.supermarkt-berlin.net/event/recherche-lab-iv/",
+    "enddate": "2014-06-20T00:00:00.000Z",
+    "startdate": "2014-06-20T00:00:00.000Z",
+    "title": "Recherche Lab IV"
+  },
+  {
+    "location": "Brussels, Belgium",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-06-23T00:00:00.000Z",
+    "startdate": "2014-06-23T00:00:00.000Z",
+    "title": "Formation au datajournalisme"
+  },
+  {
+    "location": "Warsaw, Poland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-06-27T00:00:00.000Z",
+    "startdate": "2014-06-24T00:00:00.000Z",
+    "title": "Trainings on data-driven investigation, open source intel, business models"
+  },
+  {
+    "location": "Hamburg, Germany",
+    "text": "",
+    "type": "Conference",
+    "url": "http://netzwerkrecherche.org/wordpress/nr14/referenten/",
+    "enddate": "2014-07-05T00:00:00.000Z",
+    "startdate": "2014-07-04T00:00:00.000Z",
+    "title": "Netzwerk Recherche"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Interview",
+    "url": "http://videos.lesechos.fr/news/interviews/parole-d-expat-a-berlin-nous-l-europe-on-la-fait-au-quotidien-3690764857001.html",
+    "enddate": "2014-08-08T00:00:00.000Z",
+    "startdate": "2014-08-08T00:00:00.000Z",
+    "title": "Interview dans Les Echos"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "http://datajournalistiek.nl/en/methods/detective-io/",
+    "enddate": "2014-06-06T00:00:00.000Z",
+    "startdate": "2014-06-06T00:00:00.000Z",
+    "title": "Interview on Detective.io in Datajournalistiek.nl"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "Reportage on Arte",
+    "type": "Interview",
+    "url": "http://www.arte.tv/guide/fr/048392-000/presse-vers-un-monde-sans-papier",
+    "enddate": "2014-01-01T00:00:00.000Z",
+    "startdate": "2014-08-27T00:00:00.000Z",
+    "title": "Vers un monde sans papier?"
+  },
+  {
+    "location": "Bruxelles, Belgium",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-09-05T00:00:00.000Z",
+    "startdate": "2014-09-01T00:00:00.000Z",
+    "title": "Datajournalisme à la Summer School AJPro"
+  },
+  {
+    "location": "Bruxelles, Belgium",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2014-09-03T00:00:00.000Z",
+    "startdate": "2014-09-03T00:00:00.000Z",
+    "title": "Enquêtes en sources ouvertes à Ihecs Academy"
+  },
+  {
+    "location": "Lausanne, Switzerland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-09-12T00:00:00.000Z",
+    "startdate": "2014-09-11T00:00:00.000Z",
+    "title": "Datajournalisme at CFJM"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.france24.com/fr/20140913-le-web-revolutionne-le-journalisme-d-investigation/?aef_campaign_date=2014-09-13&aef_campaign_ref=partage_user&ns_campaign=reseaux_sociaux&ns_linkname=emission&ns_mchannel=social&ns_source=twitter",
+    "enddate": "2014-09-14T00:00:00.000Z",
+    "startdate": "2014-09-14T00:00:00.000Z",
+    "title": "France24"
+  },
+  {
+    "location": "Bruxelles, Belgium",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2014-09-23T00:00:00.000Z",
+    "startdate": "2014-09-23T00:00:00.000Z",
+    "title": "EU tech journalists"
+  },
+  {
+    "location": "Lausannes, Switzerland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-10-03T00:00:00.000Z",
+    "startdate": "2014-10-02T00:00:00.000Z",
+    "title": "CFJM datajournalism training"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-10-10T00:00:00.000Z",
+    "startdate": "2014-10-08T00:00:00.000Z",
+    "title": "AEF datajournalism training"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-10-15T00:00:00.000Z",
+    "startdate": "2014-10-13T00:00:00.000Z",
+    "title": "AEF datajournalism training"
+  },
+  {
+    "location": "Beirut, Lebanon",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2014-10-16T00:00:00.000Z",
+    "startdate": "2014-10-16T00:00:00.000Z",
+    "title": "4M Beirut"
+  },
+  {
+    "location": "Louvain la neuve, Belgium",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-10-21T00:00:00.000Z",
+    "startdate": "2014-10-21T00:00:00.000Z",
+    "title": "UPP datajournalism training"
+  },
+  {
+    "location": "Madrid, Spain",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2014-10-26T00:00:00.000Z",
+    "startdate": "2014-10-24T00:00:00.000Z",
+    "title": "Taller Datos"
+  },
+  {
+    "location": "Madrid, Spain",
+    "text": "",
+    "type": "Interview",
+    "url": "http://blogs.unir.net/juantxo-cruz/3124-nikolas-kayser-brill-en-periodismo-de-datos-muchas-veces-la-pieza-fundamental-es-el-texto",
+    "enddate": "2014-11-04T00:00:00.000Z",
+    "startdate": "2014-11-04T00:00:00.000Z",
+    "title": "Interview for UNIR"
+  },
+  {
+    "location": "Lausanne, Switzerland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-12-05T00:00:00.000Z",
+    "startdate": "2014-12-04T00:00:00.000Z",
+    "title": "Datajournalisme at CFJM"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2014-11-14T00:00:00.000Z",
+    "startdate": "2014-11-08T00:00:00.000Z",
+    "title": "Datajournalisme for Le Monde journalists"
+  },
+  {
+    "location": "Nantes, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-01-16T00:00:00.000Z",
+    "startdate": "2015-01-15T00:00:00.000Z",
+    "title": "Scraping & cleaning data"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-01-23T00:00:00.000Z",
+    "startdate": "2015-01-22T00:00:00.000Z",
+    "title": "Advanced datajournalism at Le Figaro"
+  },
+  {
+    "location": "Lille, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-01-30T00:00:00.000Z",
+    "startdate": "2015-01-26T00:00:00.000Z",
+    "title": "Datajournalism at ESJ"
+  },
+  {
+    "location": "Neuchatel, Switzerland",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-03-06T00:00:00.000Z",
+    "startdate": "2015-03-02T00:00:00.000Z",
+    "title": "Datajournalism at AJM"
+  },
+  {
+    "location": "",
+    "text": "With Anne-Lise Bouyer",
+    "type": "Article",
+    "url": "http://jplusplus.github.io/woman-tax/index.html",
+    "enddate": "2015-02-20T00:00:00.000Z",
+    "startdate": "2015-02-20T00:00:00.000Z",
+    "title": "Why we could not compute the Woman Tax"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Article",
+    "url": "",
+    "enddate": "2015-02-27T00:00:00.000Z",
+    "startdate": "2015-02-27T00:00:00.000Z",
+    "title": "Faut il avoir peur du Big Data? in Paris Worldwide"
+  },
+  {
+    "location": "Berlin, Germany",
+    "text": "",
+    "type": "Interview",
+    "url": "http://digheads.de/2015/02/27/nicolas-kayser-bril-graf-zahl/",
+    "enddate": "2015-02-28T00:00:00.000Z",
+    "startdate": "2015-02-28T00:00:00.000Z",
+    "title": "Graf Zahl"
+  },
+  {
+    "location": "Denmark",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.dr.dk/radio/ondemand/p1/p1-dokumentar-2015-04-02#!/",
+    "enddate": "2015-04-02T00:00:00.000Z",
+    "startdate": "2015-04-02T00:00:00.000Z",
+    "title": "Cross-border journalism"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.katoikos.eu/highlights/journalists-investigation-counts-fatalities-at-europes-borders.html",
+    "enddate": "2015-03-12T00:00:00.000Z",
+    "startdate": "2015-03-12T00:00:00.000Z",
+    "title": "JOURNALISTS’ INVESTIGATION COUNTS FATALITIES AT EUROPE’S BORDERS"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "http://www.cjr.org/behind_the_news/european_reporter_collaboratio.php?page=all",
+    "enddate": "2014-11-12T00:00:00.000Z",
+    "startdate": "2014-11-12T00:00:00.000Z",
+    "title": "European Union journalists cross borders for story collaboration"
+  },
+  {
+    "location": "Moscow, Russia",
+    "text": "",
+    "type": "Conference",
+    "url": "http://www.hse.ru/en/news/147907042.html",
+    "enddate": "2015-04-09T00:00:00.000Z",
+    "startdate": "2015-04-09T00:00:00.000Z",
+    "title": "Datajournalism in the European Context"
+  },
+  {
+    "location": "Moscow, Russia",
+    "text": "",
+    "type": "Conference",
+    "url": "http://conf.hse.ru/en/2015/program/",
+    "enddate": "2015-04-08T00:00:00.000Z",
+    "startdate": "2015-04-08T00:00:00.000Z",
+    "title": "Transformation of Communication Processes: Data Journalism"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-03-20T00:00:00.000Z",
+    "startdate": "2015-03-16T00:00:00.000Z",
+    "title": "Datajournalisme au CFJ"
+  },
+  {
+    "location": "Paris, France",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-03-24T00:00:00.000Z",
+    "startdate": "2015-03-23T00:00:00.000Z",
+    "title": "Datajournalisme auprès des journalistes du Monde, EMI-CFD"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "http://ici.radio-canada.ca/emissions/les_samedis_du_monde/2014-2015/chronique.asp?idChronique=372053",
+    "enddate": "2015-05-09T00:00:00.000Z",
+    "startdate": "2015-05-09T00:00:00.000Z",
+    "title": "La Samedi du Monde, Radio Canada"
+  },
+  {
+    "location": "Paris",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-03-31T00:00:00.000Z",
+    "startdate": "2015-03-30T00:00:00.000Z",
+    "title": "Datajournalism training"
+  },
+  {
+    "location": "Moscow",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2015-04-10T00:00:00.000Z",
+    "startdate": "2015-04-08T00:00:00.000Z",
+    "title": "XVI APRIL INTERNATIONAL ACADEMIC CONFERENCE ON ECONOMIC AND SOCIAL DEVELOPMENT"
+  },
+  {
+    "location": "Moscow",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-04-09T00:00:00.000Z",
+    "startdate": "2015-04-09T00:00:00.000Z",
+    "title": "Datajournalism conference for students of the HSE school of journalism"
+  },
+  {
+    "location": "Perugia",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2015-04-17T00:00:00.000Z",
+    "startdate": "2015-04-16T00:00:00.000Z",
+    "title": "JournalismFest"
+  },
+  {
+    "location": "Lausanne",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-04-28T00:00:00.000Z",
+    "startdate": "2015-04-27T00:00:00.000Z",
+    "title": "Datajournalism at CFJM"
+  },
+  {
+    "location": "Bruxelles",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2015-05-10T00:00:00.000Z",
+    "startdate": "2015-05-08T00:00:00.000Z",
+    "title": "Dataharvest"
+  },
+  {
+    "location": "Espoo",
+    "text": "",
+    "type": "Conference",
+    "url": "https://www.youtube.com/watch?v=IjyCa5FaxA0",
+    "enddate": "2015-05-17T00:00:00.000Z",
+    "startdate": "2015-05-15T00:00:00.000Z",
+    "title": "Newsgeist"
+  },
+  {
+    "location": "Lausanne",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-05-19T00:00:00.000Z",
+    "startdate": "2015-05-18T00:00:00.000Z",
+    "title": "Datajournalism at CFJM"
+  },
+  {
+    "location": "Paris",
+    "text": "",
+    "type": "Training",
+    "url": "",
+    "enddate": "2015-06-19T00:00:00.000Z",
+    "startdate": "2015-06-15T00:00:00.000Z",
+    "title": "Le Monde at EMI"
+  },
+  {
+    "location": "Paris",
+    "text": "",
+    "type": "Project",
+    "url": "http://themigrantsfiles.com/",
+    "enddate": "2015-06-18T00:00:00.000Z",
+    "startdate": "2015-06-18T00:00:00.000Z",
+    "title": "The Migrants Files: Follow the Money"
+  },
+  {
+    "location": "Genève",
+    "text": "",
+    "type": "Project",
+    "url": "http://parlometre.ch/",
+    "enddate": "2015-06-25T00:00:00.000Z",
+    "startdate": "2015-06-25T00:00:00.000Z",
+    "title": "Parlomètre"
+  },
+  {
+    "location": "Ladenburg, Germany",
+    "text": "",
+    "type": "Conference",
+    "url": "",
+    "enddate": "2015-07-01T00:00:00.000Z",
+    "startdate": "2015-07-01T00:00:00.000Z",
+    "title": "Ladenburg Roundtable"
+  },
+  {
+    "location": "",
+    "text": "",
+    "type": "Interview",
+    "url": "",
+    "enddate": "2015-06-23T00:00:00.000Z",
+    "startdate": "2015-06-23T00:00:00.000Z",
+    "title": "Interveiw on Robot Journalism for eFM Primetime, Seoul"
+  },
+  {
+    "title": "Datajournalism, Le Monde",
+    "startdate": "2015-09-14T00:00:00.000Z",
+    "enddate": "2015-09-17T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris, France"
+  },
+  {
+    "title": "MigrantsFiles",
+    "startdate": "2015-09-18T00:00:00.000Z",
+    "enddate": "2015-09-18T00:00:00.000Z",
+    "url": "http://zkm.de/event/2015/09/globale-online-journalismus-und-die-4-macht",
+    "type": "Conference",
+    "text": "",
+    "location": "Karlsruhe, Germany"
+  },
+  {
+    "title": "Datajournalism at Unine",
+    "startdate": "2015-10-19T00:00:00.000Z",
+    "enddate": "2015-10-23T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Neuchâtel, Switzerland"
+  },
+  {
+    "title": "Datajournalism at CFJM",
+    "startdate": "2015-10-26T00:00:00.000Z",
+    "enddate": "2015-10-27T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Lausanne, Switzerland"
+  },
+  {
+    "title": "Grupo de Diarios América conference",
+    "startdate": "2015-11-02T00:00:00.000Z",
+    "enddate": "2015-11-03T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Buenos Aires, Argentina"
+  },
+  {
+    "title": "Workshop OpenBudgets",
+    "startdate": "2015-11-25T00:00:00.000Z",
+    "enddate": "2015-11-27T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Strasbourg, France"
+  },
+  {
+    "title": "Datajournalism with Le Monde",
+    "startdate": "2016-01-04T00:00:00.000Z",
+    "enddate": "2016-01-07T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris, France"
+  },
+  {
+    "title": "Le datajournalisme, interview with Medi1radio",
+    "startdate": "2016-04-16T00:00:00.000Z",
+    "enddate": "2016-04-16T00:00:00.000Z",
+    "url": "http://www.medi1.com/episode/le-data-journalisme-131890",
+    "type": "Interview",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Rentswatch",
+    "startdate": "2016-05-02T00:00:00.000Z",
+    "enddate": "2016-05-02T00:00:00.000Z",
+    "url": "http://www.rentswatch.com/",
+    "type": "Project",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "The new legitimiacy of power",
+    "startdate": "2016-05-15T00:00:00.000Z",
+    "enddate": "2016-05-15T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/legitimacy-power",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Informer avec des données structurées",
+    "startdate": "2016-05-11T00:00:00.000Z",
+    "enddate": "2016-05-11T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/informer-avec-des-donnees-structurees",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "ESJ - datajournalisme",
+    "startdate": "2016-03-01T00:00:00.000Z",
+    "enddate": "2016-03-03T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Lille, France"
+  },
+  {
+    "title": "Assises du journalisme",
+    "startdate": "2016-03-11T00:00:00.000Z",
+    "enddate": "2016-03-11T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Tours, France"
+  },
+  {
+    "title": "Datajournalisme - CFJM",
+    "startdate": "2016-03-14T00:00:00.000Z",
+    "enddate": "2016-03-15T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Lausanne, Switzerland"
+  },
+  {
+    "title": "Milan Presse - datajournalisme",
+    "startdate": "2016-03-21T00:00:00.000Z",
+    "enddate": "2016-03-21T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Toulouse, France"
+  },
+  {
+    "title": "BFMTV - datajournalisme",
+    "startdate": "2016-03-22T00:00:00.000Z",
+    "enddate": "2016-03-25T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris, France"
+  },
+  {
+    "title": "PIJ conference",
+    "startdate": "2016-04-06T00:00:00.000Z",
+    "enddate": "2016-04-07T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Istanbul, Turkey"
+  },
+  {
+    "title": "CFJ - datajournalisme",
+    "startdate": "2016-04-11T00:00:00.000Z",
+    "enddate": "2016-04-13T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris, France"
+  },
+  {
+    "title": "4M",
+    "startdate": "2016-04-21T00:00:00.000Z",
+    "enddate": "2016-04-21T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Paris, France"
+  },
+  {
+    "title": "NODA16",
+    "startdate": "2016-04-22T00:00:00.000Z",
+    "enddate": "2016-04-23T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Helsinki, Finland"
+  },
+  {
+    "title": "News impact summit",
+    "startdate": "2016-04-25T00:00:00.000Z",
+    "enddate": "2016-04-25T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Madrid, Spain"
+  },
+  {
+    "title": "Datajournalisme : extension du domaine de la fuite",
+    "startdate": "2016-04-06T00:00:00.000Z",
+    "enddate": "2016-04-06T00:00:00.000Z",
+    "url": "http://www.liberation.fr/futurs/2016/04/06/datajournalisme-extension-du-domaine-de-la-fuite_1444214",
+    "type": "Interview",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Datajournalism course at CFJ",
+    "startdate": "2016-05-17T00:00:00.000Z",
+    "enddate": "2016-05-19T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris"
+  },
+  {
+    "title": "What's datajournalism, talk at Media Suisse",
+    "startdate": "2016-05-20T00:00:00.000Z",
+    "enddate": "2016-05-20T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Lausanne"
+  },
+  {
+    "title": "Newsgeist",
+    "startdate": "2016-06-03T00:00:00.000Z",
+    "enddate": "2016-06-03T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Bilbao"
+  },
+  {
+    "title": "10 years of datajournalism at NISBER",
+    "startdate": "2016-06-30T00:00:00.000Z",
+    "enddate": "2016-06-30T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Dataharvest",
+    "startdate": "2016-06-01T00:00:00.000Z",
+    "enddate": "2016-06-01T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Mechelen"
+  },
+  {
+    "title": "Data for transparency at the TransparencyCamp",
+    "startdate": "2016-07-06T00:00:00.000Z",
+    "enddate": "2016-07-07T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Vilnius"
+  },
+  {
+    "title": "Introduction to Datajournalism",
+    "startdate": "2016-09-08T00:00:00.000Z",
+    "enddate": "2016-09-08T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Gothenburg"
+  },
+  {
+    "title": "Reatreat Conference",
+    "startdate": "2016-09-23T00:00:00.000Z",
+    "enddate": "2016-09-24T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Athens"
+  }
+]

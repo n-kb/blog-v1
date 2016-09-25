@@ -77,34 +77,9 @@ It is no wonder that datajournalists start publishing methodologies that look ju
 Such projects are good attempts at fixing the broken ecosystem around the production of factual truth. But let us not be fooled by their potential. There are, at most, a few hundreds datajournalists capable of producing such work in Europe, against dozens of thousands of academics. Datajournalism will not have much impact on the relationship most people have with the truth, because datajournalism is too specific a field. Training datajournalists is hard and only a few dozens graduate each year. If datajournalism  one day leaves the niche it currently caters to, it will be because academia has fixed itself. Until then, it will have little impact.
 	
 
-<h4>Get the next essay directly in your inbox</h4>
+<h4>Newsletter</h4>
 <p>In case you want to read my next essay in your e-mail inbox, type you email below and you'll be all set.</p>
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px "Open Sans",Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//themigrantsfiles.us9.list-manage.com/subscribe/post?u=d40f524f34bc0a3d2144216d0&amp;id=2e955ef2f6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d40f524f34bc0a3d2144216d0_2e955ef2f6" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup-->
+<form style="padding:3px;" action="https://tinyletter.com/nkb" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nkb', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:300px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
 
 
  <a name='notes' ></a>
@@ -113,88 +88,88 @@ Such projects are good attempts at fixing the broken ecosystem around the produc
 
 
 
-<a href='#note_1' name='foot_1'>1.</a> The lie in question was the infamous figure of £350m a week Britain was sending to Brussels. Read [Brexit Campaign’s Gove Denies ‘Project Lies’ Claim in TV Special](https://archive.is/20160920/http://www.bloomberg.com/news/articles/2016-06-03/brexit-campaign-s-gove-denies-project-lies-claim-in-tv-special) for the details.
+<a href='#note_1' name='foot_1'>1.</a> The lie in question was the infamous figure of £350m a week Britain was sending to Brussels. Read [Brexit Campaign’s Gove Denies ‘Project Lies’ Claim in TV Special](https://archive.is/20160925/http://www.bloomberg.com/news/articles/2016-06-03/brexit-campaign-s-gove-denies-project-lies-claim-in-tv-special) for the details.
 
 
-<a href='#note_2' name='foot_2'>2.</a> Check out the [Politifact website](https://archive.is/20160920/http://www.politifact.com/personalities/donald-trump/).
+<a href='#note_2' name='foot_2'>2.</a> Check out the [Politifact website](https://archive.is/20160925/http://www.politifact.com/personalities/donald-trump/).
 
 
-<a href='#note_3' name='foot_3'>3.</a> Read [Emperor Putin’s War on the Truth](https://archive.is/20160920/http://www.nytimes.com/2014/10/03/opinion/emperor-putins-war-on-the-truth.html).
+<a href='#note_3' name='foot_3'>3.</a> Read [Emperor Putin’s War on the Truth](https://archive.is/20160925/http://www.nytimes.com/2014/10/03/opinion/emperor-putins-war-on-the-truth.html).
 
 
-<a href='#note_4' name='foot_4'>4.</a> The government of the United States and Britain faked documents to justify the Iraq war, such as the famous [Iraq Dossier](https://archive.is/20160920/https://en.wikipedia.org/wiki/Iraq_Dossier). The [Gulf of Tonkin incident](https://archive.is/20160920/https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident), which was used to drive Congress to war, involved a deliberate falsification of an attack by North Vietnamese boats.
+<a href='#note_4' name='foot_4'>4.</a> The government of the United States and Britain faked documents to justify the Iraq war, such as the famous [Iraq Dossier](https://archive.is/20160925/https://en.wikipedia.org/wiki/Iraq_Dossier). The [Gulf of Tonkin incident](https://archive.is/20160925/https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident), which was used to drive Congress to war, involved a deliberate falsification of an attack by North Vietnamese boats.
 
 
-<a href='#note_5' name='foot_5'>5.</a> [Here's an article](https://archive.is/20160920/http://news.bbc.co.uk/2/hi/business/4012869.stm) about the Greek lies and [here's an article](https://archive.is/20160920/https://www.mediapart.fr/journal/culture-idees/090214/rwanda-l-histoire-face-aux-mensonges-de-l-etat-francais?onglet=full) about the French lies.
+<a href='#note_5' name='foot_5'>5.</a> [Here's an article](https://archive.is/20160925/http://news.bbc.co.uk/2/hi/business/4012869.stm) about the Greek lies and [here's an article](https://archive.is/20160925/https://www.mediapart.fr/journal/culture-idees/090214/rwanda-l-histoire-face-aux-mensonges-de-l-etat-francais?onglet=full) about the French lies.
 
 
-<a href='#note_6' name='foot_6'>6.</a> Read the 1976 New-York Times article [The selling of a candidate](https://archive.is/20160920/http://www.nytimes.com/1976/03/28/archives/the-selling-of-a-candidate-carters-image-is-a-vision-or-a-con-or-a.html?_r=0).
+<a href='#note_6' name='foot_6'>6.</a> Read the 1976 New-York Times article [The selling of a candidate](https://archive.is/20160925/http://www.nytimes.com/1976/03/28/archives/the-selling-of-a-candidate-carters-image-is-a-vision-or-a-con-or-a.html?_r=0).
 
 
-<a href='#note_7' name='foot_7'>7.</a> Find the original quote, in French, [in this article](https://archive.is/20160920/http://www.franceculture.fr/emissions/la-revue-de-presse-de-nicolas-martin/expliquer-cest-excuser). He later said that trying to understand was actually OK but explaining wasn't - whatever that means ([read here](https://archive.is/20160920/http://www.lefigaro.fr/politique/le-scan/citations/2016/03/21/25002-20160321ARTFIG00243-expliquer-la-radicalisation-c-est-excuser-valls-change-de-version.php)).
+<a href='#note_7' name='foot_7'>7.</a> Find the original quote, in French, [in this article](https://archive.is/20160925/http://www.franceculture.fr/emissions/la-revue-de-presse-de-nicolas-martin/expliquer-cest-excuser). He later said that trying to understand was actually OK but explaining wasn't - whatever that means ([read here](https://archive.is/20160925/http://www.lefigaro.fr/politique/le-scan/citations/2016/03/21/25002-20160321ARTFIG00243-expliquer-la-radicalisation-c-est-excuser-valls-change-de-version.php)).
 
 
-<a href='#note_8' name='foot_8'>8.</a> Read [Nigel Farage Admits £350m Saving For NHS In EU Contributions Slogan ‘Was A Mistake’](https://archive.is/20160920/http://www.huffingtonpost.co.uk/entry/nigel-farage-good-morning-britain-eu-referendum-brexit-350-nhs_uk_576d0aa3e4b08d2c5638fc17?sv5nrk9)
+<a href='#note_8' name='foot_8'>8.</a> Read [Nigel Farage Admits £350m Saving For NHS In EU Contributions Slogan ‘Was A Mistake’](https://archive.is/20160925/http://www.huffingtonpost.co.uk/entry/nigel-farage-good-morning-britain-eu-referendum-brexit-350-nhs_uk_576d0aa3e4b08d2c5638fc17?sv5nrk9)
 
 
-<a href='#note_9' name='foot_9'>9.</a> Read [Art of the lie](https://archive.is/20160920/http://www.economist.com/news/leaders/21706525-politicians-have-always-lied-does-it-matter-if-they-leave-truth-behind-entirely-art?fsrc=scn/tw/te/pe/ed/artofthelie) at The Economist.
+<a href='#note_9' name='foot_9'>9.</a> Read [Art of the lie](https://archive.is/20160925/http://www.economist.com/news/leaders/21706525-politicians-have-always-lied-does-it-matter-if-they-leave-truth-behind-entirely-art?fsrc=scn/tw/te/pe/ed/artofthelie) at The Economist.
 
 
-<a href='#note_10' name='foot_10'>10.</a> [“Social science done on deadline”: Research chat with ASU’s Steve Doig on data journalism](https://archive.is/20160920/http://journalistsresource.org/tip-sheets/research/research-chat-steve-doig-data-journalism-social-science-deadline)
+<a href='#note_10' name='foot_10'>10.</a> [“Social science done on deadline”: Research chat with ASU’s Steve Doig on data journalism](https://archive.is/20160925/http://journalistsresource.org/tip-sheets/research/research-chat-steve-doig-data-journalism-social-science-deadline)
 
 
-<a href='#note_11' name='foot_11'>11.</a> [The Hardest Check](https://archive.is/20160920/http://livex.poynter.org/wp-content/uploads/2015/10/The-hardest-check-1.pdf) is the closest thing to a meta-study you'll find.
+<a href='#note_11' name='foot_11'>11.</a> [The Hardest Check](https://archive.is/20160925/http://livex.poynter.org/wp-content/uploads/2015/10/The-hardest-check-1.pdf) is the closest thing to a meta-study you'll find.
 
 
-<a href='#note_12' name='foot_12'>12.</a> Read [Estimating fact checking effects](https://archive.is/20160920/https://www.americanpressinstitute.org/wp-content/uploads/2016/09/Estimating-Fact-Checkings-Effect.pdf).
+<a href='#note_12' name='foot_12'>12.</a> Read [Estimating fact checking effects](https://archive.is/20160925/https://www.americanpressinstitute.org/wp-content/uploads/2016/09/Estimating-Fact-Checkings-Effect.pdf).
 
 
-<a href='#note_13' name='foot_13'>13.</a> Read [The effects of fact-checking threat](https://archive.is/20160920/http://www.democracyfund.org/media/uploaded/nyhan-reifler-Effects_of_threat-naf.pdf).
+<a href='#note_13' name='foot_13'>13.</a> Read [The effects of fact-checking threat](https://archive.is/20160925/http://www.democracyfund.org/media/uploaded/nyhan-reifler-Effects_of_threat-naf.pdf).
 
 
-<a href='#note_14' name='foot_14'>14.</a> On the difference between data and facts, read my essay on the [definition of datajournalism](https://archive.is/20160920/http://blog.nkb.fr/datajournalism).
+<a href='#note_14' name='foot_14'>14.</a> On the difference between data and facts, read my essay on the [definition of datajournalism](https://archive.is/20160925/http://blog.nkb.fr/datajournalism).
 
 
-<a href='#note_15' name='foot_15'>15.</a> Read [Blinded with science: Trivial graphs and formulas increase ad persuasiveness and belief in product efficacy](https://archive.is/20160920/http://sci-hub.cc/10.1177/0963662514549688).
+<a href='#note_15' name='foot_15'>15.</a> Read [Blinded with science: Trivial graphs and formulas increase ad persuasiveness and belief in product efficacy](https://archive.is/20160925/http://sci-hub.cc/10.1177/0963662514549688).
 
 
-<a href='#note_16' name='foot_16'>16.</a> Read [How Deceptive are Deceptive Visualizations?: An Empirical Analysis of Common Distortion Techniques](https://archive.is/20160920/http://sci-hub.cc/10.1145/2702123.2702608).
+<a href='#note_16' name='foot_16'>16.</a> Read [How Deceptive are Deceptive Visualizations?: An Empirical Analysis of Common Distortion Techniques](https://archive.is/20160925/http://sci-hub.cc/10.1145/2702123.2702608).
 
 
-<a href='#note_17' name='foot_17'>17.</a> Read the [Munich Declaration of the Duties and Rights of Journalists](https://archive.is/20160920/http://www.mediawise.org.uk/european-union/).
+<a href='#note_17' name='foot_17'>17.</a> Read the [Munich Declaration of the Duties and Rights of Journalists](https://archive.is/20160925/http://www.mediawise.org.uk/european-union/).
 
 
-<a href='#note_18' name='foot_18'>18.</a> Read here [a case from 2007](https://archive.is/20160920/http://rue89.nouvelobs.com/2007/05/15/jdd-la-redaction-denonce-une-censure-inacceptable-568) at Le Journal du Dimanche, here [another one from 2016](https://archive.is/20160920/http://www.acrimed.org/Lettre-ouverte-a-Jean-Michel-Aphatie-quel-role-choisirez-vous) at Europe 1.
+<a href='#note_18' name='foot_18'>18.</a> Read here [a case from 2007](https://archive.is/20160925/http://rue89.nouvelobs.com/2007/05/15/jdd-la-redaction-denonce-une-censure-inacceptable-568) at Le Journal du Dimanche, here [another one from 2016](https://archive.is/20160925/http://www.acrimed.org/Lettre-ouverte-a-Jean-Michel-Aphatie-quel-role-choisirez-vous) at Europe 1.
 
 
-<a href='#note_19' name='foot_19'>19.</a> That's what Peter Osborne wrote when he quit. Read [Telegraph's Peter Oborne resigns, saying HSBC coverage a 'fraud on readers' ](https://archive.is/20160920/http://www.theguardian.com/media/2015/feb/17/peter-oborne-telegraph-hsbc-coverage-fraud-readers)
+<a href='#note_19' name='foot_19'>19.</a> That's what Peter Osborne wrote when he quit. Read [Telegraph's Peter Oborne resigns, saying HSBC coverage a 'fraud on readers' ](https://archive.is/20160925/http://www.theguardian.com/media/2015/feb/17/peter-oborne-telegraph-hsbc-coverage-fraud-readers)
 
 
-<a href='#note_20' name='foot_20'>20.</a> Read [My Year Ripping Off the Web With the Daily Mail Online](https://archive.is/20160920/http://tktk.gawker.com/my-year-ripping-off-the-web-with-the-daily-mail-online-1689453286)
+<a href='#note_20' name='foot_20'>20.</a> Read [My Year Ripping Off the Web With the Daily Mail Online](https://archive.is/20160925/http://tktk.gawker.com/my-year-ripping-off-the-web-with-the-daily-mail-online-1689453286)
 
 
-<a href='#note_21' name='foot_21'>21.</a> On the rise of Valeurs Actuelles, read [Valeurs Actuelles : enquête sur une extrême droitisation](https://archive.is/20160920/http://teleobs.nouvelobs.com/actualites/20151201.OBS0468/valeurs-actuelles-enquete-sur-une-extreme-droitisation.html).
+<a href='#note_21' name='foot_21'>21.</a> On the rise of Valeurs Actuelles, read [Valeurs Actuelles : enquête sur une extrême droitisation](https://archive.is/20160925/http://teleobs.nouvelobs.com/actualites/20151201.OBS0468/valeurs-actuelles-enquete-sur-une-extreme-droitisation.html).
 
 
-<a href='#note_22' name='foot_22'>22.</a> The figure is [not audited](https://archive.is/20160920/https://blogs.mediapart.fr/edwy-plenel/blog/300316/les-nouveaux-tarifs-de-mediapart) and Mediapart has a history of counting subscribers creatively, but still.
+<a href='#note_22' name='foot_22'>22.</a> The figure is [not audited](https://archive.is/20160925/https://blogs.mediapart.fr/edwy-plenel/blog/300316/les-nouveaux-tarifs-de-mediapart) and Mediapart has a history of counting subscribers creatively, but still.
 
 
-<a href='#note_23' name='foot_23'>23.</a> Read [page 12](https://archive.is/20160920/https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf) of the 1967 essay.
+<a href='#note_23' name='foot_23'>23.</a> Read [page 12](https://archive.is/20160925/https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf) of the 1967 essay.
 
 
-<a href='#note_24' name='foot_24'>24.</a> _Science_ ran a study and showed that half of 300 journals surveyed accepted an obviously fake paper: [Who's Afraid of Peer Review?](https://archive.is/20160920/http://science.sciencemag.org/content/342/6154/60.full).
+<a href='#note_24' name='foot_24'>24.</a> _Science_ ran a study and showed that half of 300 journals surveyed accepted an obviously fake paper: [Who's Afraid of Peer Review?](https://archive.is/20160925/http://science.sciencemag.org/content/342/6154/60.full).
 
 
-<a href='#note_25' name='foot_25'>25.</a> Read [How computer-generated fake papers are flooding academia](https://archive.is/20160920/https://www.theguardian.com/technology/shortcuts/2014/feb/26/how-computer-generated-fake-papers-flooding-academia).
+<a href='#note_25' name='foot_25'>25.</a> Read [How computer-generated fake papers are flooding academia](https://archive.is/20160925/https://www.theguardian.com/technology/shortcuts/2014/feb/26/how-computer-generated-fake-papers-flooding-academia).
 
 
-<a href='#note_26' name='foot_26'>26.</a> Read [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://archive.is/20160920/http://io9.gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800).
+<a href='#note_26' name='foot_26'>26.</a> Read [I Fooled Millions Into Thinking Chocolate Helps Weight Loss. Here's How.](https://archive.is/20160925/http://io9.gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800).
 
 
 <a href='#note_27' name='foot_27'>27.</a> Read chapters 16 and 23 of _Golden Holocaust: Origins of the Cigarette Catastrophe and the Case for Abolition_ by Robert Proctor.
 
 
-<a href='#note_28' name='foot_28'>28.</a> Read [How the Sugar Industry Shifted Blame to Fat](https://archive.is/20160920/http://www.nytimes.com/2016/09/13/well/eat/how-the-sugar-industry-shifted-blame-to-fat.html?_r=0).
+<a href='#note_28' name='foot_28'>28.</a> Read [How the Sugar Industry Shifted Blame to Fat](https://archive.is/20160925/http://www.nytimes.com/2016/09/13/well/eat/how-the-sugar-industry-shifted-blame-to-fat.html?_r=0).
 
 
-<a href='#note_29' name='foot_29'>29.</a> Find it here: [Assessing surgeon-level risk of patient harm during elective surgery for public reporting](https://archive.is/20160920/https://static.propublica.org/projects/patient-safety/methodology/surgeon-level-risk-methodology.pdf).
+<a href='#note_29' name='foot_29'>29.</a> Find it here: [Assessing surgeon-level risk of patient harm during elective surgery for public reporting](https://archive.is/20160925/https://static.propublica.org/projects/patient-safety/methodology/surgeon-level-risk-methodology.pdf).
