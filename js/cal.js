@@ -5,13 +5,17 @@ var begin = new moment.utc([2010, 4, 1, 0, 0, 0, 0]);
 
 //Difference in months
 var diff = current.diff(begin, 'months');
+var current_cal = "#cal"
 for (var month=0; month<=diff; month++){
 
 	var month_str = current.format("MMMM 'YY");
 	var month_id = current.format("MM") + "-" + current.format("YYYY");
 
+	if (month > 12) {
+		current_cal = "#cal2";
+	}
 
-	$("#cal").append(
+	$(current_cal).append(
 			$('<div/>', {
 	            class: 'month-cal span2',
 	            id: month_id,
