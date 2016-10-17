@@ -47,6 +47,7 @@ And we need help. We need help from people who lived under the authoritarian reg
 Only with their help will we be able to devise a plan that might bring our freedoms, and democracy, back where they started in 1789.
 
 <a name="notes"></a>
+
 ### Notes
 
 1. French NGO La Quadrature [maintains a wiki](https://wiki.laquadrature.net/%C3%89tat_urgence/Recensement) of police activity since November 13. It contains all the links supporting the assertions above.
