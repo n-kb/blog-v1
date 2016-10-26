@@ -1888,5 +1888,23 @@
     "type": "Training",
     "text": "",
     "location": "Neuchâtel"
+  },
+  {
+    "title": "MINDS Conference",
+    "startdate": "2016-10-20T00:00:00.000Z",
+    "enddate": "2016-10-21T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Copenhagen"
+  },
+  {
+    "title": "Nicolas Kayser-Bril: Az a kérdés, mi az újságírás egyáltalán?",
+    "startdate": "2016-10-26T00:00:00.000Z",
+    "enddate": "2016-10-26T00:00:00.000Z",
+    "url": "https://adatujsagiras.atlatszo.hu/2016/10/25/nicolas-kayser-bril-az-a-kerdes-mi-az-ujsagiras-egyaltalan/",
+    "type": "Interview",
+    "text": "",
+    "location": ""
   }
 ]
