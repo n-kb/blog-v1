@@ -4,6 +4,10 @@ title: "Les espoirs inutiles [nouvelle]"
 category: posts
 ---
 
+_Pour changer des essais, j'ai écrit une nouvelle. On m'a dit que c'était dystopique ; je réponds que c'est prospectif._
+
+_Merci infiniment à Maud, Camille, Clara, Anne-Lise et Snoussi pour leurs conseils. Mes excuses pour toutes les fautes d'orthographe qui restent._
+
 # 1.
 
 De la moquette. Des murs blancs. Pas de fenêtre. Un seau. Des néons. Surtout des néons. Ils ne s’éteignaient jamais. Thomas était sans doute un immeuble de bureaux. Ou au moins dans ce qui fut, un jour, un immeuble de bureaux. Cela devait faire deux jours qu’il était enfermé dans cette pièce. Trois fois on était venu lui apporter à manger et il n'avait pas l'impression d'avoir trop faim: À peu près deux jours. Peut-être un et demi. Peut-être trois. Il ne savait pas trop.
