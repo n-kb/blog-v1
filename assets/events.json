@@ -1906,5 +1906,68 @@
     "type": "Interview",
     "text": "",
     "location": ""
+  },
+  {
+    "title": "Conference at TASS",
+    "startdate": "2016-11-18T00:00:00.000Z",
+    "enddate": "2016-11-18T00:00:00.000Z",
+    "url": "https://www.youtube.com/watch?v=c2UHdfIxKEY",
+    "type": "Conference",
+    "text": "",
+    "location": "Moscow"
+  },
+  {
+    "title": "Mapping for storytelling, course at HSE",
+    "startdate": "2016-11-16T00:00:00.000Z",
+    "enddate": "2016-11-17T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Moscow"
+  },
+  {
+    "title": "Mapping for storytelling, course at HSE",
+    "startdate": "2016-11-19T00:00:00.000Z",
+    "enddate": "2016-11-19T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Moscow"
+  },
+  {
+    "title": "Datajournalism camp: Presentation of Migrants Files",
+    "startdate": "2016-11-13T00:00:00.000Z",
+    "enddate": "2016-11-13T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Wannsee"
+  },
+  {
+    "title": "Datajournalism camp: OpenRefine",
+    "startdate": "2016-11-14T00:00:00.000Z",
+    "enddate": "2016-11-14T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Datajournalism, Prisma",
+    "startdate": "2016-11-22T00:00:00.000Z",
+    "enddate": "2016-11-22T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris"
+  },
+  {
+    "title": "Collaboration in Journalism",
+    "startdate": "2016-12-02T00:00:00.000Z",
+    "enddate": "2016-12-02T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Oxford"
   }
 ]
