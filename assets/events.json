@@ -1969,5 +1969,14 @@
     "type": "Conference",
     "text": "",
     "location": "Oxford"
+  },
+  {
+    "title": "Echt wahr: Datenjournalismus und Liebeleien, Breitband",
+    "startdate": "2016-12-03T00:00:00.000Z",
+    "enddate": "2016-12-03T00:00:00.000Z",
+    "url": "http://breitband.deutschlandradiokultur.de/brb161203/",
+    "type": "Interview",
+    "text": "Not really an interview, more like reading a text I wrote. Immerhin.",
+    "location": ""
   }
 ]
