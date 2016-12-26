@@ -41,7 +41,9 @@ D'autres argumenteront qu'en ridiculisant les arabes, le caricaturiste les prend
 Qu'un dessin raciste soit défendu avec un tel acharnement est uniquement le reflet du sentiment raciste qui s'est répandu en France. L'élite française est morte depuis longtemps. Elle est à présent en état de putréfaction. Les dessins racistes ne sont qu'une des émanations qui se dégagent de son cadavre, rongé par la vermine réactionnaire.
 
 <a name="notes"></a>
+
 ### Notes
+
 1. Cette phrase n'est là que pour rendre cet essai conforme à l'article L 122-5 du code de la propriété intellectuelle.
 1. Mon ami Florent Maurin [fait remarquer sur Facebook](https://www.facebook.com/nicolas.kayserbril/posts/446968652176754?comment_id=447210595485893) qu'on peut considérer les personnages du dessins comme des demandeurs d'asile et non comme des arabes. Si c'est le cas, une partie de mon argumentaire ne tient plus.
 1. Au 12 janvier, la police fédérale listait 32 suspects dont 4 Syriens, [selon la WDR](http://www1.wdr.de/themen/aktuell/vorfaelle-hauptbahnhof-koeln-fakten-100.html). Un [article de la ZEIT](http://www.zeit.de/gesellschaft/zeitgeschehen/2016-01/koeln-silvester-uebergriffe-medien) de la semaine précédente (6 janvier) documente précisément comment les rumeurs autour des évènements du 31 décembre ont été utilisées comme des faits.
