@@ -49,7 +49,7 @@ That a racist cartoon is so fiercely defended only reflects the racist sentiment
 1. See here [a short article](http://www.le-toaster.fr/culture-g/dou-viennent-les-beaufs/) on how Cabu created and used _Les Beaufs_ (in French).
 1. As quoted in [this piece](http://lmsi.net/Philippe-Val-est-un-raciste).
 1. Quoted in [Y’a Bon Awards : la gauche plane sur le palmarès 2015](http://www.politis.fr/Y-a-Bon-Awards-la-gauche-plane-sur,31546.html).
-1. Read this great piece by Olivier Cyran: [« Charlie Hebdo », pas raciste ? Si vous dites… le](http://www.article11.info/?Charlie-Hebdo-pas-raciste-Si-vous).
+1. Read this great piece by Olivier Cyran: [« Charlie Hebdo », pas raciste ? Si vous dites…](http://www.article11.info/?Charlie-Hebdo-pas-raciste-Si-vous).
 1. Quoted by [Pascal Boniface on Twitter](https://twitter.com/PascalBoniface/status/681077240269041664), from France Info. If you have the original recording, do drop me a line.
 1. Most of the Muslims jailed for expressing sympathy with the January 7 killers were sentenced to less than a year in prison. Longer sentences were given in cases when aggravating factors, such as drunk driving, were present. Read the [fantastic analysis by Quartier XXI](http://quartiersxxi.org/le-delire-anti-terroriste-manque-sa-cible) on the topic.
 1. Just one of many, many studies on the topic: [Discriminations religieuses à l'embauche : une réalité](http://www.institutmontaigne.org/fr/publications/discriminations-religieuses-lembauche-une-realite) by Institut Montaigne.
