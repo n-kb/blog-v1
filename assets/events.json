@@ -1978,5 +1978,32 @@
     "type": "Interview",
     "text": "Not really an interview, more like reading a text I wrote. Immerhin.",
     "location": ""
+  },
+  {
+    "title": "Développer son esprit critique face aux nombres",
+    "startdate": "2016-12-13T00:00:00.000Z",
+    "enddate": "2016-12-13T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Toulouse"
+  },
+  {
+    "title": "Datajournalisme, Unine",
+    "startdate": "2016-12-07T00:00:00.000Z",
+    "enddate": "2016-12-09T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Neuchâtel"
+  },
+  {
+    "title": "Presentation of The Migrants' Files",
+    "startdate": "2016-12-19T00:00:00.000Z",
+    "enddate": "2016-12-19T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "Organized by KAS",
+    "location": "Athens"
   }
 ]
