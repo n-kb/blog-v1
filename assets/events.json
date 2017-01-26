@@ -1989,6 +1989,33 @@
     "location": ""
   },
   {
+    "title": "Radio Nova",
+    "startdate": "2017-01-19T00:00:00.000Z",
+    "enddate": "2017-01-19T00:00:00.000Z",
+    "url": "",
+    "type": "Interview",
+    "text": "Phone interview to discuss the Streetvox article.",
+    "location": ""
+  },
+  {
+    "title": "FN et extrême droite, des partis comme les autres: la preuve par les données",
+    "startdate": "2017-01-21T00:00:00.000Z",
+    "enddate": "2017-01-21T00:00:00.000Z",
+    "url": "http://www.lexpress.fr/actualite/politique/fn-et-extreme-droite-des-partis-comme-les-autres-la-preuve-par-les-donnees_1870721.html",
+    "type": "Article",
+    "text": "Article that uses data from jQuest.",
+    "location": ""
+  },
+  {
+    "title": "On a mesuré la diversité des élus en Europe et la France est au fond du classement",
+    "startdate": "2017-01-17T00:00:00.000Z",
+    "enddate": "2017-01-17T00:00:00.000Z",
+    "url": "http://www.streetpress.com/sujet/1484673356-diversite-elus-en-europe",
+    "type": "Article",
+    "text": "Article that uses data from jQuest.",
+    "location": ""
+  },
+  {
     "title": "Développer son esprit critique face aux nombres",
     "startdate": "2016-12-13T00:00:00.000Z",
     "enddate": "2016-12-13T00:00:00.000Z",
