@@ -6,7 +6,7 @@ category: posts
 
 Upon advice from Nikos S., I read _Inventing the Future, Postcapitalism and a World Without Work_, by two British academics in their late 30's, Nick Srnicek and Alex Williams. It is a very important book for anyone who needs a reason to sensibly hope that values of tolerance, reason and empathy will rise again once the episode of hate we are undergoing is over.<sup><a name='note_1' href='#foot_1'>1</a></sup>
 
-In this essay, I will briefly summarize the book and address some of its shortcomings, then turn to why it's important for you to read this book. The second part of the essay assesses how the can be useful to address the current political situation in Europe and why is might not go far enough.
+In this essay, I will briefly summarize the book and address some of its shortcomings, then turn to why it's important for you to read it. The second part of the essay assesses how the book can be useful to address the current political situation in Europe and why is might not go far enough.
 
 ## Don't read this paragraph, buy the book
 
