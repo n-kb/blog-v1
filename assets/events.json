@@ -2041,5 +2041,14 @@
     "type": "Conference",
     "text": "Organized by KAS",
     "location": "Athens"
+  },
+  {
+    "title": "Informer avec des Données structurées",
+    "startdate": "2017-01-27T00:00:00.000Z",
+    "enddate": "2017-01-27T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "At EJCAM",
+    "location": "Marseilles"
   }
 ]
