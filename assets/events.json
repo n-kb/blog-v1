@@ -2050,5 +2050,23 @@
     "type": "Conference",
     "text": "At EJCAM",
     "location": "Marseilles"
+  },
+  {
+    "title": "The Good, The Bad and The Accountant",
+    "startdate": "2017-02-27T00:00:00.000Z",
+    "enddate": "2017-02-27T00:00:00.000Z",
+    "url": "https://jplusplus.github.io/the-accountant/",
+    "type": "Project",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "J’ai créé un jeu qui t’apprend à devenir un élu… corrompu",
+    "startdate": "2017-03-01T00:00:00.000Z",
+    "enddate": "2017-03-01T00:00:00.000Z",
+    "url": "http://www.streetpress.com/sujet/1488373119-corruption-elus-jeu",
+    "type": "Article",
+    "text": "",
+    "location": ""
   }
 ]
