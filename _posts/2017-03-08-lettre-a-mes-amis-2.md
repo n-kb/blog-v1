@@ -3,6 +3,7 @@ layout: post
 title: "Lettre à mes amis"
 category: posts
 image: "images/Grosz_Widmung_an_Oskar_Panizza.jpg"
+description: "Vous m'avez dit ces derniers temps que j'étais maussade, parano, voire carrément chiant. Je vois tout en noir et en plus je ne propose rien. Laissez moi vous expliquer pourquoi. Je vais parler politique, pouvoir, démocratie, morale et barbituriques et à la fin, j'espère que vous me comprendrez mieux."
 ---
 
 Chers ami-e-s,
