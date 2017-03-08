@@ -6,6 +6,7 @@ exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : Nicolas Kayser-Bril
 production_url : http://blog.nkb.fr
 description: "Thoughts on journalism, media and other things by Nicolas Kayser-Bril."
+image: "images/Battle_of_Lights.jpg"
 author :
   name : Nicolas Kayser-Bril
   github : n-kb
