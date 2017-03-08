@@ -86,3 +86,14 @@ $.getJSON('/assets/events.json', function(data){
 		}
 	})
 })
+
+$('.note_anchor').each(function(){
+	var currentIdName = $(this).attr("id")
+	var footnote = $( "a[href=" + currentIdName + "]" )
+	$(this).attr("data-toggle", "tooltip")
+		   .attr("data-placement", "right")
+		   .attr("title", footnote.attr('data-text'))
+	$(this).tooltip({
+  		template: '<div class="tooltip large-tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div>'
+	});
+});
