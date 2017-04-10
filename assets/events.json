@@ -2068,5 +2068,24 @@
     "type": "Article",
     "text": "",
     "location": ""
+  },
+  {
+    "title": "International Journalism Festival",
+    "startdate": "2017-04-05T00:00:00.000Z",
+    "enddate": "2017-04-08T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "Various panels",
+    "location": "Perugia"
+  }
+  ,
+  {
+    "title": "Datajournalisme, CFJ",
+    "startdate": "2017-03-27T00:00:00.000Z",
+    "enddate": "2017-03-28T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris"
   }
 ]
