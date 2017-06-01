@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things learned in 5 years of Journalism++"
-image: "images/Franz Radziwill_paintings_artodyssey.jpg"
+image: "images/Franz_Radziwill_paintings_artodyssey.jpg"
 description: "We're winding down the company we created over 5 years ago. Time to reflect on what I learned."
 category: posts
 ---
