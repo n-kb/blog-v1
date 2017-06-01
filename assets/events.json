@@ -2087,5 +2087,41 @@
     "type": "Training",
     "text": "",
     "location": "Paris"
+  },
+  {
+    "title": "Datajournalisme, CFJ",
+    "startdate": "2017-04-19T00:00:00.000Z",
+    "enddate": "2017-04-20T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris"
+  },
+  {
+    "title": "Themen, die Sachsen bewegen (Radio PSR)",
+    "startdate": "2017-05-01T00:00:00.000Z",
+    "enddate": "2017-05-01T00:00:00.000Z",
+    "url": "http://assets.radiopsr.de/sites/default/files/media/audio/2017-04/Spiel_zu_Korruption__Die_Guten%2C_die_B%C3%B6sen_und_die_Buchhalter_-_19_20_TdSb_2017-04-30.mp3",
+    "type": "Interview",
+    "text": "Phone interview to discuss The Good, The Bad and The Accountant.",
+    "location": ""
+  },
+  {
+    "title": "Uutisraivaaja alumni: team InfluenceNetworks",
+    "startdate": "2017-05-30T00:00:00.000Z",
+    "enddate": "2017-05-30T00:00:00.000Z",
+    "url": "http://www.uutisraivaaja.fi/en/2017/05/30/uutisraivaaja-alumni-team-influencenetworks/",
+    "type": "Interview",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "How can journalists best handle public fiscal data to produce data-driven stories?",
+    "startdate": "2017-05-16T00:00:00.000Z",
+    "enddate": "2017-05-16T00:00:00.000Z",
+    "url": "https://blog.okfn.org/2017/05/16/how-can-journalists-best-handle-public-fiscal-data-to-produce-data-driven-stories-an-interview-with-nicolas-kayser-bril/",
+    "type": "Interview",
+    "text": "",
+    "location": ""
   }
 ]
