@@ -70,7 +70,7 @@ Ce passage d'une société réglée par la loi à une société réglée par la 
 
 Avec cette deuxième clé, tu peux juger le programme des candidats. Cherche ceux qui souhaite rompre avec l'hégémonie néolibérale, ceux qui veulent redonner aux institutions un véritable rôle de contre-pouvoir.
 
-![André Bouchet a.k.a. Passe-partout montre trois clés.](../images/passepartout.jpg)
+![André Bouchet a.k.a. Passe-partout montre trois clés.](/images/passepartout.jpg)
 
 ## Clé numéro trois: Le changement climatique
 
