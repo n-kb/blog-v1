@@ -8,6 +8,7 @@ category: posts
 
 J’ai été témoin de ces histoires en Géorgie, en juin 2017. Tout y est authentique et si certains évènements ne se sont pas passés exactement comme je le raconte, c’est uniquement parce que la réalité a décidé de s’éloigner de ma version.
 
+_Merci à J.Z.F., A.L.B. et B.B. pour leurs conseils et leur relecture._
 
 ![Le Kazbek et l'église.](/images/georgie_04.jpg)
 
@@ -69,6 +70,7 @@ L’Israélien avait enfin atteint la barre des 65 pays visités, mais il ne pou
 
 
 
+_Merci à J.Z.F., A.L.B. et B.B. pour leurs conseils et leur relecture._
 
 ![Route de la Groussie, premier pont.](/images/georgie_03.jpg)
 
@@ -134,6 +136,7 @@ L’oncle était content de la voir aussi joyeuse et il se rassit sur son banc, 
 
 
 ![Tiflis. Le jardin botanique.](/images/georgie_02.jpg)
+_Merci à J.Z.F., A.L.B. et B.B. pour leurs conseils et leur relecture._
 
 
 ## Le jour où les croix disparurent
@@ -178,6 +181,7 @@ C’est ainsi que la Géorgie devint le premier pays à passer au drapeau numér
 
 ![Près de Passanauri.](/images/georgie_05.jpg)
 
+_Merci à J.Z.F., A.L.B. et B.B. pour leurs conseils et leur relecture._
 
 ## Valeri
 
@@ -222,6 +226,7 @@ En quelques années, le béton se répandit sur la Géorgie. Il se répandit dan
 
 ![Tiflis. La forteresse et la ville.](/images/georgie_01.jpg)
 
+_Merci à J.Z.F., A.L.B. et B.B. pour leurs conseils et leur relecture._
 
 ## La bête de la forêt
 
