@@ -3,7 +3,7 @@ layout: post
 title: "The Humanist Paradox"
 category: posts
 image: "images/masquerade.jpg"
-description: "Everywhere the humanist project traveled, it brought with it racism and massacres, from Congo to Little Big Horn to Tasmania. Is this a coincidence, or is racism a part of humanism?"
+description: "Everywhere the humanist project traveled, it brought with it racism and massacres, from Congo to Wounded Knee to Tasmania. Is this a coincidence, or is racism a part of humanism?"
 ---
 
 Ever since I started to study history, I've been obsessed with one question. Everywhere the humanist project traveled, it brought with it racism and massacres, from Congo to Wounded Knee to Tasmania. Sven Lindqvist, a Swedish author, puts it beautifully when he says that "the idea of extermination lies no further from the heart of humanism than Buchenwald lies from the Goethehaus in Weimar".<sup><a name='note_1' id='#note_1' class='note_anchor' href='#foot_1'>1</a></sup> Is this a coincidence, or is racism a part of humanism? This is what I pompously called the _Humanist Paradox_.
