@@ -2077,8 +2077,7 @@
     "type": "Conference",
     "text": "Various panels",
     "location": "Perugia"
-  }
-  ,
+  },
   {
     "title": "Datajournalisme, CFJ",
     "startdate": "2017-03-27T00:00:00.000Z",
@@ -2121,6 +2120,51 @@
     "enddate": "2017-05-16T00:00:00.000Z",
     "url": "https://blog.okfn.org/2017/05/16/how-can-journalists-best-handle-public-fiscal-data-to-produce-data-driven-stories-an-interview-with-nicolas-kayser-bril/",
     "type": "Interview",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Airport Controls",
+    "startdate": "2017-07-19T00:00:00.000Z",
+    "enddate": "2017-07-19T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/airport-controls",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Ich bin jetzt Deutscher",
+    "startdate": "2017-07-20T00:00:00.000Z",
+    "enddate": "2017-07-20T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/ich-bin-deutscher",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "The Humanist Paradox",
+    "startdate": "2017-07-03T00:00:00.000Z",
+    "enddate": "2017-07-03T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/humanism-racism",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Les Clés pour Comprendre",
+    "startdate": "2017-06-03T00:00:00.000Z",
+    "enddate": "2017-06-03T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/les-cles-pour-comprendre",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Things learned in 5 years of Journalism++",
+    "startdate": "2017-06-01T00:00:00.000Z",
+    "enddate": "2017-06-01T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/things-learned-jpp",
+    "type": "Article",
     "text": "",
     "location": ""
   }
