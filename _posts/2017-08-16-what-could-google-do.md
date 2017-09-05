@@ -77,7 +77,7 @@ Google could also require that journalists who are awarded grants provide good a
 <a href='#note_7' name='foot_7' data-text='This point is well made by Caitlin Dewey of the Washington Post: ‘’What Was Fake on the Internet This Week: Why This Is the Final Column’.'>7.</a> This point is well made by Caitlin Dewey of the Washington Post: ['What Was Fake on the Internet This Week: Why This Is the Final Column](https://archive.is/20170816/https://www.washingtonpost.com/news/the-intersect/wp/2015/12/18/what-was-fake-on-the-internet-this-week-why-this-is-the-final-column/).
 
 
-<a href='#note_8' name='foot_8' data-text='Euronews could stand the comparison, but it was funded with the public funds of European public service broadcasters, not private ones.'>8.</a> Euronews could stand the comparison, but it was funded with the public funds of European public service broadcasters, not private ones.
+<a href='#note_8' name='foot_8' data-text='Euronews could stand the comparison, but it was initially funded with the public funds of European public service broadcasters, not private ones.'>8.</a> Euronews could stand the comparison, but it was initially funded with the public funds of European public service broadcasters, not private ones.
 
 
 <a href='#note_9' name='foot_9' data-text='In Un Si Petit Monde. Read online ‘Comment « Le Monde » fut vendu’.'>9.</a> In _Un Si Petit Monde_. Read online [Comment « Le Monde » fut vendu](https://archive.is/20170816/http://www.monde-diplomatique.fr/2011/06/RIMBERT/20696).
