@@ -6,7 +6,7 @@ image: "images/the-new-precision-journalism.jpg"
 description: "Almost fifty years after Philip Meyer first published 'Precision Journalism', the book remains fresh. But the assumptions it made needs to be questioned."
 ---
 
-_This is the write-up of a [talk I am due to give at the SciCAR conference](https://scicar17.sched.com/event/BTVW) in Dortmund on September 7, 2017._
+_This is the write-up of a talk I gave at the SciCAR conference in Dortmund on September 7, 2017._
 
 The organizers of the conference asked me to prepare a talk called "Meyer Revisited". Philip Meyer is well-known in datajournalism circles. He was among the first ones to use the methods of social science for journalistic purposes - and it turned out to be a great idea. That was close to fifty years ago, so it might be time to take a modern look at the ground-breaking book Meyer wrote in the late 1960's and revamped in a new edition in 1991, _Precision Journalism_. 
 
@@ -55,6 +55,12 @@ Maybe, just maybe, we should consider the hypothesis that neither newsrooms nor 
 Similarly, the incentives currently in place in academia do little to foster truth-seeking. Instead, researchers who want to succeed professionally need to publish a lot and fulfill grant contracts. Those who do best are the ones who will not hesitate to kill a result if it shows that the assumptions of the organization that funded the project were false. A successful researcher today is a researcher who will not let the truth come in the way of a good funding opportunity.<sup><a name='note_17' id='#note_17' class='note_anchor' href='#foot_17'>17</a></sup>
 
 Few journalists make finding factual truths their main goal and a dwindling number of academics do. Hopefully, the programs of the Volkswagen Stiftung will help these minorities find each other and conduct interesting projects. But we need to review our expectations: As long as the incentives to produce and communicate untruths remain in place in academia and in the newsroom, Philip Meyer's vision of academics and journalists working hand in hand will remain a mirage.
+
+***
+
+The questions and answers session brought to the fore several other examples of successful collaborations between academics and journalists. The Jupyter Notebook, a way to share code in an easy-to-read format, is a good example of a project steered by both academics and practitioners (not only journalists). The collaboration between investigative journalist Sam Roe and Lee Newman of the University of Colorado is also remarkable. But again, I don't deny that there are hundreds of scientists and journalists doing great things, I just hypothesize that the incentives in place for the thousands of others are such that they probably won't work together on truth-seeking projects.
+
+Another participant argued that we should not call "journalism" the work of a newsroom that is not dedicated to finding or communicating the truth (similarly, we should not call "science" anything that is not aimed at coming closer to the truth). While I agree for "science" and prefer the term "academia", I'd argue that "journalism" refers to a medium and not to a practice. Beyond the irrelevant lexicographical debate lies a strategic choice: Should one try to reform a newsroom to steer it towards making truth-seeking its core mission, or should one work outside of it? I don't have an answer.
 	
 
 <h4>Newsletter</h4>
@@ -68,19 +74,19 @@ Few journalists make finding factual truths their main goal and a dwindling numb
 
 
 
-<a href='#note_1' name='foot_1' data-text='both examples are in Chapter 4, ‘Computers’.'>1.</a> both examples are in Chapter 4, [_Computers_](https://archive.is/20170905/http://www.unc.edu/~pmeyer/book/Chapter4.htm).
+<a href='#note_1' name='foot_1' data-text='both examples are in Chapter 4, ‘Computers’.'>1.</a> both examples are in Chapter 4, [_Computers_](https://archive.is/20170907/http://www.unc.edu/~pmeyer/book/Chapter4.htm).
 
 
-<a href='#note_2' name='foot_2' data-text='See ‘A 911 plea for help, a Taser shot, a death - and the mounting toll of stun guns’.'>2.</a> See [A 911 plea for help, a Taser shot, a death - and the mounting toll of stun guns](https://archive.is/20170905/www.reuters.com/investigates/special-report/usa-taser-911/).
+<a href='#note_2' name='foot_2' data-text='See ‘A 911 plea for help, a Taser shot, a death - and the mounting toll of stun guns’.'>2.</a> See [A 911 plea for help, a Taser shot, a death - and the mounting toll of stun guns](https://archive.is/20170907/www.reuters.com/investigates/special-report/usa-taser-911/).
 
 
-<a href='#note_3' name='foot_3' data-text='See an example from Arizona: ‘Judge rules for Taser in cause-of-death decisions’.'>3.</a> See an example from Arizona: [Judge rules for Taser in cause-of-death decisions](https://archive.is/20170905/http://archive.azcentral.com/news/articles/2008/05/02/20080502taser0503.html).
+<a href='#note_3' name='foot_3' data-text='See an example from Arizona: ‘Judge rules for Taser in cause-of-death decisions’.'>3.</a> See an example from Arizona: [Judge rules for Taser in cause-of-death decisions](https://archive.is/20170907/http://archive.azcentral.com/news/articles/2008/05/02/20080502taser0503.html).
 
 
 <a href='#note_4' name='foot_4' data-text='Meyer never writes this directly, but, in Chapter 1, he equates journalism with truth-finding many times and then goes on to argue that precision journalism is more powerful to achieve that goal.'>4.</a> Meyer never writes this directly, but, in Chapter 1, he equates journalism with truth-finding many times and then goes on to argue that precision journalism is more powerful to achieve that goal.
 
 
-<a href='#note_5' name='foot_5' data-text='Read ‘The Killing of Osama bin Laden’.'>5.</a> Read [The Killing of Osama bin Laden](https://archive.is/20170905/https://www.lrb.co.uk/v37/n10/seymour-m-hersh/the-killing-of-osama-bin-laden).
+<a href='#note_5' name='foot_5' data-text='Read ‘The Killing of Osama bin Laden’.'>5.</a> Read [The Killing of Osama bin Laden](https://archive.is/20170907/https://www.lrb.co.uk/v37/n10/seymour-m-hersh/the-killing-of-osama-bin-laden).
 
 
 <a href='#note_6' name='foot_6' data-text='Meyer writes in Chapter 1 that ’The ready acceptance of ‘precision journalism] in academe was due in part to its contribution to the healing of the breach between the green eyeshade ‘the cap telegraphers wore] and chi-square ‘a statistical method] factions.’'>6.</a> Meyer writes in Chapter 1 that 'The ready acceptance of [precision journalism] in academe was due in part to its contribution to the healing of the breach between the green eyeshade [the cap telegraphers wore] and chi-square [a statistical method] factions.'
@@ -89,31 +95,31 @@ Few journalists make finding factual truths their main goal and a dwindling numb
 <a href='#note_7' name='foot_7' data-text='Note that there was no collaboration between the two.'>7.</a> Note that there was no collaboration between the two.
 
 
-<a href='#note_8' name='foot_8' data-text='See the list of publications ‘by Ben Goldacre’ and ‘by Susan McGregor’.'>8.</a> See the list of publications [by Ben Goldacre](https://archive.is/20170905/http://journals.sagepub.com/author/Goldacre,%20Ben) and [by Susan McGregor](https://archive.is/20170905/http://susanemcgregor.com/publications/).
+<a href='#note_8' name='foot_8' data-text='See the list of publications ‘by Ben Goldacre’ and ‘by Susan McGregor’.'>8.</a> See the list of publications [by Ben Goldacre](https://archive.is/20170907/http://journals.sagepub.com/author/Goldacre,%20Ben) and [by Susan McGregor](https://archive.is/20170907/http://susanemcgregor.com/publications/).
 
 
-<a href='#note_9' name='foot_9' data-text='See ‘ContentCheck’.'>9.</a> See [ContentCheck](https://archive.is/20170905/https://team.inria.fr/cedar/contentcheck/).
+<a href='#note_9' name='foot_9' data-text='See ‘ContentCheck’.'>9.</a> See [ContentCheck](https://archive.is/20170907/https://team.inria.fr/cedar/contentcheck/).
 
 
-<a href='#note_10' name='foot_10' data-text='See the ‘InVID website’.'>10.</a> See the [InVID website](https://archive.is/20170905/http://www.invid-project.eu/consortium/).
+<a href='#note_10' name='foot_10' data-text='See the ‘InVID website’.'>10.</a> See the [InVID website](https://archive.is/20170907/http://www.invid-project.eu/consortium/).
 
 
-<a href='#note_11' name='foot_11' data-text='They ‘pleaded guilty to criminal charges’, you can actually write this without fear of libel.'>11.</a> They [pleaded guilty to criminal charges](https://archive.is/20170905/https://www.justice.gov/opa/pr/volkswagen-ag-agrees-plead-guilty-and-pay-43-billion-criminal-and-civil-penalties-six), you can actually write this without fear of libel.
+<a href='#note_11' name='foot_11' data-text='The Volkswagen Stiftung is independent, but receive the dividends of the VW shares owned by the state of Lower-Saxony. As for the adjective, VW ‘pleaded guilty to criminal charges’, you can actually write this without fear of libel.'>11.</a> The Volkswagen Stiftung is independent, but receive the dividends of the VW shares owned by the state of Lower-Saxony. As for the adjective, VW [pleaded guilty to criminal charges](https://archive.is/20170907/https://www.justice.gov/opa/pr/volkswagen-ag-agrees-plead-guilty-and-pay-43-billion-criminal-and-civil-penalties-six), you can actually write this without fear of libel.
 
 
-<a href='#note_12' name='foot_12' data-text='Read ‘The University of Maryland just released a report on its incredibly irresponsible chocolate milk research’.'>12.</a> Read [The University of Maryland just released a report on its incredibly irresponsible chocolate milk research](https://archive.is/20170905/https://www.vox.com/2016/1/16/10777050/university-of-maryland-chocolate-milk).
+<a href='#note_12' name='foot_12' data-text='Read ‘The University of Maryland just released a report on its incredibly irresponsible chocolate milk research’.'>12.</a> Read [The University of Maryland just released a report on its incredibly irresponsible chocolate milk research](https://archive.is/20170907/https://www.vox.com/2016/1/16/10777050/university-of-maryland-chocolate-milk).
 
 
-<a href='#note_13' name='foot_13' data-text='The piece is here: ‘Des chercheurs fixent les limites de la vie humaine entre 114 et 115 ans’.'>13.</a> The piece is here: [Des chercheurs fixent les limites de la vie humaine entre 114 et 115 ans](https://archive.is/20170905/http://www.lexpress.fr/actualite/sciences/des-chercheurs-fixent-les-limites-de-la-vie-humaine-entre-114-et-115-ans_1939685.html).
+<a href='#note_13' name='foot_13' data-text='The piece is here: ‘Des chercheurs fixent les limites de la vie humaine entre 114 et 115 ans’.'>13.</a> The piece is here: [Des chercheurs fixent les limites de la vie humaine entre 114 et 115 ans](https://archive.is/20170907/http://www.lexpress.fr/actualite/sciences/des-chercheurs-fixent-les-limites-de-la-vie-humaine-entre-114-et-115-ans_1939685.html).
 
 
-<a href='#note_14' name='foot_14' data-text='Find it here: ‘The oldest human does not get any older’.'>14.</a> Find it here: [The oldest human does not get any older](https://archive.is/20170905/https://www.tilburguniversity.edu/current/press-releases/press-release-oldest-human/).
+<a href='#note_14' name='foot_14' data-text='Find it here: ‘The oldest human does not get any older’.'>14.</a> Find it here: [The oldest human does not get any older](https://archive.is/20170907/https://www.tilburguniversity.edu/current/press-releases/press-release-oldest-human/).
 
 
-<a href='#note_15' name='foot_15' data-text='‘Text here’.'>15.</a> [Text here](https://archive.is/20170905/http://www.mediawise.org.uk/european-union/).
+<a href='#note_15' name='foot_15' data-text='‘Text here’.'>15.</a> [Text here](https://archive.is/20170907/http://www.mediawise.org.uk/european-union/).
 
 
-<a href='#note_16' name='foot_16' data-text='German newsrooms have cases when reporters were fired after falsifications, such as the Hitler Diaries (see ‘Ein Tiefpunkt des deutschen Journalismus: Die ’Hitler-Tagebücher’’ at DW) or the fake interviews in Neon (see ‘Die Butter verriet ihn’ in taz). On the other hand, a French news anchor ‘faked an interview’ with Fidel Castro in 1991 and remained in place 20 more years.'>16.</a> German newsrooms have cases when reporters were fired after falsifications, such as the Hitler Diaries (see [Ein Tiefpunkt des deutschen Journalismus: Die 'Hitler-Tagebücher'](https://archive.is/20170905/http://www.dw.com/de/ein-tiefpunkt-des-deutschen-journalismus-die-hitler-tageb%C3%BCcher/a-3288073-1) at DW) or the fake interviews in Neon (see [Die Butter verriet ihn](https://archive.is/20170905/http://www.taz.de/!5145655/) in taz). On the other hand, a French news anchor [faked an interview](https://archive.is/20170905/https://www.youtube.com/watch?v=2eh6mHXTiHU) with Fidel Castro in 1991 and remained in place 20 more years.
+<a href='#note_16' name='foot_16' data-text='German newsrooms have cases when reporters were fired after falsifications, such as the Hitler Diaries (see ‘Ein Tiefpunkt des deutschen Journalismus: Die ’Hitler-Tagebücher’’ at DW) or the fake interviews in Neon (see ‘Die Butter verriet ihn’ in taz). On the other hand, a French news anchor ‘faked an interview’ with Fidel Castro in 1991 and remained in place 20 more years.'>16.</a> German newsrooms have cases when reporters were fired after falsifications, such as the Hitler Diaries (see [Ein Tiefpunkt des deutschen Journalismus: Die 'Hitler-Tagebücher'](https://archive.is/20170907/http://www.dw.com/de/ein-tiefpunkt-des-deutschen-journalismus-die-hitler-tageb%C3%BCcher/a-3288073-1) at DW) or the fake interviews in Neon (see [Die Butter verriet ihn](https://archive.is/20170907/http://www.taz.de/!5145655/) in taz). On the other hand, a French news anchor [faked an interview](https://archive.is/20170907/https://www.youtube.com/watch?v=2eh6mHXTiHU) with Fidel Castro in 1991 and remained in place 20 more years.
 
 
-<a href='#note_17' name='foot_17' data-text='I wrote about this at length in ‘The Collapse of Academia’ and ‘Data-driven journalism in the post-truth public sphere’. For better articles, read for instance Vox’s investigation, ‘The 7 biggest problems facing science, according to 270 scientists’.'>17.</a> I wrote about this at length in [The Collapse of Academia](https://archive.is/20170905/http://blog.nkb.fr/academia) and [Data-driven journalism in the post-truth public sphere](https://archive.is/20170905/http://blog.nkb.fr/datajournalism-in-the-posth-truth-public-sphere). For better articles, read for instance Vox's investigation, [The 7 biggest problems facing science, according to 270 scientists](https://archive.is/20170905/https://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process).
+<a href='#note_17' name='foot_17' data-text='I wrote about this at length in ‘The Collapse of Academia’ and ‘Data-driven journalism in the post-truth public sphere’. For better articles, read for instance Vox’s investigation, ‘The 7 biggest problems facing science, according to 270 scientists’.'>17.</a> I wrote about this at length in [The Collapse of Academia](https://archive.is/20170907/http://blog.nkb.fr/academia) and [Data-driven journalism in the post-truth public sphere](https://archive.is/20170907/http://blog.nkb.fr/datajournalism-in-the-posth-truth-public-sphere). For better articles, read for instance Vox's investigation, [The 7 biggest problems facing science, according to 270 scientists](https://archive.is/20170907/https://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process).
