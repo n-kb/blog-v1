@@ -2167,5 +2167,41 @@
     "type": "Article",
     "text": "",
     "location": ""
+  },
+  {
+    "title": "Measuring the unmeasured with data",
+    "startdate": "2017-07-28T00:00:00.000Z",
+    "enddate": "2017-07-28T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/measuring-the-unmeasured",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "What could Google do? (If it cared about journalism)",
+    "startdate": "2017-08-16T00:00:00.000Z",
+    "enddate": "2017-08-16T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/what-could-google-do",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Datajournalisme for Les Décodeurs",
+    "startdate": "2017-09-04T00:00:00.000Z",
+    "enddate": "2017-09-06T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris"
+  },
+  {
+    "title": "SciCAR",
+    "startdate": "2017-09-07T00:00:00.000Z",
+    "enddate": "2017-09-08T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/meyer-revisited",
+    "type": "Conference",
+    "text": "",
+    "location": "Dortmund"
   }
 ]
