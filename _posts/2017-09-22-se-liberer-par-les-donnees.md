@@ -6,7 +6,7 @@ image: "images/grosz_1919.jpg"
 description: "La réutilisation de données publiques ne suffit pas. Pour penser librement, il faut produire soi-même des statistiques."
 ---
 
-_J'ai écrit cet essai pour mon intervention au [Datarama](https://www.eventbrite.fr/e/billets-datarama-2-data-party-evenements-nantes-digital-week-36066137789) de Nantes, le 20 septembre prochain, sur le thème des données et de l'éthique. C'est une adaptation d'une présentation de 2016 intitulée ['Free your data' is over. Now, we need data to be free.](http://blog.nkb.fr/data-free)_
+_J'ai écrit cet essai pour mon intervention au Datarama de Nantes, le 20 septembre 2017, sur le thème des données et de l'éthique. C'est une adaptation d'une présentation de 2016 intitulée ['Free your data' is over. Now, we need data to be free.](http://blog.nkb.fr/data-free)_
 
 "Libérer les données", c'était le slogan des activistes de l'open data, les données ouvertes. Pour eux, l'administration devrait mettre à disposition ses données afin que l'on puisse les réutiliser. Mais réutiliser les statistiques de l'administration, c'est se plier à sa vision du monde. Pour pouvoir penser librement, il faut surtout créer ses propres données et mesurer le monde comme on le conçoit. Il faut se libérer par les données.
 
@@ -22,7 +22,7 @@ En plus de servir les intérêts de l'administration ou ceux de groupes d'intér
 
 ### Instruments de pouvoir
 
-Pourquoi raconter ces histoires de statistiques sous l'Ancien Régime? Parce que les problèmes posés à l'époque sont toujours d'actualité. On nous présente les statistiques comme étant neutres, on nous apprend à les considérer comme étant neutres, alors que ce sont des instruments de pouvoir d'une force inouïe.
+Pourquoi raconter ces histoires de statistiques sous l'Ancien Régime? Parce que les problèmes posés à l'époque sont toujours d'actualité. On nous présente les statistiques comme une représentation fidèle de la réalité, on nous apprend à les considérer comme étant neutres, alors que ce sont des instruments de pouvoir d'une force inouïe.
 
 Le produit intérieur brut, par exemple, avec lequel on calcule la croissance, reste l'objectif premier de toutes les politiques publiques depuis plusieurs décennies. Ce PIB a été créé pendant la seconde guerre mondiale aux États-Unis afin de pouvoir mesurer l'activité industrielle et planifier au mieux la production militaire.<sup><a name='note_6' id='#note_6' class='note_anchor' href='#foot_6'>6</a></sup> Cette mesure est-elle adaptée à une économie post-industrielle? Absolument pas. Les activités financières, par exemple, qui par définition ne produisent rien, sont intégrées au calcul du PIB, mais de nombreux économistes y étaient opposés. Nul doute que, si les banques et les assurances étaient exclues du calcul, certaines politiques publiques changeraient du tout au tout. Même chose pour les fonctionnaires. On calcule le PIB comme si leur valeur ajoutée était nulle (on ne compte pour le calcul que leurs salaires).<sup><a name='note_7' id='#note_7' class='note_anchor' href='#foot_7'>7</a></sup> Est-ce correct? Si on leur assignait une valeur ajoutée, une augmentation du nombre de fonctionnaires aurait des effets statistiques forts différents d'aujourd'hui.
 
@@ -39,6 +39,8 @@ Les forces de coercition du gouvernement sont de grands collecteurs de données.
 Dans ces conditions, à quoi sert de réclamer l'ouverture des données de l'administration? Plus on en utilisera, plus on se recroquevillera dans le moule des fonctionnaires parisiens qui décident quoi mesurer et comment mesurer. Évidemment, ce problème touche certains domaines plus que d'autres. L'historique des précipitations n'a pas la même sensibilité politique que le nombre de terroristes potentiels. Et pourtant. L'administration Trump montre qu'aucun domaine n'est épargné. En obligeant son ministère de l’environnement à ne plus utiliser le terme "changement climatique",<sup><a name='note_12' id='#note_12' class='note_anchor' href='#foot_12'>12</a></sup> elle met en danger les données publiques sur le sujet. Ce n'est pas en vain que les scientifiques américains ont sauvegardé de tout ce qu'ils pouvaient avant l'entrée en fonction du président américain.<sup><a name='note_13' id='#note_13' class='note_anchor' href='#foot_13'>13</a></sup>
 
 ### Produire des statistiques
+
+Certains diront qu'il faut se libérer des données tout court et laisser filer notre imagination. Manque de bol, si l'on veut comprendre le monde, essayer de se rapprocher de la vérité, nous n'avons pas le choix. En tant qu'humains, nous sommes limités par nos sens et notre capacité d'analyse. La méthode scientifique est le meilleur moyen de produire de la vérité factuelle et pour l'utiliser, les données structurées sont indispensables.
 
 Plutôt que de réutiliser les données de l'administration, il faut créer ses propres bases de données. C'est seulement en développant une statistique en dehors de l'état que l'on est capable de mesurer le monde - y compris l'action de l'état - en restant indépendant.
 
@@ -66,52 +68,52 @@ Réutiliser les données publiques, pourquoi pas. Mais l'éthique journalistique
 
 
 
-<a href='#note_1' name='foot_1' data-text='Lire ou écouter Alain Supiot à ce sujet: ‘Du gouvernement par les lois à la gouvernance par les nombres: En quête de la machine à gouverner’.'>1.</a> Lire ou écouter Alain Supiot à ce sujet: [Du gouvernement par les lois à la gouvernance par les nombres: En quête de la machine à gouverner](https://archive.is/20170915/https://www.franceculture.fr/emissions/les-cours-du-college-de-france/du-gouvernement-par-les-lois-la-gouvernance-par-les-1).
+<a href='#note_1' name='foot_1' data-text='Lire ou écouter Alain Supiot à ce sujet: ‘Du gouvernement par les lois à la gouvernance par les nombres: En quête de la machine à gouverner’.'>1.</a> Lire ou écouter Alain Supiot à ce sujet: [Du gouvernement par les lois à la gouvernance par les nombres: En quête de la machine à gouverner](https://archive.is/20170922/https://www.franceculture.fr/emissions/les-cours-du-college-de-france/du-gouvernement-par-les-lois-la-gouvernance-par-les-1).
 
 
-<a href='#note_2' name='foot_2' data-text='‘Vauban, inventeur des recensements’ p.219. Un autre article intéressant sur les dénombrements de Vauban: ‘Connaître et accroître les peuples du royaume: Vauban et la population’.'>2.</a> [Vauban, inventeur des recensements](https://archive.is/20170915/http://www.persee.fr/doc/adh_0066-2062_1975_num_1975_1_1282) p.219. Un autre article intéressant sur les dénombrements de Vauban: [Connaître et accroître les peuples du royaume: Vauban et la population](https://archive.is/20170915/http://sci-hub.cc/10.2307/1534887).
+<a href='#note_2' name='foot_2' data-text='‘Vauban, inventeur des recensements’ p.219. Un autre article intéressant sur les dénombrements de Vauban: ‘Connaître et accroître les peuples du royaume: Vauban et la population’.'>2.</a> [Vauban, inventeur des recensements](https://archive.is/20170922/http://www.persee.fr/doc/adh_0066-2062_1975_num_1975_1_1282) p.219. Un autre article intéressant sur les dénombrements de Vauban: [Connaître et accroître les peuples du royaume: Vauban et la population](https://archive.is/20170922/http://sci-hub.cc/10.2307/1534887).
 
 
-<a href='#note_3' name='foot_3' data-text='‘The French population censuses: Purposes and uses during the 17<sup>th</sup>, 18<sup>th</sup> and 19<sup>th</sup> centuries’ p.101'>3.</a> [The French population censuses: Purposes and uses during the 17<sup>th</sup>, 18<sup>th</sup> and 19<sup>th</sup> centuries](https://archive.is/20170915/http://sci-hub.cc/10.1016/j.hisfam.2001.10.005) p.101
+<a href='#note_3' name='foot_3' data-text='‘The French population censuses: Purposes and uses during the 17<sup>th</sup>, 18<sup>th</sup> and 19<sup>th</sup> centuries’ p.101'>3.</a> [The French population censuses: Purposes and uses during the 17<sup>th</sup>, 18<sup>th</sup> and 19<sup>th</sup> centuries](https://archive.is/20170922/http://sci-hub.cc/10.1016/j.hisfam.2001.10.005) p.101
 
 
-<a href='#note_4' name='foot_4' data-text='Ce court et clair article résume très bien le sujet: ‘Savoir et pouvoir dans la grille de Foucault’.'>4.</a> Ce court et clair article résume très bien le sujet: [Savoir et pouvoir dans la grille de Foucault](https://archive.is/20170915/http://marges25mm.blogspot.fr/2013/02/savoir-et-pouvoir-dans-la-grille-de.html).
+<a href='#note_4' name='foot_4' data-text='Ce court et clair article résume très bien le sujet: ‘Savoir et pouvoir dans la grille de Foucault’.'>4.</a> Ce court et clair article résume très bien le sujet: [Savoir et pouvoir dans la grille de Foucault](https://archive.is/20170922/http://marges25mm.blogspot.fr/2013/02/savoir-et-pouvoir-dans-la-grille-de.html).
 
 
-<a href='#note_5' name='foot_5' data-text='On retrouve ces dénombrements aux archives nationales de l’Outre-mer, e.g pour ‘la Martinique’.'>5.</a> On retrouve ces dénombrements aux archives nationales de l'Outre-mer, e.g pour [la Martinique](https://archive.is/20170915/http://anom.archivesnationales.culture.gouv.fr/ark:/61561/ca168snomuh).
+<a href='#note_5' name='foot_5' data-text='On retrouve ces dénombrements aux archives nationales de l’Outre-mer, e.g pour ‘la Martinique’.'>5.</a> On retrouve ces dénombrements aux archives nationales de l'Outre-mer, e.g pour [la Martinique](https://archive.is/20170922/http://anom.archivesnationales.culture.gouv.fr/ark:/61561/ca168snomuh).
 
 
-<a href='#note_6' name='foot_6' data-text='Sur le sujet, je recommande le très bon ‘GDP: A Brief but Affectionate History’.'>6.</a> Sur le sujet, je recommande le très bon [GDP: A Brief but Affectionate History](https://archive.is/20170915/http://www.amazon.com/GDP-Brief-but-Affectionate-History/dp/0691169853).
+<a href='#note_6' name='foot_6' data-text='Sur le sujet, je recommande le très bon ‘GDP: A Brief but Affectionate History’.'>6.</a> Sur le sujet, je recommande le très bon [GDP: A Brief but Affectionate History](https://archive.is/20170922/http://www.amazon.com/GDP-Brief-but-Affectionate-History/dp/0691169853).
 
 
-<a href='#note_7' name='foot_7' data-text='Les salaires et autre coûts de production, pour être précis, comme indiqué dans le document de référence sur le calcul du PIB, ‘Système des Comptes 2010’ p.66.'>7.</a> Les salaires et autre coûts de production, pour être précis, comme indiqué dans le document de référence sur le calcul du PIB, [Système des Comptes 2010](https://archive.is/20170915/http://ec.europa.eu/eurostat/documents/3859598/5925793/KS-02-13-269-FR.PDF/cfd0cb42-e51a-47ce-85da-1fbf1de5c86c) p.66.
+<a href='#note_7' name='foot_7' data-text='Les salaires et autre coûts de production, pour être précis, comme indiqué dans le document de référence sur le calcul du PIB, ‘Système des Comptes 2010’ p.66.'>7.</a> Les salaires et autre coûts de production, pour être précis, comme indiqué dans le document de référence sur le calcul du PIB, [Système des Comptes 2010](https://archive.is/20170922/http://ec.europa.eu/eurostat/documents/3859598/5925793/KS-02-13-269-FR.PDF/cfd0cb42-e51a-47ce-85da-1fbf1de5c86c) p.66.
 
 
-<a href='#note_8' name='foot_8' data-text='Comme l’indique la base ‘Etat4001 sur data.gouv.fr’. Impossible d’avoir des données plus récentes'>8.</a> Comme l'indique la base [Etat4001 sur data.gouv.fr](https://archive.is/20170915/https://www.data.gouv.fr/fr/datasets/faits-constates-par-index-par-departement-et-par-annee/). Impossible d'avoir des données plus récentes
+<a href='#note_8' name='foot_8' data-text='Comme l’indique la base ‘Etat4001 sur data.gouv.fr’. Impossible d’avoir des données plus récentes'>8.</a> Comme l'indique la base [Etat4001 sur data.gouv.fr](https://archive.is/20170922/https://www.data.gouv.fr/fr/datasets/faits-constates-par-index-par-departement-et-par-annee/). Impossible d'avoir des données plus récentes
 
 
-<a href='#note_9' name='foot_9' data-text='Les traficants, eux, ordonnent aux personnes qu’ils possèdent de se déclarer majeures. Retrouvez les détails dans la ‘newsletter de The Migrants’ Files’.'>9.</a> Les traficants, eux, ordonnent aux personnes qu'ils possèdent de se déclarer majeures. Retrouvez les détails dans la [newsletter de The Migrants' Files](https://archive.is/20170915/http://us9.campaign-archive1.com/?u=d40f524f34bc0a3d2144216d0&id=fbbdd58625).
+<a href='#note_9' name='foot_9' data-text='Les traficants, eux, ordonnent aux personnes qu’ils possèdent de se déclarer majeures. Retrouvez les détails dans la ‘newsletter de The Migrants’ Files’.'>9.</a> Les traficants, eux, ordonnent aux personnes qu'ils possèdent de se déclarer majeures. Retrouvez les détails dans la [newsletter de The Migrants' Files](https://archive.is/20170922/http://us9.campaign-archive1.com/?u=d40f524f34bc0a3d2144216d0&id=fbbdd58625).
 
 
-<a href='#note_10' name='foot_10' data-text='Dans ‘Conclusions du contrôle du système de traitement des infractions constatée’, dernière page.'>10.</a> Dans [Conclusions du contrôle du système de traitement des infractions constatée](https://archive.is/20170915/https://www.cnil.fr/sites/default/files/typo/document/Conclusions%20des%20controles%20STIC%20CNIL%202009.pdf), dernière page.
+<a href='#note_10' name='foot_10' data-text='Dans ‘Conclusions du contrôle du système de traitement des infractions constatée’, dernière page.'>10.</a> Dans [Conclusions du contrôle du système de traitement des infractions constatée](https://archive.is/20170922/https://www.cnil.fr/sites/default/files/typo/document/Conclusions%20des%20controles%20STIC%20CNIL%202009.pdf), dernière page.
 
 
-<a href='#note_11' name='foot_11' data-text='70, c’était en 2011, on doit être largement au delà. Source: ‘Nicolas Sarkozy a créé 44 fichiers policiers’.'>11.</a> 70, c'était en 2011, on doit être largement au delà. Source: [Nicolas Sarkozy a créé 44 fichiers policiers](https://archive.is/20170915/http://owni.fr/2011/05/31/nicolas-sarkozy-a-cree-44-fichiers-policiers/).
+<a href='#note_11' name='foot_11' data-text='70, c’était en 2011, on doit être largement au delà. Source: ‘Nicolas Sarkozy a créé 44 fichiers policiers’.'>11.</a> 70, c'était en 2011, on doit être largement au delà. Source: [Nicolas Sarkozy a créé 44 fichiers policiers](https://archive.is/20170922/http://owni.fr/2011/05/31/nicolas-sarkozy-a-cree-44-fichiers-policiers/).
 
 
-<a href='#note_12' name='foot_12' data-text='Voir ‘US federal department is censoring use of term ’climate change’, emails reveal’.'>12.</a> Voir [US federal department is censoring use of term 'climate change', emails reveal](https://archive.is/20170915/https://www.theguardian.com/environment/2017/aug/07/usda-climate-change-language-censorship-emails).
+<a href='#note_12' name='foot_12' data-text='Voir ‘US federal department is censoring use of term ’climate change’, emails reveal’.'>12.</a> Voir [US federal department is censoring use of term 'climate change', emails reveal](https://archive.is/20170922/https://www.theguardian.com/environment/2017/aug/07/usda-climate-change-language-censorship-emails).
 
 
-<a href='#note_13' name='foot_13' data-text='Voir ‘Scientists copy climate change data in fear of a Trump crackdown’.'>13.</a> Voir [Scientists copy climate change data in fear of a Trump crackdown](https://archive.is/20170915/https://www.engadget.com/2016/12/13/scientists-copy-climate-change-data-in-fear-of-trump/).
+<a href='#note_13' name='foot_13' data-text='Voir ‘Scientists copy climate change data in fear of a Trump crackdown’.'>13.</a> Voir [Scientists copy climate change data in fear of a Trump crackdown](https://archive.is/20170922/https://www.engadget.com/2016/12/13/scientists-copy-climate-change-data-in-fear-of-trump/).
 
 
-<a href='#note_14' name='foot_14' data-text='Voir ‘En 10 ans, 47 décès liés aux violences policières, aucun fonctionnaire en prison’.'>14.</a> Voir [En 10 ans, 47 décès liés aux violences policières, aucun fonctionnaire en prison](https://archive.is/20170915/https://www.streetpress.com/sujet/1495554039-morts-victimes-police).
+<a href='#note_14' name='foot_14' data-text='Voir ‘En 10 ans, 47 décès liés aux violences policières, aucun fonctionnaire en prison’.'>14.</a> Voir [En 10 ans, 47 décès liés aux violences policières, aucun fonctionnaire en prison](https://archive.is/20170922/https://www.streetpress.com/sujet/1495554039-morts-victimes-police).
 
 
-<a href='#note_15' name='foot_15' data-text='Données sur les personnes tuées par la police: ‘Washington Post’ (le décompte du ‘Guardian’ arrive à un total différent, deux fois plus élevé) ; données sur le taux d’homicides: ‘World Bank’.'>15.</a> Données sur les personnes tuées par la police: [Washington Post](https://archive.is/20170915/https://www.washingtonpost.com/graphics/national/police-shootings-2016/) (le décompte du [Guardian](https://archive.is/20170915/https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database#) arrive à un total différent, deux fois plus élevé) ; données sur le taux d'homicides: [World Bank](https://archive.is/20170915/https://data.worldbank.org/indicator/VC.IHR.PSRC.P5).
+<a href='#note_15' name='foot_15' data-text='Données sur les personnes tuées par la police: ‘Washington Post’ (le décompte du ‘Guardian’ arrive à un total différent, deux fois plus élevé) ; données sur le taux d’homicides: ‘World Bank’.'>15.</a> Données sur les personnes tuées par la police: [Washington Post](https://archive.is/20170922/https://www.washingtonpost.com/graphics/national/police-shootings-2016/) (le décompte du [Guardian](https://archive.is/20170922/https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database#) arrive à un total différent, deux fois plus élevé) ; données sur le taux d'homicides: [World Bank](https://archive.is/20170922/https://data.worldbank.org/indicator/VC.IHR.PSRC.P5).
 
 
-<a href='#note_16' name='foot_16' data-text='Voir ‘Es brennt in Deutschland’.'>16.</a> Voir [Es brennt in Deutschland](https://archive.is/20170915/http://www.zeit.de/politik/deutschland/2015-11/rechtsextremismus-fluechtlingsunterkuenfte-gewalt-gegen-fluechtlinge-justiz-taeter-urteile).
+<a href='#note_16' name='foot_16' data-text='Voir ‘Es brennt in Deutschland’.'>16.</a> Voir [Es brennt in Deutschland](https://archive.is/20170922/http://www.zeit.de/politik/deutschland/2015-11/rechtsextremismus-fluechtlingsunterkuenfte-gewalt-gegen-fluechtlinge-justiz-taeter-urteile).
 
 
-<a href='#note_17' name='foot_17' data-text='J’ai écrit un plus long article en juillet 2017 sur ce sujet: ‘Measuring the Unmeasured with Data’.'>17.</a> J'ai écrit un plus long article en juillet 2017 sur ce sujet: [Measuring the Unmeasured with Data](https://archive.is/20170915/http://blog.nkb.fr/measuring-the-unmeasured).
+<a href='#note_17' name='foot_17' data-text='J’ai écrit un plus long article en juillet 2017 sur ce sujet: ‘Measuring the Unmeasured with Data’.'>17.</a> J'ai écrit un plus long article en juillet 2017 sur ce sujet: [Measuring the Unmeasured with Data](https://archive.is/20170922/http://blog.nkb.fr/measuring-the-unmeasured).
