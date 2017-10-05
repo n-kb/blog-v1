@@ -2203,5 +2203,32 @@
     "type": "Conference",
     "text": "",
     "location": "Dortmund"
+  },
+  {
+    "title": "PPDA et les contradictions du journalisme",
+    "startdate": "2017-09-28T00:00:00.000Z",
+    "enddate": "2017-09-28T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "Masterclass devant les étudiants de l'EFJ.",
+    "location": "Paris"
+  },
+  {
+    "title": "Il ne faut pas libérer les données, il faut se libérer par les données.",
+    "startdate": "2017-09-20T00:00:00.000Z",
+    "enddate": "2017-09-20T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/se-liberer-par-les-donnees",
+    "type": "Conference",
+    "text": "",
+    "location": "Nantes"
+  },
+  {
+    "title": "Datajournalisme at EFJ",
+    "startdate": "2017-10-02T00:00:00.000Z",
+    "enddate": "2017-10-03T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Levallois"
   }
 ]
