@@ -34,7 +34,7 @@ Je ne parle même pas des erreurs plus fréquentes qui ne relèvent pas du menso
 
 Si la vérité était aussi importante que l'affirment les chartes d'éthique, les falsifications et les erreurs graves devraient être sanctionnées, non? Prenons la grande distribution pour comparer. Là, si vous faites une erreur de caisse, même de quelques centimes, on vous vire pour faute grave.<sup><a name='note_19' id='#note_19' class='note_anchor' href='#foot_19'>19</a></sup>
 
-Bien sûr, il y a le CSA, il y a les associations de critique des médias comme l'Acrimed, il y a les journalistes spécialisés dans la vérification, comme _Arrêts sur Images_ et les fact-checkers.<sup><a name='note_20' id='#note_20' class='note_anchor' href='#foot_20'>20</a></sup> Mais si leur action est louable, elle ne change pas le fait qu'un journaliste qui publie des contre-vérités ne risque absolument rien. Certaines rédactions emploient parallèlement des fact-checkers et des journalistes qui écrivent n'importe quoi sans y voir de contradiction. Alors, pourquoi?
+Bien sûr, il y a le CSA, il y a les associations de critique des médias comme l'Acrimed, il y a les journalistes spécialisés dans la vérification, comme _Arrêts sur Images_ et les fact-checkers.<sup><a name='note_20' id='#note_20' class='note_anchor' href='#foot_20'>20</a></sup> Mais si leur action est louable, elle ne change pas le fait qu'un journaliste n'a pas d'incitation autre que sa motivation personnelle pour écrire la vérité plutôt que des salades. Certaines rédactions emploient parallèlement des fact-checkers et des journalistes qui écrivent n'importe quoi sans y voir de contradiction. Alors, pourquoi?
 
 ### Les raisons d'être des journalistes
 
@@ -47,7 +47,6 @@ Quant aux médias financés par de l'argent public, cette mission d'influence es
 L'autre mission d'un journaliste, parfois associée à la première, est de collecter de l'attention afin que son employeur puisse la revendre à des régies publicitaires. C'est la raison pour laquelle les journalistes sont poussés à faire de l'audience. Cette course au clic incite parfois les rédacteurs en chef, comme c'est le cas au _Daily Mail_, à demander explicitement à leurs journalistes de ne pas se préoccuper de la vérité.<sup><a name='note_24' id='#note_24' class='note_anchor' href='#foot_24'>24</a></sup> Sans pousser à cet extrême, il n'est pas rare que des journalistes soient remerciés parce que leurs émissions ne sont pas assez regardées ou écoutées (alors qu'on a jamais vu un journaliste se faire licencier suite à la publication d'une contre-vérité). C'est d'ailleurs parce que son émission n'attirait plus d'auditeurs qu'Elkabbach s'est fait mettre à la porte de la matinale d'Europe 1, pas pour ses mensonges.<sup><a name='note_25' id='#note_25' class='note_anchor' href='#foot_25'>25</a></sup> Entre l'audience et la vérité, la première semble avoir la priorité.
 
 La dernière mission possible, là encore non-exclusive des deux autres, c'est de vendre du contenu à des abonnés. Si les abonnés sont intéressés par la vérité, cela donne une excellente raison à la rédaction d'y faire attention, mais pour chaque _Médiapart_ ou _Arrêts sur Images_, deux rédactions financées par leurs lecteurs, il y a un _Valeurs Actuelles_ ou un _Minute_.
-
 
 Je ne pense pas qu'il faille s'émouvoir ou s'énerver de l'absence de lien entre journalisme et vérité. Les raisons d'être d'une rédaction, et les contradictions qui vont avec, font partie intégrante de ce qu'est le journalisme. Un ou une journaliste peut tout à fait respecter les chartes d'éthique du journalisme. Mais à part sa motivation personnelle, il ou elle n'a pas d'incitation à le faire.
 
@@ -63,7 +62,7 @@ Déstabilisée par sa nouvelle mission (créer du capital humain et réduire le 
 
 ***
 
-Seuls ceux et celles qui pratiquent la démarche scientifique et qui produisent de la vérité factuelle peuvent lutter contre les fausses nouvelles. Les journalistes ne jouent un rôle dans ce processus qu'en relayant leurs propos et en leur accordant plus de place qu'aux désinformateurs, qu'ils soient au ministère de l'intérieur ou au Front National.
+Seuls ceux et celles qui pratiquent la démarche scientifique et qui produisent de la vérité factuelle peuvent lutter contre les fausses nouvelles. Les journalistes ne jouent un rôle dans ce processus qu'en relayant leurs propos et en leur accordant plus de place qu'aux désinformateurs, qu'ils soient au ministère de l'intérieur ou au Front National. Mais si on veut s'attaquer aux fausses nouvelles, il faut commencer par redonner de la force aux universités.
 	
 
 <h4>Newsletter</h4>
@@ -77,82 +76,82 @@ Seuls ceux et celles qui pratiquent la démarche scientifique et qui produisent 
 
 
 
-<a href='#note_1' name='foot_1' data-text='Le terme ’fake news’ est très présent dans les archives du New-York Times, voir ‘The Real Fight Over Fake News’ (2008) ou ‘When Fake News Makes Real Headlines’ (2011).'>1.</a> Le terme 'fake news' est très présent dans les archives du New-York Times, voir [The Real Fight Over Fake News](https://archive.is/20171005/https://query.nytimes.com/gst/fullpage.html?res=9D00E4D9143BF931A35755C0A96E9C8B63) (2008) ou [When Fake News Makes Real Headlines](https://archive.is/20171005/https://query.nytimes.com/gst/fullpage.html?res=9D00E4DE1731F933A0575AC0A9679D8B63) (2011).
+<a href='#note_1' name='foot_1' data-text='Le terme ’fake news’ est très présent dans les archives du New-York Times, voir ‘The Real Fight Over Fake News’ (2008) ou ‘When Fake News Makes Real Headlines’ (2011).'>1.</a> Le terme 'fake news' est très présent dans les archives du New-York Times, voir [The Real Fight Over Fake News](https://archive.is/20171008/https://query.nytimes.com/gst/fullpage.html?res=9D00E4D9143BF931A35755C0A96E9C8B63) (2008) ou [When Fake News Makes Real Headlines](https://archive.is/20171008/https://query.nytimes.com/gst/fullpage.html?res=9D00E4DE1731F933A0575AC0A9679D8B63) (2011).
 
 
-<a href='#note_2' name='foot_2' data-text='Regarder ‘Trump Calls CNN ‘Fake News’’.'>2.</a> Regarder [Trump Calls CNN ‘Fake News’](https://archive.is/20171005/https://www.nytimes.com/video/us/politics/100000004865825/trump-calls-cnn-fake-news.html).
+<a href='#note_2' name='foot_2' data-text='Regarder ‘Trump Calls CNN ‘Fake News’’.'>2.</a> Regarder [Trump Calls CNN ‘Fake News’](https://archive.is/20171008/https://www.nytimes.com/video/us/politics/100000004865825/trump-calls-cnn-fake-news.html).
 
 
-<a href='#note_3' name='foot_3' data-text='L’article Wikipédia sur le sujet est très bien mais n’a pas été traduit en français: ‘Überfall auf den Sender Gleiwitz’.'>3.</a> L'article Wikipédia sur le sujet est très bien mais n'a pas été traduit en français: [Überfall auf den Sender Gleiwitz](https://archive.is/20171005/https://de.wikipedia.org/wiki/%C3%9Cberfall_auf_den_Sender_Gleiwitz).
+<a href='#note_3' name='foot_3' data-text='L’article Wikipédia sur le sujet est très bien mais n’a pas été traduit en français: ‘Überfall auf den Sender Gleiwitz’.'>3.</a> L'article Wikipédia sur le sujet est très bien mais n'a pas été traduit en français: [Überfall auf den Sender Gleiwitz](https://archive.is/20171008/https://de.wikipedia.org/wiki/%C3%9Cberfall_auf_den_Sender_Gleiwitz).
 
 
-<a href='#note_4' name='foot_4' data-text='Lire sur Wikipédia ‘Les incidents du golfe du Tonkin’.'>4.</a> Lire sur Wikipédia [Les incidents du golfe du Tonkin](https://archive.is/20171005/https://fr.wikipedia.org/wiki/Incidents_du_golfe_du_Tonkin).
+<a href='#note_4' name='foot_4' data-text='Lire sur Wikipédia ‘Les incidents du golfe du Tonkin’.'>4.</a> Lire sur Wikipédia [Les incidents du golfe du Tonkin](https://archive.is/20171008/https://fr.wikipedia.org/wiki/Incidents_du_golfe_du_Tonkin).
 
 
-<a href='#note_5' name='foot_5' data-text='C’est le ‘Dossier Irakien’, en fait un copier/coller d’un rapport de mémoire d’un étudiant.'>5.</a> C'est le [Dossier Irakien](https://archive.is/20171005/https://en.wikipedia.org/wiki/Iraq_Dossier), en fait un copier/coller d'un rapport de mémoire d'un étudiant.
+<a href='#note_5' name='foot_5' data-text='C’est le ‘Dossier Irakien’, en fait un copier/coller d’un rapport de mémoire d’un étudiant.'>5.</a> C'est le [Dossier Irakien](https://archive.is/20171008/https://en.wikipedia.org/wiki/Iraq_Dossier), en fait un copier/coller d'un rapport de mémoire d'un étudiant.
 
 
-<a href='#note_6' name='foot_6' data-text='Sur les mensonges grecs: ‘Greece admits fudging euro entry’. Sur les mensonges français: ‘Rwanda: l’histoire face aux mensonges de l’Etat français’.'>6.</a> Sur les mensonges grecs: [Greece admits fudging euro entry](https://archive.is/20171005/http://news.bbc.co.uk/2/hi/business/4012869.stm). Sur les mensonges français: [Rwanda: l’histoire face aux mensonges de l’Etat français](https://archive.is/20171005/https://www.mediapart.fr/journal/culture-idees/090214/rwanda-l-histoire-face-aux-mensonges-de-l-etat-francais?onglet=full).
+<a href='#note_6' name='foot_6' data-text='Sur les mensonges grecs: ‘Greece admits fudging euro entry’. Sur les mensonges français: ‘Rwanda: l’histoire face aux mensonges de l’Etat français’.'>6.</a> Sur les mensonges grecs: [Greece admits fudging euro entry](https://archive.is/20171008/http://news.bbc.co.uk/2/hi/business/4012869.stm). Sur les mensonges français: [Rwanda: l’histoire face aux mensonges de l’Etat français](https://archive.is/20171008/https://www.mediapart.fr/journal/culture-idees/090214/rwanda-l-histoire-face-aux-mensonges-de-l-etat-francais?onglet=full).
 
 
-<a href='#note_7' name='foot_7' data-text='Lire ‘The selling of a candidate’.'>7.</a> Lire [The selling of a candidate](https://archive.is/20171005/http://www.nytimes.com/1976/03/28/archives/the-selling-of-a-candidate-carters-image-is-a-vision-or-a-con-or-a.html).
+<a href='#note_7' name='foot_7' data-text='Lire ‘The selling of a candidate’.'>7.</a> Lire [The selling of a candidate](https://archive.is/20171008/http://www.nytimes.com/1976/03/28/archives/the-selling-of-a-candidate-carters-image-is-a-vision-or-a-con-or-a.html).
 
 
-<a href='#note_8' name='foot_8' data-text='‘La citation originale’. Il a ensuite réagit à sa première citation sans en changer le sens, en disant que d’essayer de comprendre, ça allait, mais qu’expliquer c’était aller trop loin (‘lire ici’).'>8.</a> [La citation originale](https://archive.is/20171005/http://www.franceculture.fr/emissions/la-revue-de-presse-de-nicolas-martin/expliquer-cest-excuser). Il a ensuite réagit à sa première citation sans en changer le sens, en disant que d'essayer de comprendre, ça allait, mais qu'expliquer c'était aller trop loin ([lire ici](https://archive.is/20171005/http://www.lefigaro.fr/politique/le-scan/citations/2016/03/21/25002-20160321ARTFIG00243-expliquer-la-radicalisation-c-est-excuser-valls-change-de-version.php)).
+<a href='#note_8' name='foot_8' data-text='‘La citation originale’. Il a ensuite réagit à sa première citation sans en changer le sens, en disant que d’essayer de comprendre, ça allait, mais qu’expliquer c’était aller trop loin (‘lire ici’).'>8.</a> [La citation originale](https://archive.is/20171008/http://www.franceculture.fr/emissions/la-revue-de-presse-de-nicolas-martin/expliquer-cest-excuser). Il a ensuite réagit à sa première citation sans en changer le sens, en disant que d'essayer de comprendre, ça allait, mais qu'expliquer c'était aller trop loin ([lire ici](https://archive.is/20171008/http://www.lefigaro.fr/politique/le-scan/citations/2016/03/21/25002-20160321ARTFIG00243-expliquer-la-radicalisation-c-est-excuser-valls-change-de-version.php)).
 
 
-<a href='#note_9' name='foot_9' data-text='Sur l’admission du mensonge, lire ‘Nigel Farage Admits £350m Saving For NHS In EU Contributions Slogan ‘Was A Mistake’’.'>9.</a> Sur l'admission du mensonge, lire [Nigel Farage Admits £350m Saving For NHS In EU Contributions Slogan ‘Was A Mistake’](https://archive.is/20171005/http://www.huffingtonpost.co.uk/entry/nigel-farage-good-morning-britain-eu-referendum-brexit-350-nhs_uk_576d0aa3e4b08d2c5638fc17?sv5nrk9).
+<a href='#note_9' name='foot_9' data-text='Sur l’admission du mensonge, lire ‘Nigel Farage Admits £350m Saving For NHS In EU Contributions Slogan ‘Was A Mistake’’.'>9.</a> Sur l'admission du mensonge, lire [Nigel Farage Admits £350m Saving For NHS In EU Contributions Slogan ‘Was A Mistake’](https://archive.is/20171008/http://www.huffingtonpost.co.uk/entry/nigel-farage-good-morning-britain-eu-referendum-brexit-350-nhs_uk_576d0aa3e4b08d2c5638fc17?sv5nrk9).
 
 
-<a href='#note_10' name='foot_10' data-text='Lire ‘Brexit Campaign’s Gove Denies ‘Project Lies’ Claim in TV Special’.'>10.</a> Lire [Brexit Campaign’s Gove Denies ‘Project Lies’ Claim in TV Special](https://archive.is/20171005/http://www.bloomberg.com/news/articles/2016-06-03/brexit-campaign-s-gove-denies-project-lies-claim-in-tv-special).
+<a href='#note_10' name='foot_10' data-text='Lire ‘Brexit Campaign’s Gove Denies ‘Project Lies’ Claim in TV Special’.'>10.</a> Lire [Brexit Campaign’s Gove Denies ‘Project Lies’ Claim in TV Special](https://archive.is/20171008/http://www.bloomberg.com/news/articles/2016-06-03/brexit-campaign-s-gove-denies-project-lies-claim-in-tv-special).
 
 
-<a href='#note_11' name='foot_11' data-text='Voir la ‘charte du Syndicat National des Journalistes’, et la ‘Charte de Munich’.'>11.</a> Voir la [charte du Syndicat National des Journalistes](https://archive.is/20171005/http://snj.fr/content/charte-d%E2%80%99%C3%A9thique-professionnelle-des-journalistes), et la [Charte de Munich](https://archive.is/20171005/http://snj.fr/?q=content/d%C3%A9claration-des-devoirs-et-des-droits-des-journalistes).
+<a href='#note_11' name='foot_11' data-text='Voir la ‘charte du Syndicat National des Journalistes’, et la ‘Charte de Munich’.'>11.</a> Voir la [charte du Syndicat National des Journalistes](https://archive.is/20171008/http://snj.fr/content/charte-d%E2%80%99%C3%A9thique-professionnelle-des-journalistes), et la [Charte de Munich](https://archive.is/20171008/http://snj.fr/?q=content/d%C3%A9claration-des-devoirs-et-des-droits-des-journalistes).
 
 
-<a href='#note_12' name='foot_12' data-text='Voir ‘l’interview en question’. De manière fort peu élégante, PPDA a ensuite accusé son monteur, refusant d’admettre toute erreur.'>12.</a> Voir [l'interview en question](https://archive.is/20171005/https://www.youtube.com/watch?v=2eh6mHXTiHU). De manière fort peu élégante, PPDA a ensuite accusé son monteur, refusant d'admettre toute erreur.
+<a href='#note_12' name='foot_12' data-text='Voir ‘l’interview en question’. De manière fort peu élégante, PPDA a ensuite accusé son monteur, refusant d’admettre toute erreur.'>12.</a> Voir [l'interview en question](https://archive.is/20171008/https://www.youtube.com/watch?v=2eh6mHXTiHU). De manière fort peu élégante, PPDA a ensuite accusé son monteur, refusant d'admettre toute erreur.
 
 
-<a href='#note_13' name='foot_13' data-text='Lire ‘Comment Elkabbach a tué Pascal Sevran’ et ‘Affaire Sevran : Europe 1 et Elkabbach se font gronder par le CSA’.'>13.</a> Lire [Comment Elkabbach a tué Pascal Sevran](https://archive.is/20171005/http://www.liberation.fr/medias/2008/04/22/comment-elkabbach-a-tue-pascal-sevran_18084) et [Affaire Sevran : Europe 1 et Elkabbach se font gronder par le CSA](https://archive.is/20171005/http://www.telerama.fr/radio/affaire-sevran-europe-1-et-elkabbach-se-font-gronder-par-le-csa,28627.php).
+<a href='#note_13' name='foot_13' data-text='Lire ‘Comment Elkabbach a tué Pascal Sevran’ et ‘Affaire Sevran : Europe 1 et Elkabbach se font gronder par le CSA’.'>13.</a> Lire [Comment Elkabbach a tué Pascal Sevran](https://archive.is/20171008/http://www.liberation.fr/medias/2008/04/22/comment-elkabbach-a-tue-pascal-sevran_18084) et [Affaire Sevran : Europe 1 et Elkabbach se font gronder par le CSA](https://archive.is/20171008/http://www.telerama.fr/radio/affaire-sevran-europe-1-et-elkabbach-se-font-gronder-par-le-csa,28627.php).
 
 
-<a href='#note_14' name='foot_14' data-text='Lire ‘Après l’avoir enterré, l’AFP veut oublier Martin Bouygues’.'>14.</a> Lire [Après l'avoir enterré, l'AFP veut oublier Martin Bouygues](https://archive.is/20171005/http://www.telerama.fr/medias/apres-l-avoir-enterre-l-afp-veut-oublier-martin-bouygues,123842.php).
+<a href='#note_14' name='foot_14' data-text='Lire ‘Après l’avoir enterré, l’AFP veut oublier Martin Bouygues’.'>14.</a> Lire [Après l'avoir enterré, l'AFP veut oublier Martin Bouygues](https://archive.is/20171008/http://www.telerama.fr/medias/apres-l-avoir-enterre-l-afp-veut-oublier-martin-bouygues,123842.php).
 
 
-<a href='#note_15' name='foot_15' data-text='‘Papy Voise est mort : retour sur avril 2002, les médias, l’insécurité…’.'>15.</a> [Papy Voise est mort : retour sur avril 2002, les médias, l'insécurité…](https://archive.is/20171005/http://www.lemonde.fr/disparitions/article/2013/01/09/papy-voise-est-mort-retour-sur-avril-2002-les-medias-l-insecurite_1814706_3382.html).
+<a href='#note_15' name='foot_15' data-text='‘Papy Voise est mort : retour sur avril 2002, les médias, l’insécurité…’.'>15.</a> [Papy Voise est mort : retour sur avril 2002, les médias, l'insécurité…](https://archive.is/20171008/http://www.lemonde.fr/disparitions/article/2013/01/09/papy-voise-est-mort-retour-sur-avril-2002-les-medias-l-insecurite_1814706_3382.html).
 
 
-<a href='#note_16' name='foot_16' data-text='‘La fausse agression du RER D : un journalisme de meute ?’.'>16.</a> [La fausse agression du RER D : un journalisme de meute ?](https://archive.is/20171005/http://www.acrimed.org/La-fausse-agression-du-RER-D-un-journalisme-de-meute).
+<a href='#note_16' name='foot_16' data-text='‘La fausse agression du RER D : un journalisme de meute ?’'>16.</a> [La fausse agression du RER D : un journalisme de meute ?](https://archive.is/20171008/http://www.acrimed.org/La-fausse-agression-du-RER-D-un-journalisme-de-meute)
 
 
-<a href='#note_17' name='foot_17' data-text='‘Agression et journalisme imaginaires à Aubervilliers’.'>17.</a> [Agression et journalisme imaginaires à Aubervilliers](https://archive.is/20171005/http://www.acrimed.org/Agression-et-journalisme-imaginaires-a-Aubervilliers).
+<a href='#note_17' name='foot_17' data-text='‘Agression et journalisme imaginaires à Aubervilliers’.'>17.</a> [Agression et journalisme imaginaires à Aubervilliers](https://archive.is/20171008/http://www.acrimed.org/Agression-et-journalisme-imaginaires-a-Aubervilliers).
 
 
-<a href='#note_18' name='foot_18' data-text='Voir ‘ce fil Twitter’ du journaliste scientifique Martin Clavey.'>18.</a> Voir [ce fil Twitter](https://archive.is/20171005/https://twitter.com/mart1oeil/status/911493288728956929) du journaliste scientifique Martin Clavey.
+<a href='#note_18' name='foot_18' data-text='Voir ‘ce fil Twitter’ du journaliste scientifique Martin Clavey.'>18.</a> Voir [ce fil Twitter](https://archive.is/20171008/https://twitter.com/mart1oeil/status/911493288728956929) du journaliste scientifique Martin Clavey.
 
 
-<a href='#note_19' name='foot_19' data-text='Une simple recherche en ligne fait remonter de nombreuses affaires de caissières virées pour des erreurs de ‘60€’, ‘5,32€’, ‘1,65€’ et ‘85 centimes’.'>19.</a> Une simple recherche en ligne fait remonter de nombreuses affaires de caissières virées pour des erreurs de [60€](https://archive.is/20171005/http://bigbrowser.blog.lemonde.fr/2013/01/11/point-une-caissiere-licenciee-pour-une-erreur-de-virgule/), [5,32€](https://archive.is/20171005/http://www.leparisien.fr/mezieres-sur-seine-78970/mezieres-sur-seine-licenciee-pour-une-erreur-de-caisse-de-5-32-eur-27-01-2016-5490845.php), [1,65€](https://archive.is/20171005/https://www.francebleu.fr/infos/faits-divers-justice/une-caissiere-de-moselle-est-licenciee-pour-quelques-euros-manquants-1473268586) et [85 centimes](https://archive.is/20171005/http://www.rtl.fr/actu/societe-faits-divers/une-caissiere-licenciee-pour-0-85-d-erreur-de-caisse-veut-se-defendre-en-justice-tourcoing-7784303701).
+<a href='#note_19' name='foot_19' data-text='Une simple recherche en ligne fait remonter de nombreuses affaires de caissières virées pour des erreurs de ‘60€’, ‘5,32€’, ‘1,65€’ et ‘85 centimes’.'>19.</a> Une simple recherche en ligne fait remonter de nombreuses affaires de caissières virées pour des erreurs de [60€](https://archive.is/20171008/http://bigbrowser.blog.lemonde.fr/2013/01/11/point-une-caissiere-licenciee-pour-une-erreur-de-virgule/), [5,32€](https://archive.is/20171008/http://www.leparisien.fr/mezieres-sur-seine-78970/mezieres-sur-seine-licenciee-pour-une-erreur-de-caisse-de-5-32-eur-27-01-2016-5490845.php), [1,65€](https://archive.is/20171008/https://www.francebleu.fr/infos/faits-divers-justice/une-caissiere-de-moselle-est-licenciee-pour-quelques-euros-manquants-1473268586) et [85 centimes](https://archive.is/20171008/http://www.rtl.fr/actu/societe-faits-divers/une-caissiere-licenciee-pour-0-85-d-erreur-de-caisse-veut-se-defendre-en-justice-tourcoing-7784303701).
 
 
 <a href='#note_20' name='foot_20' data-text='Il y a les lois anti-diffamation également, mais y voir un outil au service de la vérité me semble assez absurde, dans la mesure où, d’une part, elles ne protègent que les personnes (une association ne peut pas attaquer en diffamation un journaliste qui aurait écrit une ânerie sur un sujet particulier, par exemple) et, surtout, elles sont plus souvent utilisées pour intimider les journalistes qui disent la vérité que l’inverse.'>20.</a> Il y a les lois anti-diffamation également, mais y voir un outil au service de la vérité me semble assez absurde, dans la mesure où, d'une part, elles ne protègent que les personnes (une association ne peut pas attaquer en diffamation un journaliste qui aurait écrit une ânerie sur un sujet particulier, par exemple) et, surtout, elles sont plus souvent utilisées pour intimider les journalistes qui disent la vérité que l'inverse.
 
 
-<a href='#note_21' name='foot_21' data-text='Voir ‘la vidéo de l’interview’.'>21.</a> Voir [la vidéo de l'interview](https://archive.is/20171005/http://www.dailymotion.com/video/x34uqqw).
+<a href='#note_21' name='foot_21' data-text='Voir ‘la vidéo de l’interview’.'>21.</a> Voir [la vidéo de l'interview](https://archive.is/20171008/http://www.dailymotion.com/video/x34uqqw).
 
 
-<a href='#note_22' name='foot_22' data-text='Cité dans Un Si Petit Monde. Voir en ligne ‘Comment « Le Monde » fut vendu’.'>22.</a> Cité dans _Un Si Petit Monde_. Voir en ligne [Comment « Le Monde » fut vendu](https://archive.is/20171005/http://www.monde-diplomatique.fr/2011/06/RIMBERT/20696).
+<a href='#note_22' name='foot_22' data-text='Cité dans Un Si Petit Monde. Voir en ligne ‘Comment « Le Monde » fut vendu’.'>22.</a> Cité dans _Un Si Petit Monde_. Voir en ligne [Comment « Le Monde » fut vendu](https://archive.is/20171008/http://www.monde-diplomatique.fr/2011/06/RIMBERT/20696).
 
 
-<a href='#note_23' name='foot_23' data-text='Voir le dernier paragraphe de cet article: ‘François Pinault rachète « Le Point » à Havas pour près de 200 millions’.'>23.</a> Voir le dernier paragraphe de cet article: [François Pinault rachète « Le Point » à Havas pour près de 200 millions](https://archive.is/20171005/https://www.lesechos.fr/17/10/1997/LesEchos/17503-066-ECH_francois-pinault-rachete---le-point---a-havas-pour-pres-de-200-millions.htm).
+<a href='#note_23' name='foot_23' data-text='Voir le dernier paragraphe de cet article: ‘François Pinault rachète « Le Point » à Havas pour près de 200 millions’.'>23.</a> Voir le dernier paragraphe de cet article: [François Pinault rachète « Le Point » à Havas pour près de 200 millions](https://archive.is/20171008/https://www.lesechos.fr/17/10/1997/LesEchos/17503-066-ECH_francois-pinault-rachete---le-point---a-havas-pour-pres-de-200-millions.htm).
 
 
-<a href='#note_24' name='foot_24' data-text='Lire ‘My Year Ripping Off the Web With the Daily Mail Online’.'>24.</a> Lire [My Year Ripping Off the Web With the Daily Mail Online](https://archive.is/20171005/http://tktk.gawker.com/my-year-ripping-off-the-web-with-the-daily-mail-online-1689453286).
+<a href='#note_24' name='foot_24' data-text='Lire ‘My Year Ripping Off the Web With the Daily Mail Online’.'>24.</a> Lire [My Year Ripping Off the Web With the Daily Mail Online](https://archive.is/20171008/http://tktk.gawker.com/my-year-ripping-off-the-web-with-the-daily-mail-online-1689453286).
 
 
-<a href='#note_25' name='foot_25' data-text='Lire ‘Europe 1 : après Sarkozy et Hollande, Elkabbach retiré de la vie politique’.'>25.</a> Lire [Europe 1 : après Sarkozy et Hollande, Elkabbach retiré de la vie politique](https://archive.is/20171005/http://www.liberation.fr/futurs/2016/12/12/europe-1-apres-sarkozy-et-hollande-elkabbach-retire-de-la-vie-politique_1534790).
+<a href='#note_25' name='foot_25' data-text='Lire ‘Europe 1 : après Sarkozy et Hollande, Elkabbach retiré de la vie politique’.'>25.</a> Lire [Europe 1 : après Sarkozy et Hollande, Elkabbach retiré de la vie politique](https://archive.is/20171008/http://www.liberation.fr/futurs/2016/12/12/europe-1-apres-sarkozy-et-hollande-elkabbach-retire-de-la-vie-politique_1534790).
 
 
-<a href='#note_26' name='foot_26' data-text='Lire page 12 de son essai paru dans le New-Yorker en 1967, ‘Truth and Politics’.'>26.</a> Lire page 12 de son essai paru dans le New-Yorker en 1967, [Truth and Politics](https://archive.is/20171005/https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf).
+<a href='#note_26' name='foot_26' data-text='Lire page 12 de son essai paru dans le New-Yorker en 1967, ‘Truth and Politics’.'>26.</a> Lire page 12 de son essai paru dans le New-Yorker en 1967, [Truth and Politics](https://archive.is/20171008/https://idanlandau.files.wordpress.com/2014/12/arendt-truth-and-politics.pdf).
 
 
-<a href='#note_27' name='foot_27' data-text='J’ai abordé longuement le sujet dans ‘The Collapse of Academia’ ; vous y retrouverez les références des paragraphes qui suivent.'>27.</a> J'ai abordé longuement le sujet dans [The Collapse of Academia](https://archive.is/20171005/http://blog.nkb.fr/academia) ; vous y retrouverez les références des paragraphes qui suivent.
+<a href='#note_27' name='foot_27' data-text='J’ai abordé longuement le sujet dans ‘The Collapse of Academia’ ; vous y retrouverez les références des paragraphes qui suivent.'>27.</a> J'ai abordé longuement le sujet dans [The Collapse of Academia](https://archive.is/20171008/http://blog.nkb.fr/academia) ; vous y retrouverez les références des paragraphes qui suivent.
