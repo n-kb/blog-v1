@@ -124,3 +124,8 @@ blockquote {
 .large-tooltip {
 	width: 500px;
 }
+
+p {
+	font-size: 1.1em;
+  	line-height: 1.6em;
+}
