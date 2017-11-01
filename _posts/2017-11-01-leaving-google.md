@@ -8,7 +8,7 @@ description: "I decided to leave Google in January 2017. Here's what I did."
 
 In January of 2017, I decided to quit Google. There was no specific need for me to do that, only the realization that giving one organization access to (and the right to delete or lock me out of) my whole life was not a smart idea. After the [Google Doc Lock Out of 31 October 2017](https://www.washingtonpost.com/news/the-switch/wp/2017/10/31/a-mysterious-message-is-locking-google-docs-users-out-of-their-files/), my experience might be of interest to some.
 
-I left Facebook in 2014, keeping only a string of empty profiles for communication with close friends and to keep the ability to manage pages. (Tip: have several of your puppet accounts manage you pages and write down their birthdates. That's what Facebook asks for when they block you out of your account.) I thought leaving Google would be as easy. It isn't.
+I left Facebook in 2014, keeping only a string of empty profiles for communication with close friends and to keep the ability to manage pages. (Tip: Create several puppet profiles to manage your pages and write down their birthdates. That's what Facebook asks for when they lock you out of your account.) I thought leaving Google would be as easy. It isn't.
 
 ### Email
 
