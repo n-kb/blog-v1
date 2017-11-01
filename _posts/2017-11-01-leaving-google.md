@@ -18,8 +18,6 @@ I left Facebook in 2014, keeping only a string of empty profiles for communicati
 
 **[OwnCloud](https://owncloud.com)**. I looked for an open source calendar solution that had a decent web interface and support for CalDAV, a common calendar format used by mobile apps. Owncloud is free and works, but the online interface is buggy and the synchronization on mobile is useless (it synchronizes your whole calendar, 50 megabytes of data in my case, each time). But still better than letting Google know about my next hairdresser appointment.
 
-I've been told [NextCloud](https://nextcloud.com/) is a better alternative.
-
 ### Search
 
 **[DuckDuckGo](https://duckduckgo.com/)**. I made it my default search engine everywhere. Surprisingly, it's great. The hashbangs make searching much easier, and even if DDG's index and algorithms are not as advanced as Google's, it works for most searches. When I visit Google nowadays, I have the same feeling as when I open a Windows computer: it feels bloated and made to ruin my day.
