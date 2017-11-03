@@ -16,7 +16,7 @@ I left Facebook in 2014, keeping only a string of empty profiles for communicati
 
 ### Calendar
 
-**[OwnCloud](https://owncloud.com)**. I looked for an open source calendar solution that had a decent web interface and support for CalDAV, a common calendar format used by mobile apps. Owncloud is free and works, but the online interface is buggy and the synchronization on mobile is useless (it synchronizes your whole calendar, 50 megabytes of data in my case, each time). But still better than letting Google know about my next hairdresser appointment.
+**[NextCloud](https://nextcloud.com/providers/)**. I looked for an open source calendar solution that had a decent web interface and support for CalDAV, a common calendar format used by mobile apps. Nextcloud works, but the online interface is buggy and the synchronization on mobile is useless (it synchronizes your whole calendar, 50 megabytes of data in my case, each time). But still better than letting Google know about my next hairdresser appointment.
 
 ### Search
 
@@ -42,7 +42,9 @@ I've been told Fairphone developed an alternative OS. As a previous owner of suc
 
 ### Shared docs
 
-**Nothing**. I switched to OpenOffice for my own documents, but couldn't find an open source alternative to Google Docs that was as good and which other people used, too.
+**Nothing**. I switched to OpenOffice for my own documents, backed-up on a Nextcloud instance, but couldn't find an open source alternative to Google Docs that was as good and which other people used, too.
+
+I tried Collabora and OnlyOffice, two apps that run on Nextcloud. They are fine but do not offer the feature "send a link and display your document to anyone, with or without editing rights" which makes Google Docs so great.
 
 ***
 
