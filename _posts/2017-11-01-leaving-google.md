@@ -46,8 +46,6 @@ I've been told Fairphone developed an alternative OS. As a previous owner of suc
 
 I tried Collabora and OnlyOffice, two apps that run on Nextcloud. They are fine but do not offer the feature "send a link and display your document to anyone, with or without editing rights" which makes Google Docs so great.
 
-[Airborn OS](https://www.airbornos.com/) looks like a promising alternative. I haven't tested it in real-life conditions yet.
-
 ***
 
 I still use Google products every day and did not succeed in leaving Google entirely. What feels great though is that Google can now lock me out of any or all its services: I don't care.
