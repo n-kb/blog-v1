@@ -16,7 +16,7 @@ I left Facebook in 2014, keeping only a string of empty profiles for communicati
 
 ### Calendar
 
-**[NextCloud](https://nextcloud.com/providers/)**. I looked for an open source calendar solution that had a decent web interface and support for CalDAV, a common calendar format used by mobile apps. Nextcloud works, but the online interface is buggy and the synchronization on mobile is useless (it synchronizes your whole calendar, 50 megabytes of data in my case, each time). But still better than letting Google know about my next hairdresser appointment.
+**[NextCloud](https://nextcloud.com/providers/)**. I looked for an open source calendar solution that had a decent web interface and support for CalDAV, a common calendar format used by mobile apps. Nextcloud works, but the online interface is buggy and the synchronization on mobile is useless (it synchronizes your whole calendar, 5 megabytes of data in my case, each time). But still better than letting Google know about my next hairdresser appointment.
 
 ### Search
 
