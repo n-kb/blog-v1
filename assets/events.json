@@ -2231,4 +2231,77 @@
     "text": "",
     "location": "Levallois"
   }
+  ,
+  {
+    "title": "Datajournalisme at HMKW",
+    "startdate": "2017-10-25T00:00:00.000Z",
+    "enddate": "2017-10-25T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Datajournalisme at HMKW",
+    "startdate": "2017-10-30T00:00:00.000Z",
+    "enddate": "2017-10-30T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Datajournalisme at HMKW",
+    "startdate": "2017-11-08T00:00:00.000Z",
+    "enddate": "2017-11-08T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Datajournalisme at HMKW",
+    "startdate": "2017-11-10T00:00:00.000Z",
+    "enddate": "2017-11-10T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Datajournalisme at HMKW",
+    "startdate": "2017-11-15T00:00:00.000Z",
+    "enddate": "2017-11-15T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Datajournalisme at HMKW",
+    "startdate": "2017-11-29T00:00:00.000Z",
+    "enddate": "2017-11-29T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Datajournalisme at ISIC",
+    "startdate": "2017-11-20T00:00:00.000Z",
+    "enddate": "2017-11-23T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Rabat, Morocco"
+  },
+  {
+    "title": "Offshoring could do good – for journalism",
+    "startdate": "2017-11-30T00:00:00.000Z",
+    "enddate": "2017-11-30T00:00:00.000Z",
+    "url": "https://medium.com/global-editors-network/offshoring-could-do-good-for-journalism-751007335dd",
+    "type": "Interview",
+    "text": "",
+    "location": ""
+  }
 ]
