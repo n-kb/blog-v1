@@ -84,6 +84,7 @@ $.getJSON('/assets/events.json', function(data){
 					  .attr("title", evt_txts)
 			$('#' + i).tooltip()
 		}
+
 	})
 })
 

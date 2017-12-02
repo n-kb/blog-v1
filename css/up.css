@@ -17,6 +17,7 @@ blockquote {
 
 .separator {
 	float: none;
+
 	width: 100%;
 	text-align: center;
 }
@@ -25,13 +26,13 @@ blockquote {
 #cal {
 	width: 100%;
 	margin: 10px 0;
-	height:auto; overflow:auto
+	height:auto;
 }
 
 #cal2 {
 	width: 100%;
 	margin: 10px 0;
-	height:auto; overflow:auto
+	height:auto;
 }
 
  .month-cal {
@@ -40,7 +41,7 @@ blockquote {
   font-size: 12px;
   text-align: center;
   position: relative;
-  float: left;
+  display: inline-block;
   margin-bottom: 10px;
 }
 .month-cal .month-str {
