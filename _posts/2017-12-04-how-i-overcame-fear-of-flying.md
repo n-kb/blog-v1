@@ -3,7 +3,7 @@ layout: post
 title: "How I overcame my fear of flying"
 category: posts
 image: "images/sedlacek_1932.jpg"
-description: ""
+description: "I used to be afraid in an aircraft cabin. Not anymore. A how-to guide."
 ---
 
 When I was 27, I became nervous about flying. I don't know why. Maybe it was a severe turbulence on a Paris-Berlin flight, when the aircraft entered an unexpected jet (a powerful high-altitude wind) during the cruise, rocking the cabin. Maybe it was the news of a friend of a friend dying in a plane crash. Maybe it was my father's contracting, and later dying from, a rare cancer that carried a lifetime risk of 1 in 500 (still much higher than the odds of dying in a plane crash, which are about 1 in 5,000 if you take off 30 times per year during 40 years).
