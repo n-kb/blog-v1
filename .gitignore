@@ -18,3 +18,7 @@ components/
 
 *.draft.md
 *.py
+
+Pipfile
+Pipfile.lock
+.venv
