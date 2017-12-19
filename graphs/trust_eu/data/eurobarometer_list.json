@@ -1,0 +1,1700 @@
+{
+  "recordcount": 242,
+  "columnlist": "group_description_ds,group_ky,theme_description_ds,theme_ky,theme_title_lb",
+  "data": [
+    {
+      "group_description_ds": "(OUR COUNTRY)",
+      "group_ky": 158,
+      "theme_description_ds": "People may feel different degrees of attachment to their town or village, to their region, to their country or to Europe. Please tell me how attached you feel to…",
+      "theme_ky": 26,
+      "theme_title_lb": "Attachment to"
+    },
+    {
+      "group_description_ds": "Europe",
+      "group_ky": 159,
+      "theme_description_ds": "People may feel different degrees of attachment to their town or village, to their region, to their country or to Europe. Please tell me how attached you feel to…",
+      "theme_ky": 26,
+      "theme_title_lb": "Attachment to"
+    },
+    {
+      "group_description_ds": "European Union",
+      "group_ky": 314,
+      "theme_description_ds": "People may feel different degrees of attachment to their town or village, to their region, to their country or to Europe. Please tell me how attached you feel to…",
+      "theme_ky": 26,
+      "theme_title_lb": "Attachment to"
+    },
+    {
+      "group_description_ds": "Your city/town/village",
+      "group_ky": 160,
+      "theme_description_ds": "People may feel different degrees of attachment to their town or village, to their region, to their country or to Europe. Please tell me how attached you feel to…",
+      "theme_ky": 26,
+      "theme_title_lb": "Attachment to"
+    },
+    {
+      "group_description_ds": "region",
+      "group_ky": 157,
+      "theme_description_ds": "People may feel different degrees of attachment to their town or village, to their region, to their country or to Europe. Please tell me how attached you feel to…",
+      "theme_ky": 26,
+      "theme_title_lb": "Attachment to"
+    },
+    {
+      "group_description_ds": "The Committee of the Regions of the European Union",
+      "group_ky": 11,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "The Council of Ministers of the European Union",
+      "group_ky": 8,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "The Council of the European Union",
+      "group_ky": 13,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "The Economic and Social Committee",
+      "group_ky": 12,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Central Bank",
+      "group_ky": 14,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Commission",
+      "group_ky": 7,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Court of Auditors",
+      "group_ky": 10,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Court of Justice",
+      "group_ky": 9,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Ombudsman",
+      "group_ky": 16,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Parliament",
+      "group_ky": 15,
+      "theme_description_ds": "Have you heard of...?",
+      "theme_ky": 7,
+      "theme_title_lb": "Awareness of the EU institutions"
+    },
+    {
+      "group_description_ds": "Taking everything into account, would you say that (our country) would benefit or not from being a member of the European Union?",
+      "group_ky": 313,
+      "theme_description_ds": "Taking everything into consideration, would you say that (your country) \"has on balance benefited\"/\"would benefit\" or not from being a member of the EU?",
+      "theme_ky": 4,
+      "theme_title_lb": "Benefits of membership of the EU"
+    },
+    {
+      "group_description_ds": "Taking everything into consideration, would you say that (your country) has on balance benefited or not from being a member of the European Union?",
+      "group_ky": 4,
+      "theme_description_ds": "Taking everything into consideration, would you say that (your country) \"has on balance benefited\"/\"would benefit\" or not from being a member of the EU?",
+      "theme_ky": 4,
+      "theme_title_lb": "Benefits of membership of the EU"
+    },
+    {
+      "group_description_ds": "Countries which will join the European Union in 2004 as a result of enlargement should already have a say in European Union foreign policy",
+      "group_ky": 281,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "European Union foreign policy should be independent of United States foreign policy",
+      "group_ky": 120,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "Member states which have opted for neutrality should have a say in European Union foreign policy",
+      "group_ky": 280,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "The European Union should guarantee Human Rights in each member state, even if this is contrary to the wishes of some member states",
+      "group_ky": 282,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "The European Union should have a common asylum policy towards asylum seekers",
+      "group_ky": 119,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "The European Union should have a common immigration policy towards people from outside the European Union",
+      "group_ky": 121,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "The European Union should have a rapid military reaction force that can be sent quickly to trouble spots when an international crisis occurs",
+      "group_ky": 125,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "The European Union should have its own Foreign Minister, who can be the spokesperson for a common European Union position",
+      "group_ky": 123,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "The European Union should have its own seat on the United Nations Security Council",
+      "group_ky": 122,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "The European Union should work to guarantee Human Rights around the world, even if this is contrary to the wishes of some other countries",
+      "group_ky": 124,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "When an international crisis occurs, European Union member states should agree a common position",
+      "group_ky": 126,
+      "theme_description_ds": "The European Union already has a Common Security and Foreign Policy and a European Security and Defence Policy. There is now a debate about how much further these should be developed. Do you tend to agree or tend to disagree with each of the following statements?",
+      "theme_ky": 22,
+      "theme_title_lb": "Common Security and Foreign Policy and European Security and Defence Policy"
+    },
+    {
+      "group_description_ds": "The situation of the (NATIONALITY) economy",
+      "group_ky": 178,
+      "theme_description_ds": "For each of the following domains, would you say that the situation in (OUR COUNTRY) is better or less good than the average of the European Union countries?",
+      "theme_ky": 28,
+      "theme_title_lb": "Comparaison between your country and the EU average "
+    },
+    {
+      "group_description_ds": "You feel you are a citizen of the EU",
+      "group_ky": 263,
+      "theme_description_ds": "For each of the following statements, please tell me to what extent it corresponds or not to your own opinion.",
+      "theme_ky": 50,
+      "theme_title_lb": "EU Citizenship and rights"
+    },
+    {
+      "group_description_ds": "You know what your rights are as a citizen of the EU ",
+      "group_ky": 268,
+      "theme_description_ds": "For each of the following statements, please tell me to what extent it corresponds or not to your own opinion.",
+      "theme_ky": 50,
+      "theme_title_lb": "EU Citizenship and rights"
+    },
+    {
+      "group_description_ds": "You would like to know more about your rights as a citizen of the EU",
+      "group_ky": 269,
+      "theme_description_ds": "For each of the following statements, please tell me to what extent it corresponds or not to your own opinion.",
+      "theme_ky": 50,
+      "theme_title_lb": "EU Citizenship and rights"
+    },
+    {
+      "group_description_ds": "Does the European Union give you personally the feeling of...? (MULTIPLE ANSWERS POSSIBLE)",
+      "group_ky": 103,
+      "theme_description_ds": "Does the European Union give you personally the feeling of...? (MULTIPLE ANSWERS POSSIBLE)",
+      "theme_ky": 20,
+      "theme_title_lb": "EU feeling"
+    },
+    {
+      "group_description_ds": "The EU has sufficient power and tools to defend the economic interests of Europe in the global economy",
+      "group_ky": 276,
+      "theme_description_ds": "For each of the following statements, please tell me whether you totally agree, tend to agree, tend to disagree or totally disagree",
+      "theme_ky": 57,
+      "theme_title_lb": "EU in global economy"
+    },
+    {
+      "group_description_ds": "In your opinion, how is the European Community, the European Unification advancing nowadays? Please look at these people (Show card) N° 1 is standing still, N°7 is running as fast as possible. Choose the one which best corresponds with your opinion of the European Community, European Unification.",
+      "group_ky": 5,
+      "theme_description_ds": "In your opinion, how is the European Community, the European Unification advancing nowadays? Please look at these people (Show card) N° 1 is standing still, N°7 is running as fast as possible. Choose the one which best corresponds with your opinion of the European Community, European Unification.",
+      "theme_ky": 5,
+      "theme_title_lb": "Eurodynamometer current speed"
+    },
+    {
+      "group_description_ds": "And which corresponds best to what you would like ?",
+      "group_ky": 6,
+      "theme_description_ds": "And which corresponds best to what you would like ?",
+      "theme_ky": 6,
+      "theme_title_lb": "Eurodynamometer desired speed"
+    },
+    {
+      "group_description_ds": "The Committee of the Regions of the European Union",
+      "group_ky": 219,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The Convention on the future of the European Union",
+      "group_ky": 223,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The Council of Ministers of the European Union",
+      "group_ky": 20,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The Court of Justice of the European Communities",
+      "group_ky": 21,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Central Bank",
+      "group_ky": 19,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Commission",
+      "group_ky": 18,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Court of Auditors",
+      "group_ky": 222,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Ombudsman",
+      "group_ky": 220,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The European Parliament",
+      "group_ky": 17,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The Social and Economic Committee of the European Union",
+      "group_ky": 221,
+      "theme_description_ds": "And for each of the following European institutions, do you think it plays an important role or not in the life of the European Union?",
+      "theme_ky": 8,
+      "theme_title_lb": "Evolution of the importance played by the EU institutions"
+    },
+    {
+      "group_description_ds": "The economic situation in (our country)",
+      "group_ky": 77,
+      "theme_description_ds": "What are your expectations for the year to come: will next year be better, worse or the same, when it comes to...",
+      "theme_ky": 16,
+      "theme_title_lb": "Expectations for the year to come"
+    },
+    {
+      "group_description_ds": "The employment situation in (our country)",
+      "group_ky": 73,
+      "theme_description_ds": "What are your expectations for the year to come: will next year be better, worse or the same, when it comes to...",
+      "theme_ky": 16,
+      "theme_title_lb": "Expectations for the year to come"
+    },
+    {
+      "group_description_ds": "The financial situation of your household",
+      "group_ky": 76,
+      "theme_description_ds": "What are your expectations for the year to come: will next year be better, worse or the same, when it comes to...",
+      "theme_ky": 16,
+      "theme_title_lb": "Expectations for the year to come"
+    },
+    {
+      "group_description_ds": "Your life in general",
+      "group_ky": 74,
+      "theme_description_ds": "What are your expectations for the year to come: will next year be better, worse or the same, when it comes to...",
+      "theme_ky": 16,
+      "theme_title_lb": "Expectations for the year to come"
+    },
+    {
+      "group_description_ds": "Your personal job situation",
+      "group_ky": 75,
+      "theme_description_ds": "What are your expectations for the year to come: will next year be better, worse or the same, when it comes to...",
+      "theme_ky": 16,
+      "theme_title_lb": "Expectations for the year to come"
+    },
+    {
+      "group_description_ds": "Do you ever think of yourself as not only (nationality), but also European? Does this happen often, sometimes or never?",
+      "group_ky": 72,
+      "theme_description_ds": "Do you ever think of yourself as not only (nationality), but also European? Does this happen often, sometimes or never?",
+      "theme_ky": 15,
+      "theme_title_lb": "Feel European"
+    },
+    {
+      "group_description_ds": "Albania",
+      "group_ky": 65,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Austria",
+      "group_ky": 299,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Belarus",
+      "group_ky": 284,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Bosnia-Herzegovina",
+      "group_ky": 63,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Bulgaria",
+      "group_ky": 61,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Croatia",
+      "group_ky": 70,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Current Yugoslavia, I.E. Serbia and Montenegro",
+      "group_ky": 66,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Cyprus",
+      "group_ky": 242,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Estonia",
+      "group_ky": 241,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Finland",
+      "group_ky": 274,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Hungary",
+      "group_ky": 233,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Iceland",
+      "group_ky": 62,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Latvia",
+      "group_ky": 234,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Lithuania",
+      "group_ky": 235,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Malta",
+      "group_ky": 236,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Moldavia",
+      "group_ky": 308,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Norway",
+      "group_ky": 68,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Poland",
+      "group_ky": 237,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Romania",
+      "group_ky": 60,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Russia",
+      "group_ky": 272,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Slovenia",
+      "group_ky": 238,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Sweden",
+      "group_ky": 309,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Switzerland",
+      "group_ky": 64,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "The Czech Republic",
+      "group_ky": 239,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "The Slovak Republic",
+      "group_ky": 240,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "The former Yugoslav Republic of Macedonia (FYROM)",
+      "group_ky": 69,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Turkey",
+      "group_ky": 71,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Ukraine",
+      "group_ky": 67,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Yugoslavia (Federal Republic)",
+      "group_ky": 243,
+      "theme_description_ds": "For each of the following countries, are you in favour or not of it becoming part of the European Union in the future?",
+      "theme_ky": 14,
+      "theme_title_lb": "Future enlargement of the EU"
+    },
+    {
+      "group_description_ds": "Which one of the following two statements is closest to your opinion regarding globalisation? ",
+      "group_ky": 189,
+      "theme_description_ds": "Which one of the following two statements is closest to your opinion regarding globalisation?",
+      "theme_ky": 32,
+      "theme_title_lb": "Globalisation"
+    },
+    {
+      "group_description_ds": "Health care provision in (OUR COUNTRY)",
+      "group_ky": 161,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "Relations in (OUR COUNTRY) between people from different cultural or religious backgrounds or nationalities",
+      "group_ky": 171,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The affordability of energy in (OUR COUNTRY)",
+      "group_ky": 162,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The affordability of housing in (OUR COUNTRY)",
+      "group_ky": 176,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The area you live in",
+      "group_ky": 170,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The cost of living in (OUR COUNTRY)",
+      "group_ky": 175,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The employment situation in (OUR COUNTRY)",
+      "group_ky": 174,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The financial situation of your household",
+      "group_ky": 165,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The provision of pensions in (OUR COUNTRY)",
+      "group_ky": 169,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The quality of life in (OUR COUNTRY)",
+      "group_ky": 285,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The quality of life in the EU",
+      "group_ky": 287,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The situation of the (NATIONALITY) economy ",
+      "group_ky": 229,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The situation of the European economy ",
+      "group_ky": 231,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The situation of the economy in the world",
+      "group_ky": 164,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The situation of the environment in (OUR COUNTRY)",
+      "group_ky": 172,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The social welfare situation in (OUR COUNTRY)",
+      "group_ky": 177,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The way inequalities and poverty are addressed in (OUR COUNTRY)",
+      "group_ky": 166,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "The way public administration runs in (OUR COUNTRY)",
+      "group_ky": 173,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "Unemployment benefits in (OUR COUNTRY)",
+      "group_ky": 168,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "Your personal job situation",
+      "group_ky": 167,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "Your quality of life",
+      "group_ky": 163,
+      "theme_description_ds": "How would you judge the current situation in each of the following?",
+      "theme_ky": 27,
+      "theme_title_lb": "How would you judge the current situation in each of the following"
+    },
+    {
+      "group_description_ds": "In general, does the European Union conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?",
+      "group_ky": 102,
+      "theme_description_ds": "In general, does the European Union conjure up for you a very positive, fairly positive, neutral, fairly negative or very negative image?",
+      "theme_ky": 19,
+      "theme_title_lb": "Image of the European Union"
+    },
+    {
+      "group_description_ds": "Immigration of people from other EU Member States",
+      "group_ky": 278,
+      "theme_description_ds": "Please tell me whether each of the following statements evokes a positive or negative feeling for you.",
+      "theme_ky": 59,
+      "theme_title_lb": "Immigration"
+    },
+    {
+      "group_description_ds": "Immigration of people from outside the EU ",
+      "group_ky": 279,
+      "theme_description_ds": "Please tell me whether each of the following statements evokes a positive or negative feeling for you.",
+      "theme_ky": 59,
+      "theme_title_lb": "Immigration"
+    },
+    {
+      "group_description_ds": "Some analysts say that the impact of the economic crisis on the job market has already reached its peak and things will recover little by little. Others, on the contrary, say that the worst is still to come. ",
+      "group_ky": 262,
+      "theme_description_ds": "People's views on the impact of the crisis on the job market",
+      "theme_ky": 49,
+      "theme_title_lb": "Impact of the crisis on jobs"
+    },
+    {
+      "group_description_ds": "How well informed do you feel about the European currency...?",
+      "group_ky": 244,
+      "theme_description_ds": "European currency",
+      "theme_ky": 46,
+      "theme_title_lb": "Informed about the Single European currency"
+    },
+    {
+      "group_description_ds": "And as far as European politics are concerned, that is matters related to the European Community, to what extent would you say that you are interested in them?",
+      "group_ky": 270,
+      "theme_description_ds": "And as far as European politics are concerned, that is matters related to the European Community, to what extent would you say that you are interested in them?",
+      "theme_ky": 54,
+      "theme_title_lb": "Interest in European Affairs"
+    },
+    {
+      "group_description_ds": "Public money should be used to stimulate private sector investment at EU level",
+      "group_ky": 277,
+      "theme_description_ds": "For each of the following statements, please tell me whether you totally agree, tend to agree, tend to disagree or totally disagree.",
+      "theme_ky": 58,
+      "theme_title_lb": "Investment stimulation at EU level"
+    },
+    {
+      "group_description_ds": "On the whole are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead ?",
+      "group_ky": 1,
+      "theme_description_ds": "On the whole are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead ?",
+      "theme_ky": 1,
+      "theme_title_lb": "Life satisfaction"
+    },
+    {
+      "group_description_ds": "What does the EU mean to you personally? (ROTATE – MULTIPLE ANSWERS POSSIBLE)",
+      "group_ky": 190,
+      "theme_description_ds": "What does the EU mean to you personally? (ROTATE – MULTIPLE ANSWERS POSSIBLE)",
+      "theme_ky": 33,
+      "theme_title_lb": "Meaning of the EU"
+    },
+    {
+      "group_description_ds": "Generally speaking, do you think that (our country)'s membership of the EU would be...?",
+      "group_ky": 312,
+      "theme_description_ds": "Generally speaking, do you think that (your country's) membership of the European Union ...?",
+      "theme_ky": 3,
+      "theme_title_lb": "Membership to the EU"
+    },
+    {
+      "group_description_ds": "Generally speaking, do you think that (your country's) membership of the EU is ...?",
+      "group_ky": 3,
+      "theme_description_ds": "Generally speaking, do you think that (your country's) membership of the European Union ...?",
+      "theme_ky": 3,
+      "theme_title_lb": "Membership to the EU"
+    },
+    {
+      "group_description_ds": "Which of the following are the most positive results of the EU?",
+      "group_ky": 266,
+      "theme_description_ds": "Which of the following are the most positive results of the EU? ",
+      "theme_ky": 53,
+      "theme_title_lb": "Most positive result of the EU"
+    },
+    {
+      "group_description_ds": "Are you for or against the European Union having one European currency in all member states, including (your country)? That is, replacing the (name of national currency) by the European currency? Are you ...?",
+      "group_ky": 245,
+      "theme_description_ds": "Are you for or against the European Union having one European currency in all member states, including (your country)? That is, replacing the (name of national currency) by the European currency? Are you ...?",
+      "theme_ky": 47,
+      "theme_title_lb": "One European currency for or against"
+    },
+    {
+      "group_description_ds": "Would you say that you are very optimistic, fairly optimistic, fairly pessimistic or very pessimistic about the future of the EU?",
+      "group_ky": 211,
+      "theme_description_ds": "Would you say that you are very optimistic, fairly optimistic, fairly pessimistic or very pessimistic about the future of the EU?",
+      "theme_ky": 43,
+      "theme_title_lb": "Optimism about the future of the EU"
+    },
+    {
+      "group_description_ds": "Accepting refugees",
+      "group_ky": 302,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Agriculture and fisheries /Agriculture and fishing policy",
+      "group_ky": 43,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Basic rules for broadcasting and press",
+      "group_ky": 251,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Competition policy",
+      "group_ky": 47,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Consumer protection / Consumer policy",
+      "group_ky": 39,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Cultural policy",
+      "group_ky": 259,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Currency",
+      "group_ky": 252,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Dealing with unemployment",
+      "group_ky": 297,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Defence",
+      "group_ky": 250,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Economic policy",
+      "group_ky": 298,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Education",
+      "group_ky": 249,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Energy policy",
+      "group_ky": 32,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Fighting inflation",
+      "group_ky": 42,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Foreign policy towards countries outside the European Union",
+      "group_ky": 258,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Health and safety of workers",
+      "group_ky": 295,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Health and social welfare",
+      "group_ky": 225,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Humanitarian aid",
+      "group_ky": 256,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Immigration policy",
+      "group_ky": 253,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Information about the European Union, its policies and institutions",
+      "group_ky": 257,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Justice",
+      "group_ky": 301,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Juvenile crime prevention",
+      "group_ky": 303,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Pensions",
+      "group_ky": 34,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Police",
+      "group_ky": 300,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Protection of the environment",
+      "group_ky": 254,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Reducing public debt",
+      "group_ky": 41,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Rules for political asylum",
+      "group_ky": 296,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Scientific and technological research ",
+      "group_ky": 255,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Social welfare",
+      "group_ky": 35,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Supporting regions which are experiencing economic difficulties",
+      "group_ky": 46,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Tackling the challenges of an ageing population",
+      "group_ky": 307,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Taxation",
+      "group_ky": 45,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "The fight against drugs",
+      "group_ky": 36,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "The fight against international terrorism",
+      "group_ky": 40,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "The fight against organised crime",
+      "group_ky": 44,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "The fight against poverty / Social exclusion",
+      "group_ky": 260,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "The fight against the trade in, and exploitation of, human beings",
+      "group_ky": 305,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "The fight against unemployment",
+      "group_ky": 38,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Trade with countries outside the European Union",
+      "group_ky": 306,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Transports",
+      "group_ky": 33,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "Urban crime prevention",
+      "group_ky": 304,
+      "theme_description_ds": "For each of the following areas, do you think that decisions should be made by the (NATIONALITY) government, or made jointly within the European Union?",
+      "theme_ky": 10,
+      "theme_title_lb": "Policies national or EU level"
+    },
+    {
+      "group_description_ds": "peace in the world?",
+      "group_ky": 134,
+      "theme_description_ds": "And in your opinion, does the European Union tend to play a positive role, a negative role or neither positive nor negative role regarding",
+      "theme_ky": 24,
+      "theme_title_lb": "Role of the European Union"
+    },
+    {
+      "group_description_ds": "the fight against poverty in the world?",
+      "group_ky": 135,
+      "theme_description_ds": "And in your opinion, does the European Union tend to play a positive role, a negative role or neither positive nor negative role regarding",
+      "theme_ky": 24,
+      "theme_title_lb": "Role of the European Union"
+    },
+    {
+      "group_description_ds": "the fight against terrorism?",
+      "group_ky": 133,
+      "theme_description_ds": "And in your opinion, does the European Union tend to play a positive role, a negative role or neither positive nor negative role regarding",
+      "theme_ky": 24,
+      "theme_title_lb": "Role of the European Union"
+    },
+    {
+      "group_description_ds": "the growth of the world economy?",
+      "group_ky": 132,
+      "theme_description_ds": "And in your opinion, does the European Union tend to play a positive role, a negative role or neither positive nor negative role regarding",
+      "theme_ky": 24,
+      "theme_title_lb": "Role of the European Union"
+    },
+    {
+      "group_description_ds": "the protection of the environment?",
+      "group_ky": 136,
+      "theme_description_ds": "And in your opinion, does the European Union tend to play a positive role, a negative role or neither positive nor negative role regarding",
+      "theme_ky": 24,
+      "theme_title_lb": "Role of the European Union"
+    },
+    {
+      "group_description_ds": "growth of the world economy?",
+      "group_ky": 130,
+      "theme_description_ds": "In your opinion, would you say that the United States tend to play a positive role, a negative role or neither a positive nor a negative role regarding",
+      "theme_ky": 23,
+      "theme_title_lb": "Role of the United States"
+    },
+    {
+      "group_description_ds": "peace in the world?",
+      "group_ky": 127,
+      "theme_description_ds": "In your opinion, would you say that the United States tend to play a positive role, a negative role or neither a positive nor a negative role regarding",
+      "theme_ky": 23,
+      "theme_title_lb": "Role of the United States"
+    },
+    {
+      "group_description_ds": "protection of the environment?",
+      "group_ky": 129,
+      "theme_description_ds": "In your opinion, would you say that the United States tend to play a positive role, a negative role or neither a positive nor a negative role regarding",
+      "theme_ky": 23,
+      "theme_title_lb": "Role of the United States"
+    },
+    {
+      "group_description_ds": "the fight against poverty in the world?",
+      "group_ky": 128,
+      "theme_description_ds": "In your opinion, would you say that the United States tend to play a positive role, a negative role or neither a positive nor a negative role regarding",
+      "theme_ky": 23,
+      "theme_title_lb": "Role of the United States"
+    },
+    {
+      "group_description_ds": "the fight against terrorism?",
+      "group_ky": 131,
+      "theme_description_ds": "In your opinion, would you say that the United States tend to play a positive role, a negative role or neither a positive nor a negative role regarding",
+      "theme_ky": 23,
+      "theme_title_lb": "Role of the United States"
+    },
+    {
+      "group_description_ds": "How about the way democracy works in the European Union?",
+      "group_ky": 228,
+      "theme_description_ds": "On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the way democracy works in (your country)? Would you say you are ,,, ?",
+      "theme_ky": 2,
+      "theme_title_lb": "Satisfaction with EU democracy"
+    },
+    {
+      "group_description_ds": "How about the way democracy works in your country ?",
+      "group_ky": 226,
+      "theme_description_ds": "On the whole, are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the way democracy works in (your country)? Would you say you are ,,, ?",
+      "theme_ky": 45,
+      "theme_title_lb": "Satisfaction with national democracy"
+    },
+    {
+      "group_description_ds": "(OUR COUNTRY) could better face the future outside the EU",
+      "group_ky": 294,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "(OUR COUNTRY) is more influential in the European Union now than it was ten years ago",
+      "group_ky": 156,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "(OUR COUNTRY) will become more influential in the European Union in the future",
+      "group_ky": 150,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "(OUR COUNTRY)’s voice counts in the European Union",
+      "group_ky": 154,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "Globalisation is an opportunity for economic growth",
+      "group_ky": 147,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "I feel I am safer because (OUR COUNTRY) is a member of the European Union",
+      "group_ky": 155,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "I feel I would be safer if (OUR COUNTRY) would be a member of the European Union",
+      "group_ky": 145,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "I feel very much involved in European affairs",
+      "group_ky": 149,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "I feel we are more stable economically because (OUR COUNTRY) is a member of the European Union",
+      "group_ky": 139,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "I feel we are more stable economically because (OUR COUNTRY) is a member of the euro area",
+      "group_ky": 137,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "I feel we are more stable politically because (OUR COUNTRY) is a member of the European Union",
+      "group_ky": 152,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "I feel we would be more stable economically if (OUR COUNTRY) would be a member of the European Union",
+      "group_ky": 153,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "I feel we would be more stable politically if (OUR COUNTRY) would be a member of the European Union",
+      "group_ky": 146,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "I understand how the European Union works",
+      "group_ky": 290,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "More decisions should be taken at EU level",
+      "group_ky": 144,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "My voice counts in (OUR COUNTRY)",
+      "group_ky": 292,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "My voice counts in the European Union ",
+      "group_ky": 289,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "On European issues, my voice is listened to by my government",
+      "group_ky": 148,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "On European issues, my voice is listened to by the European Commission",
+      "group_ky": 142,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "On European issues, my voice is listened to by the Members of the European Parliament",
+      "group_ky": 138,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "The (NATIONALITY) Government is sensitive to issues that concern (NATIONALITY) citizens",
+      "group_ky": 140,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "The (NATIONALITY) Government is sensitive to issues that concern European citizens",
+      "group_ky": 143,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "The EU is sensitive to issues that concern (NATIONALITY) citizens",
+      "group_ky": 151,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "The EU's voice counts in the world ",
+      "group_ky": 293,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "The biggest countries have the most power in the European Union",
+      "group_ky": 141,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "The interests of (OUR COUNTRY) are well taken into account in the EU",
+      "group_ky": 291,
+      "theme_description_ds": "Please tell me for each statement, whether you tend to agree or tend to disagree?",
+      "theme_ky": 25,
+      "theme_title_lb": "Security and stability"
+    },
+    {
+      "group_description_ds": "A European economic and monetary union with one single currency, the euro",
+      "group_ky": 183,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "A common European policy on migration",
+      "group_ky": 180,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "A common defence and security policy among EU Member States",
+      "group_ky": 181,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "A common energy policy among EU Member States",
+      "group_ky": 182,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "A common foreign policy of all Member States of the EU",
+      "group_ky": 184,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "A digital single market within the EU",
+      "group_ky": 318,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "A free trade and investment agreement between the EU and the USA",
+      "group_ky": 179,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "European political parties to present their candidate for the post of European Commission President at the next European Parliament elections",
+      "group_ky": 185,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "Further enlargement of the EU to include other countries in future years",
+      "group_ky": 186,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "Teaching school children about the way European Union institutions work",
+      "group_ky": 316,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "The free movement of EU citizens who can live, work, study and do business anywhere in the EU ",
+      "group_ky": 319,
+      "theme_description_ds": "What is your opinion on each of the following statements? Please tell me for each statement, whether you are for it or against it. ",
+      "theme_ky": 29,
+      "theme_title_lb": "Support for key European policies"
+    },
+    {
+      "group_description_ds": "Do you see yourself as...?",
+      "group_ky": 206,
+      "theme_description_ds": "In the near future",
+      "theme_ky": 41,
+      "theme_title_lb": "To be nationality European in the future"
+    },
+    {
+      "group_description_ds": "The Committee of the Regions of the European Union",
+      "group_ky": 22,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The Convention on the future of the European Union",
+      "group_ky": 224,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The Council of the European Union",
+      "group_ky": 31,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The EC Council of Ministers",
+      "group_ky": 30,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The European Central Bank",
+      "group_ky": 27,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The European Commission",
+      "group_ky": 24,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The European Court of Auditors",
+      "group_ky": 29,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The European Court of Justice",
+      "group_ky": 28,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The European Ombudsman",
+      "group_ky": 26,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The European Parliament",
+      "group_ky": 23,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "The Social and Economic Committee of the European Union",
+      "group_ky": 25,
+      "theme_description_ds": "And, for each of them, please tell me if you tend to trust it or tend not to trust it?",
+      "theme_ky": 9,
+      "theme_title_lb": "Trust in European institutions"
+    },
+    {
+      "group_description_ds": "Big companies",
+      "group_ky": 99,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Charitable or voluntary organisations",
+      "group_ky": 91,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Consumer associations",
+      "group_ky": 90,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Justice/the (NATIONALITY) legal system",
+      "group_ky": 100,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "NATO",
+      "group_ky": 101,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Online social networks",
+      "group_ky": 83,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Political parties",
+      "group_ky": 85,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Public administration in (OUR COUNTRY) ",
+      "group_ky": 317,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Radio",
+      "group_ky": 95,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Regional or local public authorities",
+      "group_ky": 92,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Television",
+      "group_ky": 87,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "The (NATIONALITY) Parliament",
+      "group_ky": 89,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "The (NATIONALITY) government",
+      "group_ky": 98,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "The European Union",
+      "group_ky": 97,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "The Internet",
+      "group_ky": 93,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "The United Nations",
+      "group_ky": 94,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "The army",
+      "group_ky": 82,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "The police",
+      "group_ky": 88,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "The press",
+      "group_ky": 84,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "The religious institutions",
+      "group_ky": 86,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "Trade Unions",
+      "group_ky": 96,
+      "theme_description_ds": "Public administration in (OUR COUNTRY)",
+      "theme_ky": 18,
+      "theme_title_lb": "Trust in institutions"
+    },
+    {
+      "group_description_ds": "What do you think are the two most important issues facing (OUR COUNTRY) at the moment?",
+      "group_ky": 208,
+      "theme_description_ds": "What do you think are the two most important issues facing (OUR COUNTRY) at the moment?",
+      "theme_ky": 42,
+      "theme_title_lb": "Two most important issues facing (OUR COUNTRY) at the moment"
+    },
+    {
+      "group_description_ds": "What do you think are the two most important issues facing the EU at the moment? (MAX. 2 ANSWERS)",
+      "group_ky": 188,
+      "theme_description_ds": "What do you think are the two most important issues facing the EU at the moment? (MAX. 2 ANSWERS)",
+      "theme_ky": 31,
+      "theme_title_lb": "Two most important issues facing the EU at the moment"
+    },
+    {
+      "group_description_ds": "And personally, what are the two most important issues you are facing at the moment? (MAX. 2 ANSWERS)",
+      "group_ky": 187,
+      "theme_description_ds": "And personally, what are the two most important issues you are facing at the moment? (MAX. 2 ANSWERS)",
+      "theme_ky": 30,
+      "theme_title_lb": "Two most important issues you are facing at the moment"
+    }
+  ]
+}
