@@ -26,7 +26,7 @@ I scraped data from the [Eurobarometer website](http://ec.europa.eu/commfrontoff
 
 ![Trust levels in 12 European countries](../graphs/trust_eu/trust.png)
 
-As could be expected, trust fell sharply in most European countries since the mid-2000s and the fall was strongest in countries severely affected by the financial crisis. If trust correlates with anything at all, it seems to be with social conditions, for which I used rising unemployment as a proxy (the red highlights on the chart above).
+As could be expected, trust fell sharply in most European countries since the mid-2000s and the fall was strongest in countries severely affected by the financial crisis. If trust correlates with anything at all, it seems to be with social conditions, for which I used rising unemployment as a proxy (the red highlights on the chart above).<sup><a name='note_2' id='#note_2' class='note_anchor' href='#foot_2'>2</a></sup>
 
 This makes sense. Trust is the confidence that an institution will help us in the future. If your situation deteriorates or is at risk of deteriorating, you have no reason to assume that institutions currently in place (and possibly responsible for the deterioration) will make your life better any time soon.
 
@@ -56,7 +56,7 @@ To build trust in institutions, shows of strength do more than transparency, whi
 
 ### Don't throw transparency away
 
-Shows of force are necessary to gain the trust of the population. Should we kill transparency to help institutions gain strength? The idea is not as absurd as it sounds. Not a few politicians (or their stooges) champion it when they conflate institutional transparency with totalitarianism<sup><a name='note_2' id='#note_2' class='note_anchor' href='#foot_2'>2</a></sup> and many institutions, starting with the coercion forces, reject transparency in the name of efficiency (as their use of "confidential" or "secret" classification can attest).
+Shows of force are necessary to gain the trust of the population. Should we kill transparency to help institutions gain strength? The idea is not as absurd as it sounds. Not a few politicians (or their stooges) champion it when they conflate institutional transparency with totalitarianism<sup><a name='note_3' id='#note_3' class='note_anchor' href='#foot_3'>3</a></sup> and many institutions, starting with the coercion forces, reject transparency in the name of efficiency (as their use of "confidential" or "secret" classification can attest).
 
 Transparency is only useful in that it takes some power away from an institution and puts it in the hands of those who want to control it. The controlling institutions can be courts of auditors or citizens interested in keeping the powerful in check, also known as investigative journalists. The role of the administration is to balance the need for displays of power, which create trust, and the need for transparency, which helps controllers prevent abuses of power.
 
@@ -83,4 +83,7 @@ In itself, transparency achieves little. It can be manipulated by the strongest 
 <a href='#note_1' name='foot_1' data-text='Find the sources here for ‘quote one’, ‘quote two’ and ‘quote three’.'>1.</a> Find the sources here for [quote one](https://archive.is/20171219/https://www.opengovpartnership.org/trust/citizens-cannot-trust-what-they-cannot-see), [quote two](https://archive.is/20171219/https://www.opengovpartnership.org/trust/political-drivers-of-low-trust) and [quote three](https://archive.is/20171219/https://www.opengovpartnership.org/trust/trust-times-of-intense-scrutiny).
 
 
-<a href='#note_2' name='foot_2' data-text='Example from France ‘here’, there were many in the United States during the 2010 Cablegate as well.'>2.</a> Example from France [here](https://archive.is/20171219/https://tempsreel.nouvelobs.com/rue89/sur-le-radar/20170207.OBS4930/fillon-et-la-demande-de-transparence-et-elkrief-se-soumit-au-totalitarisme.html), there were many in the United States during the 2010 _Cablegate_ as well.
+<a href='#note_2' name='foot_2' data-text='Trust does correlate with wealth somehow, ‘but it’s complicated’.'>2.</a> Trust does correlate with wealth somehow, [but it's complicated](https://archive.is/20171219/https://ourworldindata.org/trust).
+
+
+<a href='#note_3' name='foot_3' data-text='Example from France ‘here’, there were many in the United States during the 2010 Cablegate as well.'>3.</a> Example from France [here](https://archive.is/20171219/https://tempsreel.nouvelobs.com/rue89/sur-le-radar/20170207.OBS4930/fillon-et-la-demande-de-transparence-et-elkrief-se-soumit-au-totalitarisme.html), there were many in the United States during the 2010 _Cablegate_ as well.
