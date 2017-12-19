@@ -3,7 +3,7 @@ layout: post
 title: "Transparency does not beget trust - quite the opposite"
 category: posts
 image: "graphs/trust_eu/trust.png"
-description: "."
+description: "Transparency does not create trust - it can even undermine it."
 ---
 
 Nothing builds confidence like transparency and open government. The only way to build trust between citizens and government is to boldly improve accountability and transparency. Trust can only be earned by public institutions if they commit to transparency.
