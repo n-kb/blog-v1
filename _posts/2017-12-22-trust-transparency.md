@@ -6,7 +6,11 @@ image: "graphs/trust_eu/trust.png"
 description: "Transparency does not create trust - it can even undermine it."
 ---
 
-Nothing builds confidence like transparency and open government. The only way to build trust between citizens and government is to boldly improve accountability and transparency. Trust can only be earned by public institutions if they commit to transparency.
+"Nothing builds confidence like transparency and open government." 
+
+"The only way to build trust between citizens and government is to boldly improve accountability and transparency." 
+
+"Trust can only be earned by public institutions if they commit to transparency."
 
 These sentences are from a report called "Trust: The Fight to Win It Back" by the Open Government Partnership.<sup><a name='note_1' id='#note_1' class='note_anchor' href='#foot_1'>1</a></sup> The assumption that openness begets trust is so deeply ingrained in our minds that very few people take the time to check it. Not only is the relationship, let alone the causation, unproven ; it makes little sense. If your partner cheated on you, he won't gain your trust back by sharing his calendar. He'll feel under surveillance and you'll assume he uses other subterfuges to deceive you.
 
@@ -52,6 +56,8 @@ On the other hand, the Soviet Union did not crumble because it was not transpare
 
 The key driver of trust is the ability to make credible promises. This explains why many Turks trust their institutions even when unemployment rises. Erdoğan promises a renewed Ottoman empire, modernization, greatness. He does not need to deliver on any of those, just to remain credible when he makes them. Credibility, in turn, comes from power or, more precisely, displays of power.
 
+An institution needs not tell the truth to be credible, or be accountable or have done great deeds in the past. It simply needs its audience not to doubt it. Churches and totalitarian regimes work in this way, by building a thought system where anything other than trust, in the form of faith, amounts to heresy or treason. More broadly, any relation of domination or fealty work in a similar way. Such relationships are supposed to be a trade between loyalty from the vassal to the lord in exchange from protection but in the end, what matters is only the trust the vassal puts in his or her lord - whether or not the lord delivers on his or her promise does not matter because the vassal does not have a choice. Trust in the lord is what the vassal needs for his own worldview to make sense.
+
 To build trust in institutions, shows of strength do more than transparency, which is why trust in the police and army increased in the past two decades. Policepersons and soldiers have been given more and more power by governments and parliaments, which logically increased the power they could put on display and therefore win the trust of the population, even when they fail in everything they do. France is again a great example: Its generals failed to win the wars they fought in Afghanistan, Mali or Libya ; its police did a miserable job of preventing terrorism, but both are nevertheless more and more trusted.
 
 ### Don't throw transparency away
@@ -80,10 +86,10 @@ In itself, transparency achieves little. It can be manipulated by the strongest 
 
 
 
-<a href='#note_1' name='foot_1' data-text='Find the sources here for ‘quote one’, ‘quote two’ and ‘quote three’.'>1.</a> Find the sources here for [quote one](https://archive.is/20171219/https://www.opengovpartnership.org/trust/citizens-cannot-trust-what-they-cannot-see), [quote two](https://archive.is/20171219/https://www.opengovpartnership.org/trust/political-drivers-of-low-trust) and [quote three](https://archive.is/20171219/https://www.opengovpartnership.org/trust/trust-times-of-intense-scrutiny).
+<a href='#note_1' name='foot_1' data-text='Find the sources here for ‘quote one’, ‘quote two’ and ‘quote three’.'>1.</a> Find the sources here for [quote one](https://archive.is/20171222/https://www.opengovpartnership.org/trust/citizens-cannot-trust-what-they-cannot-see), [quote two](https://archive.is/20171222/https://www.opengovpartnership.org/trust/political-drivers-of-low-trust) and [quote three](https://archive.is/20171222/https://www.opengovpartnership.org/trust/trust-times-of-intense-scrutiny).
 
 
-<a href='#note_2' name='foot_2' data-text='Trust does correlate with wealth somehow, ‘but it’s complicated’.'>2.</a> Trust does correlate with wealth somehow, [but it's complicated](https://archive.is/20171219/https://ourworldindata.org/trust).
+<a href='#note_2' name='foot_2' data-text='Trust does correlate with wealth somehow, ‘but it’s complicated’.'>2.</a> Trust does correlate with wealth somehow, [but it's complicated](https://archive.is/20171222/https://ourworldindata.org/trust).
 
 
-<a href='#note_3' name='foot_3' data-text='Example from France ‘here’, there were many in the United States during the 2010 Cablegate as well.'>3.</a> Example from France [here](https://archive.is/20171219/https://tempsreel.nouvelobs.com/rue89/sur-le-radar/20170207.OBS4930/fillon-et-la-demande-de-transparence-et-elkrief-se-soumit-au-totalitarisme.html), there were many in the United States during the 2010 _Cablegate_ as well.
+<a href='#note_3' name='foot_3' data-text='Example from France ‘here’, there were many in the United States during the 2010 Cablegate as well.'>3.</a> Example from France [here](https://archive.is/20171222/https://tempsreel.nouvelobs.com/rue89/sur-le-radar/20170207.OBS4930/fillon-et-la-demande-de-transparence-et-elkrief-se-soumit-au-totalitarisme.html), there were many in the United States during the 2010 _Cablegate_ as well.
