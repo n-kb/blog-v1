@@ -2321,5 +2321,23 @@
     "type": "Training",
     "text": "",
     "location": "Moscow, Russia"
+  },
+  {
+    "title": "Context for my Weather",
+    "startdate": "2018-01-15T00:00:00.000Z",
+    "enddate": "2018-01-15T00:00:00.000Z",
+    "url": "https://twitter.com/weathercontext/",
+    "type": "Project",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "The roots of fake news",
+    "startdate": "2018-01-17T00:00:00.000Z",
+    "enddate": "2018-01-17T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/roots-of-fake-news",
+    "type": "Article",
+    "text": "",
+    "location": ""
   }
 ]
