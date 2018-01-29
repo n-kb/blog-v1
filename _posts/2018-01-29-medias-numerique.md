@@ -68,7 +68,7 @@ L'histoire espagnole est la plus instructive. A la fin des années 2000, plusieu
 
 Google, suivi par Facebook, a réussi à monopoliser l'attention des Européens, que détenaient auparavant les médias, et, grâce aux données personnelles dont ils disposent, génèrent des milliards en revendant cette attention aux annonceurs. Pour ces GAFA,<sup><a name='note_27' id='#note_27' class='note_anchor' href='#foot_27'>27</a></sup> les médias sont des fournisseurs de contenus parmi une infinité d'autres. Ils sont aussi des empêcheurs de tourner en rond. Journalistes et patrons de presse ont l'oreille des politiques, via les jeux de pouvoir nationaux ou simplement parce qu'ils ont été à l'université ensemble.
 
-Face à ce problème, Google (suivi encore une fois de Facebook) a vite trouvé la parade. Chacune des procédures judiciaires que j'ai évoqué s'est terminée par la création d'un fonds mis à disposition des médias. Google finance ainsi certains projets du Syndicat national de l'édition. Il a créé en France le "Fonds pour l'Innovation Numérique de la Presse", suivi au niveau Européen de la "Digital News Initiative". Dans ce jeu de dupes, Google se présente comme le partenaire des médias et met en scène une relation d'égal à égal alors qu'il ne s'agit que de les diviser (chaque média doit candidater individuellement pour obtenir un subside de Google) et d'acheter leur complaisance.<sup><a name='note_28' id='#note_28' class='note_anchor' href='#foot_28'>28</a></sup> Les GAFA organisent ou financent également les conférences professionelles des médias en Europe, comme le Global Editors Network Summit, le Newsgeist et le JournalismFest.
+Face à ce problème, Google (suivi encore une fois de Facebook) a vite trouvé la parade. Chacune des procédures judiciaires que j'ai évoqué s'est terminée par la création d'un fonds mis à disposition des médias. Google finance ainsi certains projets du Syndicat national de l'édition. Il a créé en France le "Fonds pour l'Innovation Numérique de la Presse", suivi au niveau Européen de la "Digital News Initiative". Dans ce jeu de dupes, Google se présente comme le partenaire des médias et met en scène une relation d'égal à égal alors qu'il ne s'agit que de les diviser (chaque média doit candidater individuellement pour obtenir un subside de Google) et d'acheter leur complaisance.<sup><a name='note_28' id='#note_28' class='note_anchor' href='#foot_28'>28</a></sup> Les GAFA organisent ou financent (en tout ou en partie) les conférences professionelles des médias en Europe, comme le Global Editors Network Summit,<sup><a name='note_29' id='#note_29' class='note_anchor' href='#foot_29'>29</a></sup> le Newsgeist et le JournalismFest.
 
 ### La presse est sauvée!
 
@@ -78,7 +78,7 @@ La dégringolade des médias va sans doute s'arrêter là. Je ne pense pas que "
 
 La mécanique des investisseurs web, qui financent à fonds perdu un champion jusqu'à ce qu'il soit en position de monopole et puisse augmenter ses marges, comme ils l'ont fait avec Google et Facebook (puis avec Uber, Delivery Hero etc.), a conduit au duopole actuel (Google/Facebook) sur le marché de l'attention et de la publicité. Alors qu'on pouvait, dans les années 2000, toucher une audience parce que son contenu était de meilleure qualité que celui des concurrents, on atteint aujourd'hui son audience en payant l'un des deux gardiens de l'attention. Impossible pour un nouvel entrant de se faire une place sans apport massif en capital. On est revenu à la situation qui prévalait avant internet.
 
-De l'autre côté, la neutralité du net n'existe plus. Les fournisseurs d'accès peuvent choisir ce que leurs clients consomment, ne serait-ce que grâce à la vente liée et au _zero rating_.<sup><a name='note_29' id='#note_29' class='note_anchor' href='#foot_29'>29</a></sup> SFR a besoin de médias (Libération, L'Express etc.) pour son offre SFR Play, Orange a besoin de Deezer, dans lequel il a largement investi,<sup><a name='note_30' id='#note_30' class='note_anchor' href='#foot_30'>30</a></sup> pour ses forfaits mobiles et Comcast, le plus gros fournisseur d'accès américain, a acheté NBCUniversal et Dreamworks pour les mêmes raisons.
+De l'autre côté, la neutralité du net n'existe plus. Les fournisseurs d'accès peuvent choisir ce que leurs clients consomment, ne serait-ce que grâce à la vente liée et au _zero rating_.<sup><a name='note_30' id='#note_30' class='note_anchor' href='#foot_30'>30</a></sup> SFR a besoin de médias (Libération, L'Express etc.) pour son offre SFR Play, Orange a besoin de Deezer, dans lequel il a largement investi,<sup><a name='note_31' id='#note_31' class='note_anchor' href='#foot_31'>31</a></sup> pour ses forfaits mobiles et Comcast, le plus gros fournisseur d'accès américain, a acheté NBCUniversal et Dreamworks pour les mêmes raisons.
 
 Et puis, les médias sont indispensables au système politique. Pas tant pour leur capacité à toucher une audience - Macron a quasiment autant de followers sur Facebook que Le Monde ou Le Figaro - mais dans leur rôle d'adversaire et de commentateur. Sans "les médias", une bonne partie de la classe politique n'aurait plus de sujet sur lequel s'indigner et les autres n'auraient plus personne pour les écouter.
 
@@ -98,91 +98,94 @@ _Image de couverture: John Heartfield, 1930._
 
 
 
-<a href='#note_1' name='foot_1' data-text='Hemery, Claire. ‘Quand la presse française s’emparait du web’.'>1.</a> Hemery, Claire. [Quand la presse française s'emparait du web](https://archive.is/20180124/www.inaglobal.fr/presse/article/quand-la-presse-francaise-semparait-du-web).
+<a href='#note_1' name='foot_1' data-text='Hemery, Claire. ‘Quand la presse française s’emparait du web’.'>1.</a> Hemery, Claire. [Quand la presse française s'emparait du web](https://archive.is/20180129/www.inaglobal.fr/presse/article/quand-la-presse-francaise-semparait-du-web).
 
 
-<a href='#note_2' name='foot_2' data-text='Snapchat a par exemple parlé d’acheter le contenu des médias pour une somme fixe (lire ‘Snapchat wants to stop sharing ad revenue with its media partners’) - les contrats entre Snap et les médias n’étant pas public, impossible de savoir ce qu’il en est réellement. Facebook a payé des millions pour que les médias produisent des live (lire ‘Facebook looks like it’s going to stop paying publishers to make live videos’).'>2.</a> Snapchat a par exemple parlé d'acheter le contenu des médias pour une somme fixe (lire [Snapchat wants to stop sharing ad revenue with its media partners](https://archive.is/20180124/https://www.recode.net/2016/10/18/13326196/snapchat-discover-ad-sales-plan-change)) - les contrats entre Snap et les médias n'étant pas public, impossible de savoir ce qu'il en est réellement. Facebook a payé des millions pour que les médias produisent des _live_ (lire [Facebook looks like it’s going to stop paying publishers to make live videos](https://archive.is/20180124/https://www.recode.net/2017/1/17/14269406/facebook-live-video-deals-paid)).
+<a href='#note_2' name='foot_2' data-text='Snapchat a par exemple parlé d’acheter le contenu des médias pour une somme fixe (lire ‘Snapchat wants to stop sharing ad revenue with its media partners’) - les contrats entre Snap et les médias n’étant pas public, impossible de savoir ce qu’il en est réellement. Facebook a payé des millions pour que les médias produisent des live (lire ‘Facebook looks like it’s going to stop paying publishers to make live videos’).'>2.</a> Snapchat a par exemple parlé d'acheter le contenu des médias pour une somme fixe (lire [Snapchat wants to stop sharing ad revenue with its media partners](https://archive.is/20180129/https://www.recode.net/2016/10/18/13326196/snapchat-discover-ad-sales-plan-change)) - les contrats entre Snap et les médias n'étant pas public, impossible de savoir ce qu'il en est réellement. Facebook a payé des millions pour que les médias produisent des _live_ (lire [Facebook looks like it’s going to stop paying publishers to make live videos](https://archive.is/20180129/https://www.recode.net/2017/1/17/14269406/facebook-live-video-deals-paid)).
 
 
 <a href='#note_3' name='foot_3' data-text='Dans cette présentation, je parle des médias comme de l’industrie de production et de diffusion de contenu. J’en parle comme d’un tout homogène et global, même s’il est évident que les situations diffèrent entre la presse quotidienne régionale alsacienne et les studios de cinéma hollywoodien.'>3.</a> Dans cette présentation, je parle des médias comme de l'industrie de production et de diffusion de contenu. J'en parle comme d'un tout homogène et global, même s'il est évident que les situations diffèrent entre la presse quotidienne régionale alsacienne et les studios de cinéma hollywoodien.
 
 
-<a href='#note_4' name='foot_4' data-text='’No paper in a one-paper city, however bad the product or however inept the management, could avoid gushing profits’ dans ‘Buffett Pessimistic About Newspapers’.'>4.</a> _'No paper in a one-paper city, however bad the product or however inept the management, could avoid gushing profits'_ dans [Buffett Pessimistic About Newspapers](https://archive.is/20180124/http://www.washingtonpost.com/wp-dyn/content/article/2007/03/02/AR2007030201278.html).
+<a href='#note_4' name='foot_4' data-text='’No paper in a one-paper city, however bad the product or however inept the management, could avoid gushing profits’ dans ‘Buffett Pessimistic About Newspapers’.'>4.</a> _'No paper in a one-paper city, however bad the product or however inept the management, could avoid gushing profits'_ dans [Buffett Pessimistic About Newspapers](https://archive.is/20180129/http://www.washingtonpost.com/wp-dyn/content/article/2007/03/02/AR2007030201278.html).
 
 
-<a href='#note_5' name='foot_5' data-text='Lire chez Rue89 ‘Pourquoi y a-t-il autant de contenus sexistes sous les articles ?’'>5.</a> Lire chez Rue89 [Pourquoi y a-t-il autant de contenus sexistes sous les articles ?](https://archive.is/20180124/https://www.nouvelobs.com/rue89/rue89-internet/20160807.RUE3575/pourquoi-y-a-t-il-autant-de-contenus-sexistes-sous-les-articles.html)
+<a href='#note_5' name='foot_5' data-text='Lire chez Rue89 ‘Pourquoi y a-t-il autant de contenus sexistes sous les articles ?’'>5.</a> Lire chez Rue89 [Pourquoi y a-t-il autant de contenus sexistes sous les articles ?](https://archive.is/20180129/https://www.nouvelobs.com/rue89/rue89-internet/20160807.RUE3575/pourquoi-y-a-t-il-autant-de-contenus-sexistes-sous-les-articles.html)
 
 
-<a href='#note_6' name='foot_6' data-text='On dit ’culte du cargo’ en français mais cargo culte est plus joli. Par ailleurs, la métaphore du cargo culte dans les médias vient de ‘Stijn Debrouwere’.'>6.</a> On dit 'culte du cargo' en français mais cargo culte est plus joli. Par ailleurs, la métaphore du cargo culte dans les médias vient de [Stijn Debrouwere](https://archive.is/20180124/http://debrouwere.org/2013/08/26/cargo-cult-analytics/).
+<a href='#note_6' name='foot_6' data-text='On dit ’culte du cargo’ en français mais cargo culte est plus joli. Par ailleurs, la métaphore du cargo culte dans les médias vient de ‘Stijn Debrouwere’.'>6.</a> On dit 'culte du cargo' en français mais cargo culte est plus joli. Par ailleurs, la métaphore du cargo culte dans les médias vient de [Stijn Debrouwere](https://archive.is/20180129/http://debrouwere.org/2013/08/26/cargo-cult-analytics/).
 
 
-<a href='#note_7' name='foot_7' data-text='Lire ‘News Corp.’s Failed Social Experiment: Why MySpace Didn’t Deliver’.'>7.</a> Lire [News Corp.’s Failed Social Experiment: Why MySpace Didn’t Deliver](https://archive.is/20180124/https://www.thewrap.com/news-corps-failed-social-experiment-why-myspace-failed-deliver-its-promise-28285/).
+<a href='#note_7' name='foot_7' data-text='Lire ‘News Corp.’s Failed Social Experiment: Why MySpace Didn’t Deliver’.'>7.</a> Lire [News Corp.’s Failed Social Experiment: Why MySpace Didn’t Deliver](https://archive.is/20180129/https://www.thewrap.com/news-corps-failed-social-experiment-why-myspace-failed-deliver-its-promise-28285/).
 
 
-<a href='#note_8' name='foot_8' data-text='Lire ‘Is StudiVZ – Holtzbrinck’s once-proud “German Facebook” – on the brink of collapse?’ et ‘German Social Network StudiVZ Sold To Holtzbrinck For $112 Million’.'>8.</a> Lire [Is StudiVZ – Holtzbrinck’s once-proud “German Facebook” – on the brink of collapse?](https://archive.is/20180124/http://theheureka.com/studivz-collapse-holtzbrinck) et [German Social Network StudiVZ Sold To Holtzbrinck For $112 Million](https://archive.is/20180124/https://gigaom.com/2007/01/04/german-social-network-studivz-sold-to-holtzbrick/).
+<a href='#note_8' name='foot_8' data-text='Lire ‘Is StudiVZ – Holtzbrinck’s once-proud “German Facebook” – on the brink of collapse?’ et ‘German Social Network StudiVZ Sold To Holtzbrinck For $112 Million’.'>8.</a> Lire [Is StudiVZ – Holtzbrinck’s once-proud “German Facebook” – on the brink of collapse?](https://archive.is/20180129/http://theheureka.com/studivz-collapse-holtzbrinck) et [German Social Network StudiVZ Sold To Holtzbrinck For $112 Million](https://archive.is/20180129/https://gigaom.com/2007/01/04/german-social-network-studivz-sold-to-holtzbrick/).
 
 
-<a href='#note_9' name='foot_9' data-text='‘Le Kindle va-t-il sauver la presse en France ? ’'>9.</a> [Le Kindle va-t-il sauver la presse en France ? ](https://archive.is/20180124/https://glose.media/article/le-kindle-va-t-il-sauver-la-presse-en-france/)
+<a href='#note_9' name='foot_9' data-text='‘Le Kindle va-t-il sauver la presse en France ? ’'>9.</a> [Le Kindle va-t-il sauver la presse en France ? ](https://archive.is/20180129/https://glose.media/article/le-kindle-va-t-il-sauver-la-presse-en-france/)
 
 
-<a href='#note_10' name='foot_10' data-text='‘L’iPad va-t-il sauver la presse ?’'>10.</a> [L'iPad va-t-il sauver la presse ?](https://archive.is/20180124/https://www.marianne.net/medias/lipad-va-t-il-sauver-la-presse)
+<a href='#note_10' name='foot_10' data-text='‘L’iPad va-t-il sauver la presse ?’'>10.</a> [L'iPad va-t-il sauver la presse ?](https://archive.is/20180129/https://www.marianne.net/medias/lipad-va-t-il-sauver-la-presse)
 
 
-<a href='#note_11' name='foot_11' data-text='‘La Nouvelle Edition : Snapchat va-t-il sauver la presse ?’'>11.</a> [La Nouvelle Edition : Snapchat va-t-il sauver la presse ?](https://archive.is/20180124/http://www.replaytivi.fr/replay/la-nouvelle-edition-135292)
+<a href='#note_11' name='foot_11' data-text='‘La Nouvelle Edition : Snapchat va-t-il sauver la presse ?’'>11.</a> [La Nouvelle Edition : Snapchat va-t-il sauver la presse ?](https://archive.is/20180129/http://www.replaytivi.fr/replay/la-nouvelle-edition-135292)
 
 
-<a href='#note_12' name='foot_12' data-text='‘Comment sauver la presse? StreetPress teste le financement via crypto-monnaie’.'>12.</a> [Comment sauver la presse? StreetPress teste le financement via crypto-monnaie](https://archive.is/20180124/https://www.lexpress.fr/actualite/medias/comment-sauver-la-presse-streetpress-teste-le-financement-via-crypto-monnaie_1962907.html).
+<a href='#note_12' name='foot_12' data-text='‘Comment sauver la presse? StreetPress teste le financement via crypto-monnaie’.'>12.</a> [Comment sauver la presse? StreetPress teste le financement via crypto-monnaie](https://archive.is/20180129/https://www.lexpress.fr/actualite/medias/comment-sauver-la-presse-streetpress-teste-le-financement-via-crypto-monnaie_1962907.html).
 
 
-<a href='#note_13' name='foot_13' data-text='Lancés par Ouest-France sur leur portail maville.com en 2013, lire ‘Aujourd’hui faites un bon deal avec maville.com’.'>13.</a> Lancés par Ouest-France sur leur portail maville.com en 2013, lire [Aujourd'hui faites un bon deal avec maville.com](https://archive.is/20180124/https://www.ouest-france.fr/aujourdhui-faites-un-bon-deal-avec-mavillecom-417762).
+<a href='#note_13' name='foot_13' data-text='Lancés par Ouest-France sur leur portail maville.com en 2013, lire ‘Aujourd’hui faites un bon deal avec maville.com’.'>13.</a> Lancés par Ouest-France sur leur portail maville.com en 2013, lire [Aujourd'hui faites un bon deal avec maville.com](https://archive.is/20180129/https://www.ouest-france.fr/aujourdhui-faites-un-bon-deal-avec-mavillecom-417762).
 
 
-<a href='#note_14' name='foot_14' data-text='‘SCHIBSTED NETT AND TELENOR ONLINE WITH NET COOPERATION’.'>14.</a> [SCHIBSTED NETT AND TELENOR ONLINE WITH NET COOPERATION](https://archive.is/20180124/http://www.schibsted.com/en/ir/Regulatory--and-pressreleases/Regulatory-and-Press-Releases-Archive1/1996/SCHIBSTED-NETT-AND-TELENOR-ONLINE-WITH-NET-COOPERATION/).
+<a href='#note_14' name='foot_14' data-text='‘SCHIBSTED NETT AND TELENOR ONLINE WITH NET COOPERATION’.'>14.</a> [SCHIBSTED NETT AND TELENOR ONLINE WITH NET COOPERATION](https://archive.is/20180129/http://www.schibsted.com/en/ir/Regulatory--and-pressreleases/Regulatory-and-Press-Releases-Archive1/1996/SCHIBSTED-NETT-AND-TELENOR-ONLINE-WITH-NET-COOPERATION/).
 
 
-<a href='#note_15' name='foot_15' data-text='Comme JobbDirekt AB, par exemple: ‘AFTONBLADET IS SELLING SHARES IN JOBBDIREKT AB’.'>15.</a> Comme JobbDirekt AB, par exemple: [AFTONBLADET IS SELLING SHARES IN JOBBDIREKT AB](https://archive.is/20180124/http://www.schibsted.com/en/ir/Regulatory--and-pressreleases/Regulatory-and-Press-Releases-Archive1/1999/AFTONBLADET-IS-SELLING-SHARES-IN-JOBBDIREKT-AB/).
+<a href='#note_15' name='foot_15' data-text='Comme JobbDirekt AB, par exemple: ‘AFTONBLADET IS SELLING SHARES IN JOBBDIREKT AB’.'>15.</a> Comme JobbDirekt AB, par exemple: [AFTONBLADET IS SELLING SHARES IN JOBBDIREKT AB](https://archive.is/20180129/http://www.schibsted.com/en/ir/Regulatory--and-pressreleases/Regulatory-and-Press-Releases-Archive1/1999/AFTONBLADET-IS-SELLING-SHARES-IN-JOBBDIREKT-AB/).
 
 
-<a href='#note_16' name='foot_16' data-text='Voir le ‘rapport annuel 2016 de Schibsted’.'>16.</a> Voir le [rapport annuel 2016 de Schibsted](https://archive.is/20180124/http://hugin.info/131/R/2096898/793519.pdf).
+<a href='#note_16' name='foot_16' data-text='Voir le ‘rapport annuel 2016 de Schibsted’.'>16.</a> Voir le [rapport annuel 2016 de Schibsted](https://archive.is/20180129/http://hugin.info/131/R/2096898/793519.pdf).
 
 
 <a href='#note_17' name='foot_17' data-text='Vendu en décembre 2017 au groupe TF1.'>17.</a> Vendu en décembre 2017 au groupe TF1.
 
 
-<a href='#note_18' name='foot_18' data-text='Voir ‘le rapport annuel 2016 d’Axel Springer’.'>18.</a> Voir [le rapport annuel 2016 d'Axel Springer](https://archive.is/20180124/http://www.axelspringer.de/dl/27011919/Geschaeftsbericht_2016.pdf).
+<a href='#note_18' name='foot_18' data-text='Voir ‘le rapport annuel 2016 d’Axel Springer’.'>18.</a> Voir [le rapport annuel 2016 d'Axel Springer](https://archive.is/20180129/http://www.axelspringer.de/dl/27011919/Geschaeftsbericht_2016.pdf).
 
 
 <a href='#note_19' name='foot_19' data-text='Schibsted affirme être numéro 1 en France aussi car Le Bon Coin est plus gros que le plus gros des sites de Figaro Classifieds. On peut compter de diverses manières, reste que les deux sont gros.'>19.</a> Schibsted affirme être numéro 1 en France aussi car Le Bon Coin est plus gros que le plus gros des sites de Figaro Classifieds. On peut compter de diverses manières, reste que les deux sont gros.
 
 
-<a href='#note_20' name='foot_20' data-text='Sur la différence entre information et contenu, ‘A fundamental way newspaper sites need to change’ de Holovaty reste un must-read.'>20.</a> Sur la différence entre information et contenu, [A fundamental way newspaper sites need to change](https://archive.is/20180124/http://www.holovaty.com/writing/fundamental-change/) de Holovaty reste un must-read.
+<a href='#note_20' name='foot_20' data-text='Sur la différence entre information et contenu, ‘A fundamental way newspaper sites need to change’ de Holovaty reste un must-read.'>20.</a> Sur la différence entre information et contenu, [A fundamental way newspaper sites need to change](https://archive.is/20180129/http://www.holovaty.com/writing/fundamental-change/) de Holovaty reste un must-read.
 
 
-<a href='#note_21' name='foot_21' data-text='Voir en 2011 ‘Verlage wollen gegen ARD und ZDF klagen’ et en 2017 ‘’DDR statt Nordkorea’’.'>21.</a> Voir en 2011 [Verlage wollen gegen ARD und ZDF klagen](https://archive.is/20180124/http://www.faz.net/aktuell/wirtschaft/unternehmen/streit-um-internet-expansion-verlage-wollen-gegen-ard-und-zdf-klagen-1638769.html) et en 2017 ['DDR statt Nordkorea'](https://archive.is/20180124/http://www.spiegel.de/kultur/gesellschaft/mathias-doepfner-zum-streit-mit-ard-und-zdf-ddr-statt-nordkorea-a-1182348.html).
+<a href='#note_21' name='foot_21' data-text='Voir en 2011 ‘Verlage wollen gegen ARD und ZDF klagen’ et en 2017 ‘’DDR statt Nordkorea’’.'>21.</a> Voir en 2011 [Verlage wollen gegen ARD und ZDF klagen](https://archive.is/20180129/http://www.faz.net/aktuell/wirtschaft/unternehmen/streit-um-internet-expansion-verlage-wollen-gegen-ard-und-zdf-klagen-1638769.html) et en 2017 ['DDR statt Nordkorea'](https://archive.is/20180129/http://www.spiegel.de/kultur/gesellschaft/mathias-doepfner-zum-streit-mit-ard-und-zdf-ddr-statt-nordkorea-a-1182348.html).
 
 
-<a href='#note_22' name='foot_22' data-text='‘L’alliance de Google avec les éditeurs (2) : en France, après les procès, les accords’.'>22.</a> [L’alliance de Google avec les éditeurs (2) : en France, après les procès, les accords](https://archive.is/20180124/http://www.acrimed.org/L-alliance-de-Google-avec-les-editeurs-2-en-France-apres-les-proces-les-accords).
+<a href='#note_22' name='foot_22' data-text='‘L’alliance de Google avec les éditeurs (2) : en France, après les procès, les accords’.'>22.</a> [L’alliance de Google avec les éditeurs (2) : en France, après les procès, les accords](https://archive.is/20180129/http://www.acrimed.org/L-alliance-de-Google-avec-les-editeurs-2-en-France-apres-les-proces-les-accords).
 
 
-<a href='#note_23' name='foot_23' data-text='‘En conflit avec la presse belge, Google accepte de l’indemniser’.'>23.</a> [En conflit avec la presse belge, Google accepte de l'indemniser](https://archive.is/20180124/http://www.lemonde.fr/economie/article/2012/12/13/google-indemnise-la-presse-belge-pour-violation-du-droit-d-auteur_1805881_3234.html).
+<a href='#note_23' name='foot_23' data-text='‘En conflit avec la presse belge, Google accepte de l’indemniser’.'>23.</a> [En conflit avec la presse belge, Google accepte de l'indemniser](https://archive.is/20180129/http://www.lemonde.fr/economie/article/2012/12/13/google-indemnise-la-presse-belge-pour-violation-du-droit-d-auteur_1805881_3234.html).
 
 
-<a href='#note_24' name='foot_24' data-text='‘VG Media reicht Klage gegen Google ein’.'>24.</a> [VG Media reicht Klage gegen Google ein](https://archive.is/20180124/http://www.spiegel.de/netzwelt/netzpolitik/leistungsschutzrecht-vg-media-reicht-klage-gegen-google-ein-a-975953.html).
+<a href='#note_24' name='foot_24' data-text='‘VG Media reicht Klage gegen Google ein’.'>24.</a> [VG Media reicht Klage gegen Google ein](https://archive.is/20180129/http://www.spiegel.de/netzwelt/netzpolitik/leistungsschutzrecht-vg-media-reicht-klage-gegen-google-ein-a-975953.html).
 
 
-<a href='#note_25' name='foot_25' data-text='‘Google News says ‘adiós’ to Spain in row over publishing fees’.'>25.</a> [Google News says ‘adiós’ to Spain in row over publishing fees](https://archive.is/20180124/https://www.theguardian.com/world/2014/dec/16/google-news-spain-publishing-fees-internet).
+<a href='#note_25' name='foot_25' data-text='‘Google News says ‘adiós’ to Spain in row over publishing fees’.'>25.</a> [Google News says ‘adiós’ to Spain in row over publishing fees](https://archive.is/20180129/https://www.theguardian.com/world/2014/dec/16/google-news-spain-publishing-fees-internet).
 
 
-<a href='#note_26' name='foot_26' data-text='‘An EU-wide ‘Google tax’ in the making?’'>26.</a> [An EU-wide ‘Google tax’ in the making?](https://archive.is/20180124/https://juliareda.eu/2014/10/an-eu-wide-google-tax-in-the-making/)
+<a href='#note_26' name='foot_26' data-text='‘An EU-wide ‘Google tax’ in the making?’'>26.</a> [An EU-wide ‘Google tax’ in the making?](https://archive.is/20180129/https://juliareda.eu/2014/10/an-eu-wide-google-tax-in-the-making/)
 
 
 <a href='#note_27' name='foot_27' data-text='ou GAFAM, abbréviation de Google Amazon Facebook Apple Microsoft.'>27.</a> ou GAFAM, abbréviation de Google Amazon Facebook Apple Microsoft.
 
 
-<a href='#note_28' name='foot_28' data-text='J’ai écrit plus longuement sur le sujet dans ‘What could Google do if it cared about Journalism?’'>28.</a> J'ai écrit plus longuement sur le sujet dans [What could Google do if it cared about Journalism?](https://archive.is/20180124/http://blog.nkb.fr/what-could-google-do)
+<a href='#note_28' name='foot_28' data-text='J’ai écrit plus longuement sur le sujet dans ‘What could Google do if it cared about Journalism?’'>28.</a> J'ai écrit plus longuement sur le sujet dans [What could Google do if it cared about Journalism?](https://archive.is/20180129/http://blog.nkb.fr/what-could-google-do)
 
 
-<a href='#note_29' name='foot_29' data-text='Voir cette brillante présentation: ‘Net Neutraliy Enforcement in the EU’.'>29.</a> Voir cette brillante présentation: [Net Neutraliy Enforcement in the EU](https://archive.is/20180124/https://media.ccc.de/v/34c3-9125-net_neutraliy_enforcement_in_the_eu).
+<a href='#note_29' name='foot_29' data-text='Le président du Global Editors Network m’a fait remarqué par email que ’le GEN Summit n’est pas organisé ou financé par les GAFA : ceux-ci sont invité à y participer en tant qu’exposants ou sponsors, mais rien de plus’. Je ne possède sans doute pas de compétences suffisantes en management pour bien comprendre la distinction entre ’participer en tant que sponsor’ et ’financer’.'>29.</a> Le président du Global Editors Network m'a fait remarqué par email que _'le GEN Summit n'est pas organisé ou financé par les GAFA : ceux-ci sont invité à y participer en tant qu'exposants ou sponsors, mais rien de plus'_. Je ne possède sans doute pas de compétences suffisantes en management pour bien comprendre la distinction entre 'participer en tant que sponsor' et 'financer'.
 
 
-<a href='#note_30' name='foot_30' data-text='Lire ‘After Cancelling Its IPO, Deezer Raises Another $109M From Access And Orange’.'>30.</a> Lire [After Cancelling Its IPO, Deezer Raises Another $109M From Access And Orange](https://archive.is/20180124/https://techcrunch.com/2016/01/20/deezer-100/).
+<a href='#note_30' name='foot_30' data-text='Voir cette brillante présentation: ‘Net Neutraliy Enforcement in the EU’.'>30.</a> Voir cette brillante présentation: [Net Neutraliy Enforcement in the EU](https://archive.is/20180129/https://media.ccc.de/v/34c3-9125-net_neutraliy_enforcement_in_the_eu).
+
+
+<a href='#note_31' name='foot_31' data-text='Lire ‘After Cancelling Its IPO, Deezer Raises Another $109M From Access And Orange’.'>31.</a> Lire [After Cancelling Its IPO, Deezer Raises Another $109M From Access And Orange](https://archive.is/20180129/https://techcrunch.com/2016/01/20/deezer-100/).
