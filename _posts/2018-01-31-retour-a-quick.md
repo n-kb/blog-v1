@@ -18,8 +18,8 @@ Ils marchent lentement, le regard aux aguets<br/>
 Trois militaires vigipiratent le quai.<br/>
 
 Loin de me demander si ces jeunes recrues<br/>
-Ont donné un peu trop (à ce que dit l'ONU)<br/>
-Aux enfants de Bangui, j'admire le génie<br/>
+Aux enfants de Bangui (à ce que dit l'ONU)<br/>
+Ont donné un peu trop, j'admire le génie<br/>
 De la nation française et de son infant'rie.<br/>
 
 Voyez-vous, dans une gare, le danger vient d'en haut,<br/>
