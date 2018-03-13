@@ -6,7 +6,7 @@ category: posts
 
 _This essay was written for the Retreat Conference 2016 organized at Athens, Greece, on September 24<sup>th</sup>, 2016._
 
-Once limited to the fringes of society, lying blatantly has become a fixture of the public discourse. In this post-truth public sphere, datajournalism could spearhead the effort to reimpose truth as a positive value. Or it might just be a technique to serve this small segment of readers who care about the truth. This essay argues that what datajournalism can or cannot do is not that important, because the root cause of the current epidemy of lies is to be found in academia, not journalism.
+Once limited to the fringes of society, lying blatantly has become a fixture of the public discourse. In this post-truth public sphere, datajournalism could spearhead the effort to reimpose truth as a positive value. Or it might just be a technique to serve this small segment of readers who care about the truth. This essay argues that what datajournalism can or cannot do is not that important, because the root cause of the current epidemic of lies is to be found in academia, not journalism.
 
 ### The post-truth public sphere
 
@@ -28,7 +28,7 @@ In such an environment, what can datajournalism do? Datajournalism, after all, i
 
 Asking this question might seem absurd, considering recent spectacular datajournalism projects. The Panama Papers, and before them the Offshore Leaks, the Swiss Leaks and the Cablegate, show that datajournalism can have worlwide impact, both with the public and with institutions. Sigmundur Davíð, prime minister of Iceland, stepped down as a result of the Panama Papers. So did José Manuel Soria, the Spanish minister of industry, and many others. By bringing factual truth to light, the datajournalists behind this investigation took the role of a counterweight to their governments - one of the roles many journalists see as their own.
 
-Of course, the Panama Papers, because it was a one-off leak, is not representative of the daily routine of datajournalism. While no study on the impact of datajournalism has been run, in part because academics do not agree on the definition of datajournalism, the related field of fact-checking has been well explored. At least 6 experimental studies were run on fact-checking operations (all in the United States). They show that fact-checking is broadly positive in that it is popular with readers, it convinces them of factual truths and it impacts the people whose assertions are checked<sup><a name='note_11' href='#foot_11'>11</a></sup>. 
+Of course, the Panama Papers, because it was a one-off leak, is not representative of the daily routine of datajournalism. While no study on the impact of datajournalism has been run, in part because academics do not agree on the definition of datajournalism, the related field of fact-checking has been well explored. At least 6 experimental studies were run on fact-checking operations (all in the United States). They show that fact-checking is broadly positive in that it is popular with readers, it convinces them of factual truths and it impacts the people whose assertions are checked<sup><a name='note_11' href='#foot_11'>11</a></sup>.
 
 In an experiment with readers, researchers showed that fact-checking was appreciated and effective among all groups in the population, regardless of political views and education (though it worked better among Democrats and more educated participants)<sup><a name='note_12' href='#foot_12'>12</a></sup>. Another study showed that politicians who were told they about their statements' being fact-checked told less lies than others<sup><a name='note_13' href='#foot_13'>13</a></sup>.
 
@@ -48,7 +48,7 @@ _Sell attention to advertisers._ Almost all news organizations in Europe derive 
 
 _Sell content to readers._ A few news organizations live from the content they sell to readers. Not unlike the relationship some newsrooms have with advertisers, they, too, must please their customers. Valeurs Actuelles, one of the top 15 French newsmagazines and the fastest-growing one, regularly features lies that fit its readers' point of view, for instance<sup><a name='note_21' href='#foot_21'>21</a></sup>.
 
-None of the business models of news outlets put the production of factual truth first and even if journalists put it high on their list of duties in the Munich Declaration, they did not take steps to enforce it. 
+None of the business models of news outlets put the production of factual truth first and even if journalists put it high on their list of duties in the Munich Declaration, they did not take steps to enforce it.
 
 Factual truth is only a segment of a larger market. News outlets only care about factual truth insofar as their donors, advertisers or readers do. As I wrote above, the appeal of truth as a positive value is dwindling. Therefore, the effort media outlets put in producing it diminishes and truth-driven organizations become niche operations. Mediapart, an investigative outlets in France, boasts a very respectable 118,000 paid subscribers<sup><a name='note_22' href='#foot_22'>22</a></sup> - still less than Valeurs Actuelles.
 
@@ -68,14 +68,14 @@ _Lack of funds_. The combination of the massification of higher education with d
 
 _The publishing process_. The lower costs of digital publishing led to the creation of thousands of new academic journals. Many of them accept any paper in exchange for payment, regardless of their quality<sup><a name='note_24' href='#foot_24'>24</a></sup>. The trends towards publishing more content to collect more fees is not limited to open-access, newly-created journals. Once-reputable journals also accept papers that are obiously gibberish, without oversight<sup><a name='note_25' href='#foot_25'>25</a></sup>. Using the credibility of academic journals to spread lies is very easy. Even when results are checked, the over-reliance on p-values enables [p-hacking](https://en.wikipedia.org/wiki/Data_dredging), a way for authors to ensure that they come up with statistically significant results. John Bohannon, a science journalist, showed it when he managed to have newspapers across the world run headlines on a fictional "chocolate diet" in 2015<sup><a name='note_26' href='#foot_26'>26</a></sup>. The problems of academic publishing have been known for decades. By refusing to address them, academia ensured that its informational backbone became unusable.
 
-_Corruption_. The documents released by the cigarette industry as part of the 1998 Tobacco Master Settlement Agreement showed that tobacco companies paid scientists regularly, directly or indirectly, to influence their research<sup><a name='note_27' href='#foot_27'>27</a></sup>. Newly-released documents show that the sugar industry could have worked on the same scale to shift the blame for obesity on fat<sup><a name='note_28' href='#foot_28'>28</a></sup>. While measuring corruption in academia is hard, I have not found a single case of an academic fired or blamed after having taken money from the industry that influenced her research. Moreover, university across the world keep welcoming funds from the industry, even when conflicts of interest are clear. 
+_Corruption_. The documents released by the cigarette industry as part of the 1998 Tobacco Master Settlement Agreement showed that tobacco companies paid scientists regularly, directly or indirectly, to influence their research<sup><a name='note_27' href='#foot_27'>27</a></sup>. Newly-released documents show that the sugar industry could have worked on the same scale to shift the blame for obesity on fat<sup><a name='note_28' href='#foot_28'>28</a></sup>. While measuring corruption in academia is hard, I have not found a single case of an academic fired or blamed after having taken money from the industry that influenced her research. Moreover, university across the world keep welcoming funds from the industry, even when conflicts of interest are clear.
 
 It is no exaggeration to write that academia has lost its status of "refuge for truth". By failing to address its multiple crises and de facto reliquinshing its core mission, academia has paved the way for the post-truth public sphere. It might even have created a void.
 
 It is no wonder that datajournalists start publishing methodologies that look just like academic papers. ProPublica, a non-profit newsroom based in New-York City and specialized in datajournalism, published in 2015 the details of how it investigated the track record of each surgeon in the United States<sup><a name='note_29' href='#foot_29'>29</a></sup>. The document is not peer-reviewed and is authored by an editor and a journalist, not by scientists. But it has the same structure and visual aspect as an academic paper. The message is clear: Datajournalists can do research that is at least as good as the one produced in universities.
 
 Such projects are good attempts at fixing the broken ecosystem around the production of factual truth. But let us not be fooled by their potential. There are, at most, a few hundreds datajournalists capable of producing such work in Europe, against dozens of thousands of academics. Datajournalism will not have much impact on the relationship most people have with the truth, because datajournalism is too specific a field. Training datajournalists is hard and only a few dozens graduate each year. If datajournalism  one day leaves the niche it currently caters to, it will be because academia has fixed itself. Until then, it will have little impact.
-	
+
 
 <h4>Newsletter</h4>
 <p>In case you want to read my next essay in your e-mail inbox, type you email below and you'll be all set.</p>
@@ -84,7 +84,7 @@ Such projects are good attempts at fixing the broken ecosystem around the produc
 
  <a name='notes' ></a>
 
-### Notes 
+### Notes
 
 
 
