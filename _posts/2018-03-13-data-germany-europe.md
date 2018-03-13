@@ -20,7 +20,7 @@ When it comes to national data, Eurostat is not as useful. Although the agency s
 
 A bigger concern lies in Eurostat's relative lack of power. When a Member States sends fraudulent data, Eurostat can refuse to validate it but cannot impose sanctions on the responsible national statistics office. The problem applies mostly to Greece, whose budget and deficit statistics were false throughout the 1990s and early 2000s,<sup><a name='note_2' id='#note_2' class='note_anchor' href='#foot_2'>2</a></sup> but on whom Eurostat had little impact.
 
-Apart from Greece, European national administrations have fairly good statistics by international standards, because having good statistics is part of the "chapters" that countries had to fulfill before joining the European Union.<sup><a name='note_3' id='#note_3' class='note_anchor' href='#foot_3'>3</a></sup> and because the Union has invested millions to overhaul the statistical apparatus of newer member states and some  neighboring countries.
+Apart from Greece, European national administrations have fairly good statistics by international standards, because having good statistics is part of the "chapters" that countries had to fulfill before joining the European Union.<sup><a name='note_3' id='#note_3' class='note_anchor' href='#foot_3'>3</a></sup> And because the Union has invested millions to overhaul the statistical apparatus of newer member states and some  neighboring countries.
 
 **The German the national statistics office** is known by its short name, [DeStatis](https://www.destatis.de). Because of the federal structure of the German state, many German data sets remain in the 14 regional statistics office. DeStatis tries to aggregate regional data on a [single portal](http://www.statistik-portal.de/Statistik-Portal/), while national data sets are stored in a database called [Genesis](https://www-genesis.destatis.de/genesis/online). Some data sets can be found in both. Other data sets that can be of interest to foreign journalists are stored elsewhere. Data from the general elections, for instance, are stored at the [federal returning office](https://www.bundeswahlleiter.de/bundeswahlleiter.html). For local elections, the data is at the regional returning offices.
 
@@ -56,7 +56,7 @@ During the process of accession to the European Union, most post-socialist count
 
 Almost all European countries have legislation ensuring access to public documents but, apart from European institutions, very rarely respect it. In Germany, journalists had to wait seven years and go to court to access data on the state of German bridges (they showed that they are falling apart faster than they are repaired)<sup><a name='note_7' id='#note_7' class='note_anchor' href='#foot_7'>7</a></sup>. In France, a news magazine is currently taking two ministries to court to force them to respect local open data legislation.<sup><a name='note_8' id='#note_8' class='note_anchor' href='#foot_8'>8</a></sup> Administrations do not only passively refuse to communicate that data ought to be open by law. They sometimes counter-attack. In 2011, a German newspaper published leaked documents related to the war in Afghanistan. The administration successfully sued them not because of national security but, instead, on copyright grounds.<sup><a name='note_9' id='#note_9' class='note_anchor' href='#foot_9'>9</a></sup> With such resistance, not all data will be easily opened up in Germany and Europe.
 
-	
+
 
 <h4>Newsletter</h4>
 <p>In case you want to read my next essay in your e-mail inbox, type you email below and you'll be all set.</p>
@@ -65,7 +65,7 @@ Almost all European countries have legislation ensuring access to public documen
 
  <a name='notes' ></a>
 
-### Notes 
+### Notes
 
 
 
