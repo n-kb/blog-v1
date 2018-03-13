@@ -24,3 +24,4 @@ Pipfile.lock
 .venv
 venv
 .ipynb_checkpoints
+.~*
