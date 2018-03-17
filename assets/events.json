@@ -2356,5 +2356,38 @@
     "type": "Article",
     "text": "",
     "location": ""
+  },
+  {
+    "title": "Comment une industrie a raté le virage des données et du numérique",
+    "startdate": "2018-03-07T00:00:00.000Z",
+    "enddate": "2018-03-07T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/medias-numerique",
+    "type": "Conference",
+    "text": "Conférence à la Société Générale",
+    "location": "Paris"
+  },{
+    "title": "Pocket Pipe, a simple tool to free yourself from Twitter",
+    "startdate": "2018-02-20T00:00:00.000Z",
+    "enddate": "2018-02-20T00:00:00.000Z",
+    "url": "https://github.com/n-kb/pocket-pipe",
+    "type": "Project",
+    "text": "",
+    "location": ""
+  },{
+    "title": "Assemblée Nationale: Teaching MPs about corruption in public budgets",
+    "startdate": "2018-03-06T00:00:00.000Z",
+    "enddate": "2018-03-06T00:00:00.000Z",
+    "url": "http://videos.assemblee-nationale.fr/video.5629134_5a9e48bc62299.groupe-de-travail-democratie-numerique--table-ronde-sur-la-dimension-participative-dans-l-elaborati-6-mars-2018",
+    "type": "Training",
+    "text": "",
+    "location": "Paris"
+  },{
+    "title": "Webinar: Data sources in Germany and Europe",
+    "startdate": "2017-12-19T00:00:00.000Z",
+    "enddate": "2017-12-19T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/data-germany-europe",
+    "type": "Training",
+    "text": "",
+    "location": ""
   }
 ]
