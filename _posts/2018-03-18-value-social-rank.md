@@ -2,7 +2,7 @@
 layout: post
 title: "Everything we know about price formation is wrong"
 category: posts
-image: "images/.jpg"
+image: "images/schatz_1927.jpg"
 description: "Classical economics got the concept of value wrong."
 ---
 
@@ -91,6 +91,8 @@ Another consequence of this theory is the relative importance of cultural artifa
 This theory might be a tautological brain fart, but it was fun to write. As I've argued before,<sup><a name='note_15' id='#note_15' class='note_anchor' href='#foot_15'>15</a></sup> I believe that much of the analytical framework we use to understand the world is sinking along with the liberal order upon which it grew. As the era opened with the Enlightenment is coming to a close, people interested in understanding the world should feel less constrained by older theories.
 
 New ideas are needed. If you know of any - I'm always interested in reading suggestions - do [add them to the issues of this blog](https://github.com/n-kb/n-kb.github.io/issues/new). Thanks for reading!
+
+_Cover illustration: Otto Rudolf Schatz, Fabrik, 1927_
 
 	
 
