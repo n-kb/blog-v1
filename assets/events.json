@@ -2389,5 +2389,29 @@
     "type": "Training",
     "text": "",
     "location": ""
+  },{
+    "title": "Facing Evil",
+    "startdate": "2018-04-04T00:00:00.000Z",
+    "enddate": "2018-04-04T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/facing-evil",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },{
+    "title": "Denial",
+    "startdate": "2018-03-31T00:00:00.000Z",
+    "enddate": "2018-03-31T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/denial",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },{
+    "title": "Find out what the weather was like compared with previous years",
+    "startdate": "2018-04-11T00:00:00.000Z",
+    "enddate": "2018-04-11T00:00:00.000Z",
+    "url": "http://home.bt.com/news/science-news/this-weather-bot-helps-put-todays-temperature-into-context-11364262659269",
+    "type": "Interview",
+    "text": "",
+    "location": ""
   }
 ]
