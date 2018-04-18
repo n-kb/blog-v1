@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Online, everyone's a media - Online journalism 3/3"
-image: "images/davringhausen_1920.jpg"
-description: "The scope of journalism changed with the web, but not everything has changed."
+image: "images/hausmann_1916.jpg"
+description: "The scope of journalism changed with the web but the media industry remains a pillar of journalism."
 category: posts
 ---
 
-_This is the third of three introductory lectures in online journalism I gave at the Akademie Mode & Design in Berlin._
+_This is the third of three introductory lectures in online journalism I gave at the Akademie Mode & Design in Berlin. Part 1 was [The media and the internet: The history of a failure](http://blog.nkb.fr/media-internet) and part 2 was [From digital sweatshops to the integrated newsroom](http://blog.nkb.fr/sweatshop-integrated-newsroom)._
 
 On July 20, 2012, a man open fire at a movie theater in Aurora, Colorado. In the hours following the shooting, an 18-year-old living nearby gathered all the information available on the massacre and posted it on Reddit, a social network. With the help of other users, he was able to provide the best, most up-to-date summary of events (he also uncovered information the police hadn't).<sup><a name='note_1' id='#note_1' class='note_anchor' href='#foot_1'>1</a></sup> When asked why he did it, he simply said that "[he felt] like [he was] helping out people who needed to know this stuff."<sup><a name='note_2' id='#note_2' class='note_anchor' href='#foot_2'>2</a></sup>
 
@@ -65,6 +65,8 @@ Sometimes, professional media organizations do support these solo journalists. G
 ***
 
 The web did allow some organizations (companies, political parties) to bypass the media. However, the oligopoly of a few companies over the attention of the population (Google, Facebook, Apple) created a new barrier that only the most wealthy can overcome. For the rest, there remain the possibility to reach large audiences on Youtube or Snapchat, or on a political blog. Despite the novelty, these Youtubers or nonprofessional journalists remain closely associated with traditional media companies, who are essential to their distribution, monetization and protection.
+
+_Cover illustration: Raoul Hausmann, ABCD, 1923._
 
 
 
