@@ -10,7 +10,7 @@ Vor einer Woche war ich mit - teilweise französischen - Freunden auf dem Rad un
 
 Ich wollte zuerst angreifen, zum Glück errinerte ich mich früh genug, dass ich 60 Kilos wiegte und dass ich schon bei _Street Fighter_ auf dem _Game Gear_ keinen Straßenkampf gewinnen könnte. Also kam der gewaltbereite Fahrradfahrer und fang eine lange Schimpftirade an. Ich war von seinem Aussehen beeindrückt, so nah an mir er erschien. Er war Anfang dreißig (wie ich), hatte ein cooles Fixie (wie ich), trug doofe Designer-Sonnenbrille (wie ich) und konnte sehr gut auf Deutsch schimpfen (ich nicht).
 
-Er erzählte, dass ich ihn im Weg gestanden habe und dass er, weil er es so eilig hatte, natürlich geschlagen habe. In Berlin sei es so, sagte er. Zehn Minuten lang versuchte ich ihn zu erklären, dass er, wenn seine Eile wircklich so groß war, besser gehen sollte. Anscheinend war seine Bedürfnis, uns zu beleidigen, noch größer. Endlich haute er ab, und dann sagte er das letzte Wort:
+Er erzählte, dass ich ihn im Weg gestanden habe und dass er, weil er es eilig hatte, natürlich geschlagen habe. In Berlin sei es so, sagte er. Zehn Minuten lang versuchte ich ihn zu erklären, dass er, wenn seine Eile wircklich so groß war, besser gehen sollte. Anscheinend war seine Bedürfnis, uns zu beleidigen, noch größer. Endlich haute er ab, und dann sagte er das letzte Wort:
 
 "Froschfresser!"
 
