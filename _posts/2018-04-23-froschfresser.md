@@ -8,13 +8,13 @@ description: "Ich wurde Opfer einer fremfeindlichen Beleidigung. Jetzt wehre ich
 
 Vor einer Woche war ich mit - teilweise französischen - Freunden auf dem Rad unterwegs. Plötzlich kam mir ein anderer Radfahrer entgegen, der auf dem Gehweg und in der Falsche Richtung fuhr. Anstatt zu bremsen (oder noch besser: zu dem richtigen Radweg, gegenüber, zu wechseln), schlug er mich ziemlich hart an die Schulter und fuhr weiter. Ich schimpfte laut. Der Typ drehte sich um und fuhr langsam zurück zu uns.
 
-Ich wollte zuerst angreifen, zum Glück erinnerte ich mich früh genug, dass ich 60 Kilos wiegte und dass ich schon bei _Street Fighter_ auf dem _Game Gear_ keinen Straßenkampf gewinnen könnte. Also kam der gewaltbereite Fahrradfahrer und fang eine lange Schimpftirade an. Ich war von seinem Aussehen beeindruckt, er erschien mir so nah. Er war Anfang dreißig (wie ich), hatte ein cooles Fixie (wie ich), trug eine doofe Designer-Sonnenbrille (wie ich) und konnte sehr gut auf Deutsch schimpfen (ich nicht).
+Ich wollte zuerst angreifen, zum Glück erinnerte ich mich früh genug, dass ich 60 Kilos wiegte und dass ich schon bei _Street Fighter_ auf dem _Game Gear_ keinen Straßenkampf gewinnen könnte. Also kam der gewaltbereite Fahrradfahrer und fang eine lange Schimpftirade an. Ich war von seinem Aussehen beeindruckt, er erschien mir so nah. Er war Anfang dreißig (wie ich), hatte ein cooles Fixie (wie ich), trug eine doofe Designer-Sonnenbrille (wie ich) und konnte AfD-ähnliche Slogans ernsthaft deklamieren (ich nicht).
 
 Er erzählte, dass ich ihm im Weg gestanden habe und dass er, weil er es eilig hatte, natürlich geschlagen habe. In Berlin sei es so, sagte er. Zehn Minuten lang versuchte ich ihm zu erklären, dass er, wenn seine Eile wirklich so groß war, besser gehen sollte. Anscheinend war sein Bedürfnis, uns zu beleidigen, noch größer. Endlich haute er ab und dann sagte er das letzte Wort:
 
 "Froschfresser!"
 
-Ich war entsetzt. Ich, ein weißer Mann, sollte der sein, der von Rassismus und Fremdenfeindlichkeit verdächtig sein sollte. Opfer davon zu sein kam mich nie wirklich wie eine Möglichkeit vor.
+Ich war entsetzt. Ich, ein weißer Mann, sollte der sein, der von Fremdenfeindlichkeit verdächtig sein sollte. Opfer davon zu sein kam mich nie wirklich wie eine Möglichkeit vor.
 
 "Froschfresser" kommt vermutlich aus dem goldenen Zeitalter der europäischen Nationalismen, aus der Zeit um den ersten Weltkrieg. Leider konnte ich der Ursprung des Wortes nicht bestätigen, denn die Digitalisierung deutscher Archive geht noch langsamer als die Bauarbeit am BER. (Nur eine [Belgische Zeitschrift](http://gallica.bnf.fr/ark:/12148/bpt6k5415412c/f281.image.r=froschfresser?rk=21459;2) schrieb 1936, dass Froschfresser der Äquivalent von "Boche" oder "Hun" für Deutsche war). Obwohl [einige deutschen](https://dict.leo.org/forum/viewWrongentry.php?idThread=36762&idForum=6&lang=de&lp=ende) es als Spitzname nutzen, belibt das Wort sehr abwertend, ähnlich etwa zu "Neger" oder "Schlitzaugen".
 
