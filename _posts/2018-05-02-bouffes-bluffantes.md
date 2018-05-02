@@ -2,7 +2,7 @@
 layout: post
 title: "Pourquoi j'ai écrit « Bouffes Bluffantes »"
 category: posts
-image: "images/bouffes_bluffantes.png"
+image: "images/bouffes_bluffantes.jpg"
 description: "Bouffes Bluffantes – la véritable histoire de la nourriture, de la préhistoire au kebab, 120 pages, 14€."
 ---
 
