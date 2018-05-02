@@ -6,7 +6,7 @@ category: posts
 
 The concept of "Eastern Europe" was born after the second world war, when the Allied powers agreed on spheres of influence on both sides of the Iron Curtain. The Soviet half received that name, as opposed to "Western Europe". When the Soviet (then Russian) armies left the region, in the early 1990's, the name stuck. Eleven countries of the European Union are still grouped together under a single name, for no reason other than habit. 
 
-This intellectual laziness allows provides ready-made answers to any question about the region. If Poles or Czechs behave in a specific way, it is probably due to their "Eastern Europeanness", the thinking goes. This view is mistaken. Such prejudice clouds the mind when trying to think about European issues and prevents the emergence of truly European analyses.
+This intellectual laziness provides ready-made answers to any question about the region. If Poles or Czechs behave in a specific way, it is probably due to their "Eastern Europeanness", the thinking goes. This view is mistaken. Such prejudice clouds the mind when trying to think about European issues and prevents the emergence of truly European analyses.
 
 ### "Eastern Europe" as a concept
 
@@ -22,7 +22,7 @@ Sharing 40 years of Soviet occupation does provide for similarities. Goods from 
 
 There are other differences. 40 years behind an Iron Curtain prevented socialist countries from experiencing immigration from colonies of other European countries. Few Muslims<sup><a name='note_2' href='#foot_2'>2</a></sup> or Blacks live in post-socialist Europe (immigration from Vietnam and other countries under Soviet influence is another difference, but the scale of this immigration to socialist Europe was different).
 
-Post-socialist countries are finally different for what they did _not_ do. They are not heir to governments that cut the hands of millions, like Belgium did in the Congo<sup><a name='note_3' href='#foot_3'>3</a></sup>. They are not heir to governments that organized public beheading of independence fighters (sometimes in front of school children), like France did in Cameroon<sup><a name='note_4' href='#foot_4'>4</a></sup>. They are not heir to governments that shot down entire villages, like the Netherlands did in Indonesia<sup><a name='note_5' href='#foot_5'>5</a></sup>.
+Post-socialist countries are finally different for what they did _not_ do. They are not heir to governments that cut the hands of millions, like Belgium did in the Congo<sup><a name='note_3' href='#foot_3'>3</a></sup>. They are not heir to governments that organized public beheading of independence fighters (sometimes in front of school children), like France did in Cameroon<sup><a name='note_4' href='#foot_4'>4</a></sup>. They are not heir to governments that shot down entire villages, like the Netherlands did in Indonesia<sup><a name='note_5' href='#foot_5'>5</a></sup>. (Many post-socialist countries do have horrible histories with which they barely engage, but this trait is not specific to them).
 
 ### Where there is no difference
 
@@ -34,7 +34,7 @@ When journalists or analysts see an Eastern European trait to some of the polici
 
 By looking to the socialist past to explain current trends in these countries, they fail to grasp the wider, European factors that influence politics. Nationalists in Poland and France use the same techniques and rely on the same feelings to push their agendas. There are differences, of course. But these differences are merely variations of the same rationale, not fundamental divergences.
 
-Why do the concepts of "Eastern" and "Western" Europe remain, 25 years after the collapse of the Soviet Union, if the blocs they represent disappeared? I see two reasons. The first is the historical construct of "Eastern Europe" by Paris, London and Berlin as a group of inferior countries. The other is the political construct of "Western Europe" by reformists in post-socialist societies.
+Why do the concepts of "Eastern" and "Western" Europe remain, 25 years after the collapse of the Soviet Union, if the blocs they represent disappeared? I see two reasons. The first is the historical construct of "Eastern Europe" by Paris, London and Bonn as a group of inferior countries. The other is the political construct of "Western Europe" by reformists in post-socialist societies.
 
 ### Prejudice as an escape from guilt
 
