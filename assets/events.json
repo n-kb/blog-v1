@@ -2421,5 +2421,68 @@
     "type": "Interview",
     "text": "",
     "location": ""
+  },
+  {
+    "title": "Datenjournalismus Seminar für die Media Ambassadors India – Germany",
+    "startdate": "2018-05-08T00:00:00.000Z",
+    "enddate": "2018-05-08T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Tübingen"
+  },
+  {
+    "title": "Onlinejournalismus an der AMD",
+    "startdate": "2018-04-23T00:00:00.000Z",
+    "enddate": "2018-04-23T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/media-internet",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Onlinejournalismus an der AMD",
+    "startdate": "2018-05-03T00:00:00.000Z",
+    "enddate": "2018-05-03T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/media-internet",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },
+  {
+    "title": "Startup Weekend NCube",
+    "startdate": "2018-04-14T00:00:00.000Z",
+    "enddate": "2018-04-15T00:00:00.000Z",
+    "url": "http://www.ouestmedialab.fr/48h-developper-projet-de-media-immersion-sein-media-mix-week-end/",
+    "type": "Training",
+    "text": "",
+    "location": "Nantes"
+  },
+  {
+    "title": "Honest Rankings",
+    "startdate": "2018-05-07T00:00:00.000Z",
+    "enddate": "2018-05-07T00:00:00.000Z",
+    "url": "http://honest-rankings.herokuapp.com/",
+    "type": "Project",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Bouffes Bluffantes - la véritable histoire de l'alimentation",
+    "startdate": "2018-05-03T00:00:00.000Z",
+    "enddate": "2018-05-03T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/bouffes-bluffantes",
+    "type": "Project",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Froschfresser",
+    "startdate": "2018-04-24T00:00:00.000Z",
+    "enddate": "2018-04-24T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/froschfresser",
+    "type": "Article",
+    "text": "",
+    "location": ""
   }
 ]
