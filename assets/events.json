@@ -2491,7 +2491,7 @@
     "url": "http://www.rtbf.be/embed/m/partner/groupepresse/sudpresse_video?id=2353523",
     "type": "Interview",
     "text": "",
-    "location": ""
+    "location": "Bruxelles"
   },{
     "title": "Dataharvest - Trainers day",
     "startdate": "2018-05-24T00:00:00.000Z",
@@ -2499,6 +2499,46 @@
     "url": "http://archive.is/225Tv",
     "type": "Conference",
     "text": "",
-    "location": ""
+    "location": "Mechelen"
+  },{
+    "title": "HEG - 100id",
+    "startdate": "2018-06-21T00:00:00.000Z",
+    "enddate": "2018-06-21T00:00:00.000Z",
+    "url": "http://archive.is/4luyz",
+    "type": "Conference",
+    "text": "",
+    "location": "Genève"
+  },{
+    "title": "Datajournalisme - IRD",
+    "startdate": "2018-06-12T00:00:00.000Z",
+    "enddate": "2018-06-14T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Marseilles"
+  },{
+    "title": "Scraping avec Python - Radio France",
+    "startdate": "2018-06-18T00:00:00.000Z",
+    "enddate": "2018-06-20T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Paris"
+  },{
+    "title": "Code & Journalism - HMKW",
+    "startdate": "2018-06-22T00:00:00.000Z",
+    "enddate": "2018-06-22T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
+  },{
+    "title": "Big Data & Journalism - Studienstiftung",
+    "startdate": "2018-06-23T00:00:00.000Z",
+    "enddate": "2018-06-23T00:00:00.000Z",
+    "url": "",
+    "type": "Conference",
+    "text": "",
+    "location": "Berlin"
   }
 ]
