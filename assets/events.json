@@ -2548,5 +2548,32 @@
     "type": "Training",
     "text": "",
     "location": "Berlin"
+  },
+  {
+    "title": "Europe's most dangerous city for cyclists",
+    "startdate": "2018-07-03T00:00:00.000Z",
+    "enddate": "2018-07-03T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/danger-cyclists/",
+    "type": "Article",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Geo News Challenge",
+    "startdate": "2018-07-11T00:00:00.000Z",
+    "enddate": "2018-07-11T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/news-geochallenge/",
+    "type": "Project",
+    "text": "",
+    "location": ""
+  },
+  {
+    "title": "Code & Journalism - HMKW",
+    "startdate": "2018-07-06T00:00:00.000Z",
+    "enddate": "2018-07-06T00:00:00.000Z",
+    "url": "",
+    "type": "Training",
+    "text": "",
+    "location": "Berlin"
   }
 ]
