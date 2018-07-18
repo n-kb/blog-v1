@@ -2575,5 +2575,14 @@
     "type": "Training",
     "text": "",
     "location": "Berlin"
+  },
+  {
+    "title": "Le silence des mollusques",
+    "startdate": "2018-07-18T00:00:00.000Z",
+    "enddate": "2018-07-18T00:00:00.000Z",
+    "url": "http://blog.nkb.fr/oysters/",
+    "type": "Article",
+    "text": "",
+    "location": ""
   }
 ]
